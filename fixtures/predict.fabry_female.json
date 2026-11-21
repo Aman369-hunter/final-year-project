@@ -1,0 +1,227 @@
+{
+  "request_id": "fx-0002-fabry-female",
+  "generated_at": "2026-11-15T10:32:00Z",
+  "predictions": [
+    {
+      "disease": "fabry",
+      "display_name": "Fabry disease",
+      "raw_score": 55,
+      "max_possible_score": 130,
+      "absolute_risk": 0.423,
+      "relative_probability": 0.879,
+      "rank": 1
+    },
+    {
+      "disease": "pompe",
+      "display_name": "Pompe disease",
+      "raw_score": 2,
+      "max_possible_score": 130,
+      "absolute_risk": 0.015,
+      "relative_probability": 0.026,
+      "rank": 2
+    },
+    {
+      "disease": "krabbe",
+      "display_name": "Krabbe disease",
+      "raw_score": 2,
+      "max_possible_score": 125,
+      "absolute_risk": 0.016,
+      "relative_probability": 0.026,
+      "rank": 3
+    },
+    {
+      "disease": "gaucher",
+      "display_name": "Gaucher disease",
+      "raw_score": 0,
+      "max_possible_score": 120,
+      "absolute_risk": 0.0,
+      "relative_probability": 0.023,
+      "rank": 4
+    },
+    {
+      "disease": "mps1",
+      "display_name": "Mucopolysaccharidosis type I (Hurler)",
+      "raw_score": 0,
+      "max_possible_score": 120,
+      "absolute_risk": 0.0,
+      "relative_probability": 0.023,
+      "rank": 5
+    },
+    {
+      "disease": "niemann_pick_c",
+      "display_name": "Niemann-Pick disease type C",
+      "raw_score": 0,
+      "max_possible_score": 110,
+      "absolute_risk": 0.0,
+      "relative_probability": 0.023,
+      "rank": 6
+    }
+  ],
+  "risk_level": "MODERATE",
+  "risk_basis": "absolute_risk",
+  "confidence": {
+    "level": "high",
+    "missing_inputs": [],
+    "note": "Genetics, enzyme, biomarker, symptom and device vitals all supplied. Enzyme activity can be near-normal in heterozygous females, so genetics and Lyso-Gb3 carry most weight."
+  },
+  "factors": [
+    {
+      "category": "genetic",
+      "feature": "GLA",
+      "label": "Pathogenic GLA variant",
+      "value": "c.644A>G heterozygous",
+      "points": 20,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "ref:PLACEHOLDER_clinvar_gla"
+    },
+    {
+      "category": "genetic",
+      "feature": "GLA_xlinked_female",
+      "label": "X-linked heterozygous female modifier",
+      "value": "heterozygous female",
+      "points": 8,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "ref:PLACEHOLDER_fabry_xlinked_modifier"
+    },
+    {
+      "category": "enzyme",
+      "feature": "GLA",
+      "label": "alpha-Gal A borderline low",
+      "value": "2.9 nmol/h/mL",
+      "points": 6,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "ref:PLACEHOLDER_gla_range_01"
+    },
+    {
+      "category": "biomarker",
+      "feature": "lyso_Gb3",
+      "label": "Lyso-Gb3 mildly raised",
+      "value": "4.1 ng/mL",
+      "points": 8,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "ref:PLACEHOLDER_lyso_gb3_cutoff"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0003401",
+      "label": "Burning pain in hands and feet (acroparesthesia)",
+      "value": "severity 2",
+      "points": 6,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "ref:PLACEHOLDER_hpo_freq_fabry"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0000966",
+      "label": "Reduced sweating (hypohidrosis)",
+      "value": "severity 1",
+      "points": 2,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "ref:PLACEHOLDER_hpo_freq_fabry"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0000093",
+      "label": "Proteinuria",
+      "value": "severity 1",
+      "points": 2,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "ref:PLACEHOLDER_hpo_freq_fabry"
+    },
+    {
+      "category": "vitals",
+      "feature": "ecg.arrhythmia_flag",
+      "label": "Arrhythmia flagged on device ECG (supporting evidence)",
+      "value": "arrhythmia_flag true",
+      "points": 3,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "ref:PLACEHOLDER_fabry_cardiac"
+    },
+    {
+      "category": "vitals",
+      "feature": "ecg.arrhythmia_flag",
+      "label": "Arrhythmia flagged on device ECG (supporting evidence)",
+      "value": "arrhythmia_flag true",
+      "points": 2,
+      "direction": "increases",
+      "disease": "pompe",
+      "citation": "ref:PLACEHOLDER_pompe_cardiac"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0003401",
+      "label": "Burning pain in hands and feet",
+      "value": "severity 2",
+      "points": 2,
+      "direction": "increases",
+      "disease": "krabbe",
+      "citation": "ref:PLACEHOLDER_hpo_freq_krabbe"
+    }
+  ],
+  "category_scores": {
+    "enzyme": 6,
+    "genetic": 28,
+    "symptom": 10,
+    "biomarker": 8,
+    "vitals": 3
+  },
+  "inheritance": {
+    "applicable": true,
+    "mode": "x_linked",
+    "punnett": {
+      "affected_pct": 25.0,
+      "carrier_pct": 25.0,
+      "unaffected_pct": 50.0
+    },
+    "note": "Mother heterozygous, father unaffected: each son has a 50% chance of being affected; each daughter has a 50% chance of being heterozygous. Heterozygous females are frequently symptomatic and should not be treated as unaffected carriers."
+  },
+  "recommendations": {
+    "confirmatory_tests": [
+      {
+        "test": "Plasma Lyso-Gb3 repeat",
+        "priority": "high",
+        "rationale": "Enzyme activity is unreliable in heterozygous females; Lyso-Gb3 tracks disease burden."
+      },
+      {
+        "test": "Echocardiogram and 24-hour Holter",
+        "priority": "high",
+        "rationale": "Assesses cardiac involvement suggested by the device arrhythmia flag."
+      },
+      {
+        "test": "Urine albumin-to-creatinine ratio, eGFR",
+        "priority": "medium",
+        "rationale": "Quantifies renal involvement."
+      },
+      {
+        "test": "Cascade GLA testing of relatives",
+        "priority": "medium",
+        "rationale": "X-linked: brothers and children may carry the variant."
+      }
+    ],
+    "treatment_pathways": [
+      {
+        "name": "Enzyme Replacement Therapy (ERT)",
+        "stage": "post-confirmation"
+      },
+      {
+        "name": "Oral chaperone therapy (amenable variants only)",
+        "stage": "post-confirmation"
+      }
+    ],
+    "referral": "Refer to a medical geneticist or metabolic specialist; involve cardiology and nephrology."
+  },
+  "model": {
+    "engine_version": "0.3.0",
+    "mode": "rule_based",
+    "weights_version": "PLACEHOLDER_2026-11-15"
+  },
+  "disclaimer": "This output is a screening aid, not a diagnosis. All results must be reviewed by a qualified clinician and confirmed by laboratory testing."
+}

@@ -1,0 +1,263 @@
+{
+  "request_id": "fx-0003-ambiguous",
+  "generated_at": "2026-11-15T10:32:00Z",
+  "predictions": [
+    {
+      "disease": "niemann_pick_c",
+      "display_name": "Niemann-Pick disease type C",
+      "raw_score": 35,
+      "max_possible_score": 110,
+      "absolute_risk": 0.318,
+      "relative_probability": 0.454,
+      "rank": 1
+    },
+    {
+      "disease": "gaucher",
+      "display_name": "Gaucher disease",
+      "raw_score": 29,
+      "max_possible_score": 120,
+      "absolute_risk": 0.242,
+      "relative_probability": 0.304,
+      "rank": 2
+    },
+    {
+      "disease": "mps1",
+      "display_name": "Mucopolysaccharidosis type I (Hurler)",
+      "raw_score": 8,
+      "max_possible_score": 120,
+      "absolute_risk": 0.067,
+      "relative_probability": 0.075,
+      "rank": 3
+    },
+    {
+      "disease": "krabbe",
+      "display_name": "Krabbe disease",
+      "raw_score": 6,
+      "max_possible_score": 125,
+      "absolute_risk": 0.048,
+      "relative_probability": 0.066,
+      "rank": 4
+    },
+    {
+      "disease": "pompe",
+      "display_name": "Pompe disease",
+      "raw_score": 4,
+      "max_possible_score": 130,
+      "absolute_risk": 0.031,
+      "relative_probability": 0.057,
+      "rank": 5
+    },
+    {
+      "disease": "fabry",
+      "display_name": "Fabry disease",
+      "raw_score": 0,
+      "max_possible_score": 130,
+      "absolute_risk": 0.0,
+      "relative_probability": 0.044,
+      "rank": 6
+    }
+  ],
+  "risk_level": "MODERATE",
+  "risk_basis": "absolute_risk",
+  "confidence": {
+    "level": "low",
+    "missing_inputs": [
+      "enzymes",
+      "genetics",
+      "vitals"
+    ],
+    "note": "Symptoms and one non-specific biomarker only. Niemann-Pick C and Gaucher are close and cannot be separated without GBA activity, oxysterols or NPC1/NPC2 genetics."
+  },
+  "factors": [
+    {
+      "category": "symptom",
+      "feature": "HP:0001744",
+      "label": "Splenomegaly",
+      "value": "severity 2",
+      "points": 10,
+      "direction": "increases",
+      "disease": "niemann_pick_c",
+      "citation": "ref:PLACEHOLDER_hpo_freq_npc"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001251",
+      "label": "Unsteady walking (ataxia)",
+      "value": "severity 2",
+      "points": 8,
+      "direction": "increases",
+      "disease": "niemann_pick_c",
+      "citation": "ref:PLACEHOLDER_hpo_freq_npc"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001263",
+      "label": "Developmental delay",
+      "value": "severity 1",
+      "points": 4,
+      "direction": "increases",
+      "disease": "niemann_pick_c",
+      "citation": "ref:PLACEHOLDER_hpo_freq_npc"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0002240",
+      "label": "Hepatomegaly",
+      "value": "severity 1",
+      "points": 4,
+      "direction": "increases",
+      "disease": "niemann_pick_c",
+      "citation": "ref:PLACEHOLDER_hpo_freq_npc"
+    },
+    {
+      "category": "biomarker",
+      "feature": "chitotriosidase",
+      "label": "Chitotriosidase raised (non-specific)",
+      "value": "310 nmol/h/mL",
+      "points": 9,
+      "direction": "increases",
+      "disease": "niemann_pick_c",
+      "citation": "ref:PLACEHOLDER_chito_cutoff"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001744",
+      "label": "Splenomegaly",
+      "value": "severity 2",
+      "points": 12,
+      "direction": "increases",
+      "disease": "gaucher",
+      "citation": "ref:PLACEHOLDER_hpo_freq_gaucher"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0002240",
+      "label": "Hepatomegaly",
+      "value": "severity 1",
+      "points": 6,
+      "direction": "increases",
+      "disease": "gaucher",
+      "citation": "ref:PLACEHOLDER_hpo_freq_gaucher"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001263",
+      "label": "Developmental delay",
+      "value": "severity 1",
+      "points": 2,
+      "direction": "increases",
+      "disease": "gaucher",
+      "citation": "ref:PLACEHOLDER_hpo_freq_gaucher"
+    },
+    {
+      "category": "biomarker",
+      "feature": "chitotriosidase",
+      "label": "Chitotriosidase raised (non-specific)",
+      "value": "310 nmol/h/mL",
+      "points": 9,
+      "direction": "increases",
+      "disease": "gaucher",
+      "citation": "ref:PLACEHOLDER_chito_cutoff"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001263",
+      "label": "Developmental delay",
+      "value": "severity 1",
+      "points": 4,
+      "direction": "increases",
+      "disease": "mps1",
+      "citation": "ref:PLACEHOLDER_hpo_freq_mps1"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0002240",
+      "label": "Hepatomegaly",
+      "value": "severity 1",
+      "points": 4,
+      "direction": "increases",
+      "disease": "mps1",
+      "citation": "ref:PLACEHOLDER_hpo_freq_mps1"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001251",
+      "label": "Unsteady walking (ataxia)",
+      "value": "severity 1",
+      "points": 4,
+      "direction": "increases",
+      "disease": "krabbe",
+      "citation": "ref:PLACEHOLDER_hpo_freq_krabbe"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001263",
+      "label": "Developmental delay",
+      "value": "severity 1",
+      "points": 2,
+      "direction": "increases",
+      "disease": "krabbe",
+      "citation": "ref:PLACEHOLDER_hpo_freq_krabbe"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001263",
+      "label": "Developmental delay",
+      "value": "severity 1",
+      "points": 2,
+      "direction": "increases",
+      "disease": "pompe",
+      "citation": "ref:PLACEHOLDER_hpo_freq_pompe"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0002240",
+      "label": "Hepatomegaly",
+      "value": "severity 1",
+      "points": 2,
+      "direction": "increases",
+      "disease": "pompe",
+      "citation": "ref:PLACEHOLDER_hpo_freq_pompe"
+    }
+  ],
+  "category_scores": {
+    "enzyme": 0,
+    "genetic": 0,
+    "symptom": 26,
+    "biomarker": 9,
+    "vitals": 0
+  },
+  "inheritance": {
+    "applicable": false,
+    "mode": "autosomal_recessive",
+    "punnett": null,
+    "note": "No parental genotype or family history supplied; inheritance not assessed."
+  },
+  "recommendations": {
+    "confirmatory_tests": [
+      {
+        "test": "GBA enzyme activity (DBS)",
+        "priority": "high",
+        "rationale": "Separates Gaucher from Niemann-Pick C in one assay."
+      },
+      {
+        "test": "Plasma oxysterols / lyso-SM-509",
+        "priority": "high",
+        "rationale": "Niemann-Pick C biomarkers; NPC has no simple enzyme assay."
+      },
+      {
+        "test": "NPC1 / NPC2 sequencing",
+        "priority": "medium",
+        "rationale": "Confirms Niemann-Pick C if biomarkers are raised."
+      }
+    ],
+    "treatment_pathways": [],
+    "referral": "Refer to a metabolic specialist for further work-up before any treatment discussion."
+  },
+  "model": {
+    "engine_version": "0.3.0",
+    "mode": "rule_based",
+    "weights_version": "PLACEHOLDER_2026-11-15"
+  },
+  "disclaimer": "This output is a screening aid, not a diagnosis. All results must be reviewed by a qualified clinician and confirmed by laboratory testing."
+}

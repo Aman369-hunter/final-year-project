@@ -1,0 +1,42 @@
+{
+  "patient": {
+    "age_years": 4.2,
+    "sex": "female"
+  },
+  "symptoms": [
+    {
+      "hpo_id": "HP:0001744",
+      "label": "Splenomegaly",
+      "present": true,
+      "severity": 2
+    },
+    {
+      "hpo_id": "HP:0001251",
+      "label": "Ataxia",
+      "present": true,
+      "severity": 2
+    },
+    {
+      "hpo_id": "HP:0001263",
+      "label": "Developmental delay",
+      "present": true,
+      "severity": 1
+    },
+    {
+      "hpo_id": "HP:0002240",
+      "label": "Hepatomegaly",
+      "present": true,
+      "severity": 1
+    }
+  ],
+  "labs": {
+    "biomarkers": [
+      {
+        "analyte": "chitotriosidase",
+        "value": 310,
+        "unit": "nmol/h/mL",
+        "reference_high": 150
+      }
+    ]
+  }
+}

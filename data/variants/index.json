@@ -1,0 +1,42 @@
+{
+  "GBA1": {
+    "disease": "gaucher",
+    "count": 387,
+    "file": "variants/GBA1.json"
+  },
+  "GAA": {
+    "disease": "pompe",
+    "count": 932,
+    "file": "variants/GAA.json"
+  },
+  "IDUA": {
+    "disease": "mps1",
+    "count": 638,
+    "file": "variants/IDUA.json"
+  },
+  "NPC1": {
+    "disease": "niemann_pick_c",
+    "count": 732,
+    "file": "variants/NPC1.json"
+  },
+  "GALC": {
+    "disease": "krabbe",
+    "count": 449,
+    "file": "variants/GALC.json"
+  },
+  "NPC2": {
+    "disease": "niemann_pick_c",
+    "count": 82,
+    "file": "variants/NPC2.json"
+  },
+  "SMPD1": {
+    "disease": "niemann_pick_ab",
+    "count": 422,
+    "file": "variants/SMPD1.json"
+  },
+  "GLA": {
+    "disease": "fabry",
+    "count": 1350,
+    "file": "variants/GLA.json"
+  }
+}

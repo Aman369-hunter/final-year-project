@@ -1,0 +1,102 @@
+{
+  "patient": {
+    "age_years": 10.1,
+    "sex": "male",
+    "consanguinity": false,
+    "ethnicity": "south_asian",
+    "family_history": {
+      "affected_relative": false
+    }
+  },
+  "symptoms": [
+    {
+      "hpo_id": "HP:0012378",
+      "label": "Fatigue",
+      "present": true,
+      "severity": 1
+    },
+    {
+      "hpo_id": "HP:0001744",
+      "label": "Splenomegaly",
+      "present": false,
+      "severity": 0
+    },
+    {
+      "hpo_id": "HP:0001250",
+      "label": "Seizure",
+      "present": false,
+      "severity": 0
+    },
+    {
+      "hpo_id": "HP:0003401",
+      "label": "Burning pain in hands and feet",
+      "present": false,
+      "severity": 0
+    }
+  ],
+  "labs": {
+    "enzymes": [
+      {
+        "analyte": "GBA",
+        "value": 11.4,
+        "unit": "nmol/h/mL",
+        "assay": "DBS",
+        "reference_low": 4.5,
+        "reference_high": 20
+      },
+      {
+        "analyte": "alpha_Gal_A",
+        "value": 9.6,
+        "unit": "nmol/h/mL",
+        "assay": "DBS",
+        "reference_low": 3,
+        "reference_high": 12.3
+      },
+      {
+        "analyte": "GAA",
+        "value": 14.2,
+        "unit": "nmol/h/mL",
+        "assay": "DBS",
+        "reference_low": 7,
+        "reference_high": 24
+      }
+    ],
+    "biomarkers": [
+      {
+        "analyte": "lyso_Gb1",
+        "value": 2.1,
+        "unit": "ng/mL",
+        "reference_high": 9
+      }
+    ],
+    "routine": {
+      "hemoglobin_g_dl": 13.4,
+      "platelets_10e9_l": 260,
+      "ck_u_l": 110
+    }
+  },
+  "genetics": {
+    "tested": true,
+    "findings": [],
+    "parents": {
+      "mother_genotype": "unknown",
+      "father_genotype": "unknown"
+    }
+  },
+  "vitals": {
+    "source": "device",
+    "heart_rate_bpm": 84,
+    "spo2_pct": 99,
+    "temperature_c": 36.8,
+    "respiratory_rate_bpm": 18,
+    "ecg": {
+      "rhythm": "sinus",
+      "qrs_ms": 88,
+      "arrhythmia_flag": false
+    },
+    "activity": {
+      "tremor_index": 0.02,
+      "mobility_score": 0.97
+    }
+  }
+}

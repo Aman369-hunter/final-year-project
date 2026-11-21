@@ -1,0 +1,175 @@
+{
+  "predictions": [
+    {
+      "disease": "gaucher",
+      "display_name": "Gaucher disease",
+      "raw_score": 0,
+      "max_possible_score": 130,
+      "absolute_risk": 0,
+      "relative_probability": 0.167,
+      "rank": 1
+    },
+    {
+      "disease": "fabry",
+      "display_name": "Fabry disease",
+      "raw_score": 0,
+      "max_possible_score": 130,
+      "absolute_risk": 0,
+      "relative_probability": 0.167,
+      "rank": 2
+    },
+    {
+      "disease": "pompe",
+      "display_name": "Pompe disease",
+      "raw_score": 0,
+      "max_possible_score": 130,
+      "absolute_risk": 0,
+      "relative_probability": 0.167,
+      "rank": 3
+    },
+    {
+      "disease": "mps1",
+      "display_name": "Mucopolysaccharidosis type I",
+      "raw_score": 0,
+      "max_possible_score": 130,
+      "absolute_risk": 0,
+      "relative_probability": 0.167,
+      "rank": 4
+    },
+    {
+      "disease": "niemann_pick_c",
+      "display_name": "Niemann-Pick disease type C",
+      "raw_score": 0,
+      "max_possible_score": 90,
+      "absolute_risk": 0,
+      "relative_probability": 0.167,
+      "rank": 5
+    },
+    {
+      "disease": "krabbe",
+      "display_name": "Krabbe disease",
+      "raw_score": 0,
+      "max_possible_score": 130,
+      "absolute_risk": 0,
+      "relative_probability": 0.167,
+      "rank": 6
+    }
+  ],
+  "risk_level": "LOW",
+  "risk_basis": "absolute_risk",
+  "confidence": {
+    "level": "moderate",
+    "missing_inputs": [
+      "genetics",
+      "detailed_symptoms"
+    ],
+    "note": "Some diagnostic inputs missing; interpret with caution."
+  },
+  "factors": [
+    {
+      "category": "enzyme",
+      "feature": "GBA",
+      "label": "GBA within normal range",
+      "value": "93.1% of normal",
+      "points": -12,
+      "direction": "decreases",
+      "disease": "gaucher",
+      "citation": "Italy NBS IJNS 10:00003; Missouri IJNS 11:00048"
+    },
+    {
+      "category": "enzyme",
+      "feature": "alpha_Gal_A",
+      "label": "alpha_Gal_A within normal range",
+      "value": "125.5% of normal",
+      "points": -12,
+      "direction": "decreases",
+      "disease": "fabry",
+      "citation": "Italy NBS IJNS 10:00003; Missouri IJNS 11:00048"
+    },
+    {
+      "category": "enzyme",
+      "feature": "GAA",
+      "label": "GAA within normal range",
+      "value": "91.6% of normal",
+      "points": -12,
+      "direction": "decreases",
+      "disease": "pompe",
+      "citation": "Italy NBS IJNS 10:00003; Missouri IJNS 11:00048"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0012378",
+      "label": "Fatigue",
+      "value": "severity 1",
+      "points": 1.99,
+      "direction": "increases",
+      "disease": "gaucher",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0012378",
+      "label": "Fatigue",
+      "value": "severity 1",
+      "points": 1.99,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0012378",
+      "label": "Fatigue",
+      "value": "severity 1",
+      "points": 0.81,
+      "direction": "increases",
+      "disease": "pompe",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    }
+  ],
+  "category_scores": {
+    "enzyme": 0,
+    "genetic": 0,
+    "symptom": 2,
+    "biomarker": 0,
+    "vitals": 0
+  },
+  "model": {
+    "engine_version": "0.3.0",
+    "mode": "rule_based",
+    "weights_version": "2026-11-15"
+  },
+  "disclaimer": "This output is a screening aid, not a diagnosis. All results must be reviewed by a qualified clinician and confirmed by laboratory testing.",
+  "request_id": "cb2a6a07c8c1",
+  "generated_at": "2026-11-15T15:03:04.389413+00:00",
+  "inheritance": {
+    "applicable": true,
+    "mode": "autosomal_recessive",
+    "punnett": {
+      "affected_pct": 25,
+      "carrier_pct": 50,
+      "unaffected_pct": 25
+    },
+    "note": "Both parents contribute one allele; 25% risk applies when both are carriers."
+  },
+  "recommendations": {
+    "confirmatory_tests": [
+      {
+        "test": "GBA1 sequencing",
+        "priority": "consider",
+        "rationale": "Confirms Gaucher where glucocerebrosidase is reduced."
+      }
+    ],
+    "treatment_pathways": [
+      {
+        "name": "Enzyme Replacement Therapy (ERT)",
+        "stage": "post-confirmation"
+      },
+      {
+        "name": "Substrate Reduction Therapy (SRT)",
+        "stage": "post-confirmation"
+      }
+    ],
+    "referral": "Clinical correlation advised; refer if suspicion persists."
+  }
+}

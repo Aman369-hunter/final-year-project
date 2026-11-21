@@ -1,0 +1,242 @@
+{
+  "predictions": [
+    {
+      "disease": "gaucher",
+      "display_name": "Gaucher disease",
+      "raw_score": 9.1,
+      "max_possible_score": 130,
+      "absolute_risk": 0.07,
+      "relative_probability": 0.235,
+      "rank": 1
+    },
+    {
+      "disease": "niemann_pick_c",
+      "display_name": "Niemann-Pick disease type C",
+      "raw_score": 3.9,
+      "max_possible_score": 90,
+      "absolute_risk": 0.043,
+      "relative_probability": 0.166,
+      "rank": 2
+    },
+    {
+      "disease": "krabbe",
+      "display_name": "Krabbe disease",
+      "raw_score": 5,
+      "max_possible_score": 130,
+      "absolute_risk": 0.039,
+      "relative_probability": 0.18,
+      "rank": 3
+    },
+    {
+      "disease": "mps1",
+      "display_name": "Mucopolysaccharidosis type I",
+      "raw_score": 2.2,
+      "max_possible_score": 130,
+      "absolute_risk": 0.017,
+      "relative_probability": 0.148,
+      "rank": 4
+    },
+    {
+      "disease": "pompe",
+      "display_name": "Pompe disease",
+      "raw_score": 1.5,
+      "max_possible_score": 130,
+      "absolute_risk": 0.012,
+      "relative_probability": 0.142,
+      "rank": 5
+    },
+    {
+      "disease": "fabry",
+      "display_name": "Fabry disease",
+      "raw_score": 0,
+      "max_possible_score": 130,
+      "absolute_risk": 0,
+      "relative_probability": 0.128,
+      "rank": 6
+    }
+  ],
+  "risk_level": "LOW",
+  "risk_basis": "absolute_risk",
+  "confidence": {
+    "level": "moderate",
+    "missing_inputs": [
+      "enzyme_assay",
+      "genetics",
+      "vitals"
+    ],
+    "note": "Some diagnostic inputs missing; interpret with caution."
+  },
+  "factors": [
+    {
+      "category": "biomarker",
+      "feature": "chitotriosidase",
+      "label": "chitotriosidase elevated (supportive)",
+      "value": "2.1x ULN",
+      "points": 3,
+      "direction": "increases",
+      "disease": "gaucher",
+      "citation": "Chitotriosidase in Gaucher, Orphanet J Rare Dis 18:12"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001251",
+      "label": "Ataxia",
+      "value": "severity 2",
+      "points": 2.92,
+      "direction": "increases",
+      "disease": "krabbe",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001744",
+      "label": "Splenomegaly",
+      "value": "severity 2",
+      "points": 2.15,
+      "direction": "increases",
+      "disease": "gaucher",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001744",
+      "label": "Splenomegaly",
+      "value": "severity 2",
+      "points": 2.15,
+      "direction": "increases",
+      "disease": "mps1",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001263",
+      "label": "Developmental delay",
+      "value": "severity 1",
+      "points": 2.12,
+      "direction": "increases",
+      "disease": "krabbe",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0002240",
+      "label": "Hepatomegaly",
+      "value": "severity 1",
+      "points": 1.53,
+      "direction": "increases",
+      "disease": "gaucher",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0002240",
+      "label": "Hepatomegaly",
+      "value": "severity 1",
+      "points": 1.53,
+      "direction": "increases",
+      "disease": "pompe",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0002240",
+      "label": "Hepatomegaly",
+      "value": "severity 1",
+      "points": 1.53,
+      "direction": "increases",
+      "disease": "niemann_pick_c",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001251",
+      "label": "Ataxia",
+      "value": "severity 2",
+      "points": 1.19,
+      "direction": "increases",
+      "disease": "gaucher",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001251",
+      "label": "Ataxia",
+      "value": "severity 2",
+      "points": 1.19,
+      "direction": "increases",
+      "disease": "niemann_pick_c",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001263",
+      "label": "Developmental delay",
+      "value": "severity 1",
+      "points": 1.18,
+      "direction": "increases",
+      "disease": "gaucher",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001744",
+      "label": "Splenomegaly",
+      "value": "severity 2",
+      "points": 0.88,
+      "direction": "increases",
+      "disease": "niemann_pick_c",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0001263",
+      "label": "Developmental delay",
+      "value": "severity 1",
+      "points": 0.28,
+      "direction": "increases",
+      "disease": "niemann_pick_c",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    }
+  ],
+  "category_scores": {
+    "enzyme": 0,
+    "genetic": 0,
+    "symptom": 6,
+    "biomarker": 3,
+    "vitals": 0
+  },
+  "model": {
+    "engine_version": "0.3.0",
+    "mode": "rule_based",
+    "weights_version": "2026-11-15"
+  },
+  "disclaimer": "This output is a screening aid, not a diagnosis. All results must be reviewed by a qualified clinician and confirmed by laboratory testing.",
+  "request_id": "8b293550d402",
+  "generated_at": "2026-11-15T15:03:04.385186+00:00",
+  "inheritance": {
+    "applicable": false,
+    "mode": "AR",
+    "punnett": null,
+    "note": "Parent genotypes not supplied."
+  },
+  "recommendations": {
+    "confirmatory_tests": [
+      {
+        "test": "GBA1 sequencing",
+        "priority": "consider",
+        "rationale": "Confirms Gaucher where glucocerebrosidase is reduced."
+      }
+    ],
+    "treatment_pathways": [
+      {
+        "name": "Enzyme Replacement Therapy (ERT)",
+        "stage": "post-confirmation"
+      },
+      {
+        "name": "Substrate Reduction Therapy (SRT)",
+        "stage": "post-confirmation"
+      }
+    ],
+    "referral": "Clinical correlation advised; refer if suspicion persists."
+  }
+}

@@ -1,0 +1,6597 @@
+{
+ "gene": "NPC1",
+ "disease": "niemann_pick_c",
+ "source": "ClinVar, pathogenic + likely pathogenic only",
+ "retrieved": "2026-11-15",
+ "count": 732,
+ "variants": [
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4796208",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18q11.1-23(chr18:20966775-80255845)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "3242768",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(?_21148777)_(21153548_?)dup"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "1331460",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(21131692_21134721)_(21141492_21148786)dup"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4880184",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(21148787_21148962)del"
+  },
+  {
+   "cdna": "c.1028G>C",
+   "protein": "p.Gly343Ala",
+   "classification": "likely pathogenic",
+   "variation_id": "1507768",
+   "dbsnp": "rs1444308532",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1028G>C (p.Gly343Ala)"
+  },
+  {
+   "cdna": "c.1070C>A",
+   "protein": "p.Ser357Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "983759",
+   "dbsnp": "rs1555637232",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1070C>A (p.Ser357Ter)"
+  },
+  {
+   "cdna": "c.1092T>A",
+   "protein": "p.Cys364Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "983758",
+   "dbsnp": "rs2058953311",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1092T>A (p.Cys364Ter)"
+  },
+  {
+   "cdna": "c.1114_1115insT",
+   "protein": "p.Arg372fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1210441",
+   "dbsnp": "rs2145457097",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1114_1115insT (p.Arg372fs)"
+  },
+  {
+   "cdna": "c.1132G>T",
+   "protein": "p.Val378Phe",
+   "classification": "likely pathogenic",
+   "variation_id": "4755331",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1132G>T (p.Val378Phe)"
+  },
+  {
+   "cdna": "c.114_122del",
+   "protein": "p.Lys38_Tyr40del",
+   "classification": "likely pathogenic",
+   "variation_id": "803479",
+   "dbsnp": "rs1599011473",
+   "consequence": "inframe_deletion",
+   "full_name": "NM_000271.5(NPC1):c.114_122del (p.Lys38_Tyr40del)"
+  },
+  {
+   "cdna": "c.1166G>T",
+   "protein": "p.Arg389Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "1494714",
+   "dbsnp": "rs373751051",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1166G>T (p.Arg389Leu)"
+  },
+  {
+   "cdna": "c.1182C>A",
+   "protein": "p.Tyr394Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "1726005",
+   "dbsnp": "rs2511283263",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1182C>A (p.Tyr394Ter)"
+  },
+  {
+   "cdna": "c.1189C>T",
+   "protein": "p.Gln397Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "3250450",
+   "dbsnp": "rs1478525243",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1189C>T (p.Gln397Ter)"
+  },
+  {
+   "cdna": "c.1226T>C",
+   "protein": "p.Ile409Thr",
+   "classification": "likely pathogenic",
+   "variation_id": "4938342",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1226T>C (p.Ile409Thr)"
+  },
+  {
+   "cdna": "c.1286T>G",
+   "protein": "p.Val429Gly",
+   "classification": "likely pathogenic",
+   "variation_id": "1705794",
+   "dbsnp": "rs2511282261",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1286T>G (p.Val429Gly)"
+  },
+  {
+   "cdna": "c.1293del",
+   "protein": "p.Phe431fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1210439",
+   "dbsnp": "rs2145455429",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1293del (p.Phe431fs)"
+  },
+  {
+   "cdna": "c.1326+1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4755394",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1326+1G>A"
+  },
+  {
+   "cdna": "c.1326+1G>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4081753",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1326+1G>T"
+  },
+  {
+   "cdna": "c.1327-1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "554606",
+   "dbsnp": "rs1057516813",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.1327-1G>A"
+  },
+  {
+   "cdna": "c.1327-1G>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "370848",
+   "dbsnp": "rs1057516813",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.1327-1G>C"
+  },
+  {
+   "cdna": "c.1327-2dup",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "551271",
+   "dbsnp": "rs1555636712",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.1327-2dup"
+  },
+  {
+   "cdna": "c.1337T>A",
+   "protein": "p.Leu446Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "983757",
+   "dbsnp": "rs2058929021",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1337T>A (p.Leu446Ter)"
+  },
+  {
+   "cdna": "c.1348dup",
+   "protein": "p.Ile450fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1724087",
+   "dbsnp": "rs2511277102",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1348dup (p.Ile450fs)"
+  },
+  {
+   "cdna": "c.1371T>A",
+   "protein": "p.Tyr457Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "1725132",
+   "dbsnp": "rs779065920",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1371T>A (p.Tyr457Ter)"
+  },
+  {
+   "cdna": "c.1402T>C",
+   "protein": "p.Cys468Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "4802999",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1402T>C (p.Cys468Arg)"
+  },
+  {
+   "cdna": "c.1415T>C",
+   "protein": "p.Leu472Pro",
+   "classification": "likely pathogenic",
+   "variation_id": "1497153",
+   "dbsnp": "rs2145447843",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1415T>C (p.Leu472Pro)"
+  },
+  {
+   "cdna": "c.1420C>G",
+   "protein": "p.Pro474Ala",
+   "classification": "likely pathogenic",
+   "variation_id": "2138136",
+   "dbsnp": "rs1040639267",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1420C>G (p.Pro474Ala)"
+  },
+  {
+   "cdna": "c.1433A>C",
+   "protein": "p.Asn478Thr",
+   "classification": "likely pathogenic",
+   "variation_id": "1210334",
+   "dbsnp": "rs2145447716",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1433A>C (p.Asn478Thr)"
+  },
+  {
+   "cdna": "c.1436G>C",
+   "protein": "p.Cys479Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "2850689",
+   "dbsnp": "rs1555636659",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1436G>C (p.Cys479Ser)"
+  },
+  {
+   "cdna": "c.1454_1459del",
+   "protein": "p.Leu485_Asn486del",
+   "classification": "likely pathogenic",
+   "variation_id": "1676844",
+   "dbsnp": "rs2511275904",
+   "consequence": "inframe_deletion",
+   "full_name": "NM_000271.5(NPC1):c.1454_1459del (p.Leu485_Asn486del)"
+  },
+  {
+   "cdna": "c.1510_1512del",
+   "protein": "p.Phe504del",
+   "classification": "likely pathogenic",
+   "variation_id": "1705816",
+   "dbsnp": "rs2511275309",
+   "consequence": "inframe_deletion",
+   "full_name": "NM_000271.5(NPC1):c.1510_1512del (p.Phe504del)"
+  },
+  {
+   "cdna": "c.1534C>T",
+   "protein": "p.His512Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "2841526",
+   "dbsnp": "rs1168944129",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1534C>T (p.His512Tyr)"
+  },
+  {
+   "cdna": "c.1550T>A",
+   "protein": "p.Val517Glu",
+   "classification": "likely pathogenic",
+   "variation_id": "1477531",
+   "dbsnp": "rs2145446753",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1550T>A (p.Val517Glu)"
+  },
+  {
+   "cdna": "c.1567_1568del",
+   "protein": "p.Leu523fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4818048",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1567_1568del (p.Leu523fs)"
+  },
+  {
+   "cdna": "c.1588C>T",
+   "protein": "p.His530Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "3775473",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1588C>T (p.His530Tyr)"
+  },
+  {
+   "cdna": "c.1612G>C",
+   "protein": "p.Gly538Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "1507579",
+   "dbsnp": "rs2145433298",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1612G>C (p.Gly538Arg)"
+  },
+  {
+   "cdna": "c.1615G>A",
+   "protein": "p.Gly539Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "1705751",
+   "dbsnp": "rs2511262796",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1615G>A (p.Gly539Arg)"
+  },
+  {
+   "cdna": "c.1619C>G",
+   "protein": "p.Pro540Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "3254684",
+   "dbsnp": "rs1300893995",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1619C>G (p.Pro540Arg)"
+  },
+  {
+   "cdna": "c.1627C>T",
+   "protein": "p.Pro543Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "1066529",
+   "dbsnp": "rs2145433190",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1627C>T (p.Pro543Ser)"
+  },
+  {
+   "cdna": "c.1642G>T",
+   "protein": "p.Gly548Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "1726331",
+   "dbsnp": "rs2511262593",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1642G>T (p.Gly548Ter)"
+  },
+  {
+   "cdna": "c.1731_1737del",
+   "protein": "p.Gln578fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1725100",
+   "dbsnp": "rs2511250025",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1731_1737del (p.Gln578fs)"
+  },
+  {
+   "cdna": "c.1747T>G",
+   "protein": "p.Trp583Gly",
+   "classification": "likely pathogenic",
+   "variation_id": "3376180",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1747T>G (p.Trp583Gly)"
+  },
+  {
+   "cdna": "c.1757+1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2861221",
+   "dbsnp": "rs2058813191",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1757+1G>A"
+  },
+  {
+   "cdna": "c.1758-1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "5004541",
+   "dbsnp": "",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.1758-1G>A"
+  },
+  {
+   "cdna": "c.1758-3_1761del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2748642",
+   "dbsnp": "rs2511240863",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.1758-3_1761del"
+  },
+  {
+   "cdna": "c.1761del",
+   "protein": "p.Phe587fs",
+   "classification": "likely pathogenic",
+   "variation_id": "371343",
+   "dbsnp": "rs1057517197",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1761del (p.Phe587fs)"
+  },
+  {
+   "cdna": "c.1780_1782del",
+   "protein": "p.Tyr594del",
+   "classification": "likely pathogenic",
+   "variation_id": "1705757",
+   "dbsnp": "rs2511240699",
+   "consequence": "inframe_deletion",
+   "full_name": "NM_000271.5(NPC1):c.1780_1782del (p.Tyr594del)"
+  },
+  {
+   "cdna": "c.180+1G>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "838929",
+   "dbsnp": "rs2059231880",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.180+1G>C"
+  },
+  {
+   "cdna": "c.180+1G>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2809797",
+   "dbsnp": "rs2059231880",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.180+1G>T"
+  },
+  {
+   "cdna": "c.1831_1836del",
+   "protein": "p.Asp611_Glu612del",
+   "classification": "likely pathogenic",
+   "variation_id": "4818050",
+   "dbsnp": "",
+   "consequence": "inframe_deletion",
+   "full_name": "NM_000271.5(NPC1):c.1831_1836del (p.Asp611_Glu612del)"
+  },
+  {
+   "cdna": "c.1843C>A",
+   "protein": "p.Arg615Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "1488760",
+   "dbsnp": "rs745777805",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1843C>A (p.Arg615Ser)"
+  },
+  {
+   "cdna": "c.1843C>G",
+   "protein": "p.Arg615Gly",
+   "classification": "likely pathogenic",
+   "variation_id": "3691552",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1843C>G (p.Arg615Gly)"
+  },
+  {
+   "cdna": "c.1844G>A",
+   "protein": "p.Arg615His",
+   "classification": "likely pathogenic",
+   "variation_id": "1491496",
+   "dbsnp": "rs773351341",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1844G>A (p.Arg615His)"
+  },
+  {
+   "cdna": "c.1844G>T",
+   "protein": "p.Arg615Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "4818051",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1844G>T (p.Arg615Leu)"
+  },
+  {
+   "cdna": "c.187T>C",
+   "protein": "p.Cys63Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "2138139",
+   "dbsnp": "rs747049347",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.187T>C (p.Cys63Arg)"
+  },
+  {
+   "cdna": "c.1883A>C",
+   "protein": "p.Tyr628Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "872386",
+   "dbsnp": "rs2058768795",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1883A>C (p.Tyr628Ser)"
+  },
+  {
+   "cdna": "c.188G>A",
+   "protein": "p.Cys63Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "1465722",
+   "dbsnp": "rs2145544950",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.188G>A (p.Cys63Tyr)"
+  },
+  {
+   "cdna": "c.188G>C",
+   "protein": "p.Cys63Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "3637539",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.188G>C (p.Cys63Ser)"
+  },
+  {
+   "cdna": "c.1929_1930insC",
+   "protein": "p.Ser644fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4818052",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1929_1930insC (p.Ser644fs)"
+  },
+  {
+   "cdna": "c.1947+1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "553366",
+   "dbsnp": "rs1555634690",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1947+1G>A"
+  },
+  {
+   "cdna": "c.1947+2T>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "555492",
+   "dbsnp": "rs764472245",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1947+2T>A"
+  },
+  {
+   "cdna": "c.1947+2T>G",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "189181",
+   "dbsnp": "rs764472245",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1947+2T>G"
+  },
+  {
+   "cdna": "c.1948-1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "557054",
+   "dbsnp": "rs1555634508",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.1948-1G>A"
+  },
+  {
+   "cdna": "c.1948-2A>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "554364",
+   "dbsnp": "rs1555634513",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.1948-2A>T"
+  },
+  {
+   "cdna": "c.1990G>C",
+   "protein": "p.Val664Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "1468673",
+   "dbsnp": "rs376213990",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1990G>C (p.Val664Leu)"
+  },
+  {
+   "cdna": "c.1996_1997del",
+   "protein": "p.Ser666fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1726563",
+   "dbsnp": "rs2511235793",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1996_1997del (p.Ser666fs)"
+  },
+  {
+   "cdna": "c.1A>G",
+   "protein": "p.Met1Val",
+   "classification": "likely pathogenic",
+   "variation_id": "371098",
+   "dbsnp": "rs1057517005",
+   "consequence": "missense variant|initiator_codon_variant",
+   "full_name": "NM_000271.5(NPC1):c.1A>G (p.Met1Val)"
+  },
+  {
+   "cdna": "c.2027G>T",
+   "protein": "p.Ser676Ile",
+   "classification": "likely pathogenic",
+   "variation_id": "1705758",
+   "dbsnp": "rs2145400163",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2027G>T (p.Ser676Ile)"
+  },
+  {
+   "cdna": "c.2035_2036delinsT",
+   "protein": "p.Gly679fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1724710",
+   "dbsnp": "rs2511235412",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2035_2036delinsT (p.Gly679fs)"
+  },
+  {
+   "cdna": "c.2044_2045insGTCATACACATCTG",
+   "protein": "p.Leu682fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1726176",
+   "dbsnp": "rs2511235321",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2044_2045insGTCATACACATCTG (p.Leu682fs)"
+  },
+  {
+   "cdna": "c.2046_2047del",
+   "protein": "p.Leu682fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1724709",
+   "dbsnp": "rs2511235295",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2046_2047del (p.Leu682fs)"
+  },
+  {
+   "cdna": "c.2050C>T",
+   "protein": "p.Leu684Phe",
+   "classification": "likely pathogenic",
+   "variation_id": "374167",
+   "dbsnp": "rs1057518942",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2050C>T (p.Leu684Phe)"
+  },
+  {
+   "cdna": "c.2053A>C",
+   "protein": "p.Ile685Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "2789246",
+   "dbsnp": "rs1310067072",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2053A>C (p.Ile685Leu)"
+  },
+  {
+   "cdna": "c.2054T>C",
+   "protein": "p.Ile685Thr",
+   "classification": "likely pathogenic",
+   "variation_id": "132893",
+   "dbsnp": "rs483352888",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2054T>C (p.Ile685Thr)"
+  },
+  {
+   "cdna": "c.2071C>T",
+   "protein": "p.Pro691Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "4058983",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2071C>T (p.Pro691Ser)"
+  },
+  {
+   "cdna": "c.2072C>A",
+   "protein": "p.Pro691Gln",
+   "classification": "likely pathogenic",
+   "variation_id": "986365",
+   "dbsnp": "rs1555634422",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2072C>A (p.Pro691Gln)"
+  },
+  {
+   "cdna": "c.2072dup",
+   "protein": "p.Phe692fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2585114",
+   "dbsnp": "rs2511234988",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2072dup (p.Phe692fs)"
+  },
+  {
+   "cdna": "c.2080del",
+   "protein": "p.Val694fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4818054",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2080del (p.Val694fs)"
+  },
+  {
+   "cdna": "c.2092G>T",
+   "protein": "p.Gly698Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "983756",
+   "dbsnp": "rs2058754064",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2092G>T (p.Gly698Ter)"
+  },
+  {
+   "cdna": "c.2103C>G",
+   "protein": "p.Asn701Lys",
+   "classification": "likely pathogenic",
+   "variation_id": "546521",
+   "dbsnp": "rs7227375",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2103C>G (p.Asn701Lys)"
+  },
+  {
+   "cdna": "c.2107T>A",
+   "protein": "p.Phe703Ile",
+   "classification": "likely pathogenic",
+   "variation_id": "4818055",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2107T>A (p.Phe703Ile)"
+  },
+  {
+   "cdna": "c.2108T>C",
+   "protein": "p.Phe703Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "1328533",
+   "dbsnp": "rs2058753693",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2108T>C (p.Phe703Ser)"
+  },
+  {
+   "cdna": "c.2131-2_2131del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "557400",
+   "dbsnp": "rs1555634236",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.2131-2_2131del"
+  },
+  {
+   "cdna": "c.2134G>T",
+   "protein": "p.Asp712Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "2852245",
+   "dbsnp": "rs776682510",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2134G>T (p.Asp712Tyr)"
+  },
+  {
+   "cdna": "c.2142del",
+   "protein": "p.Leu715fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4293691",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2142del (p.Leu715fs)"
+  },
+  {
+   "cdna": "c.2174del",
+   "protein": "p.Gly725fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1725109",
+   "dbsnp": "rs2511230031",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2174del (p.Gly725fs)"
+  },
+  {
+   "cdna": "c.2200A>G",
+   "protein": "p.Ser734Gly",
+   "classification": "likely pathogenic",
+   "variation_id": "1348709",
+   "dbsnp": "rs2145394815",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2200A>G (p.Ser734Gly)"
+  },
+  {
+   "cdna": "c.2200A>T",
+   "protein": "p.Ser734Cys",
+   "classification": "likely pathogenic",
+   "variation_id": "2853460",
+   "dbsnp": "rs2145394815",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2200A>T (p.Ser734Cys)"
+  },
+  {
+   "cdna": "c.2246-1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2573109",
+   "dbsnp": "rs2511223044",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.2246-1G>A"
+  },
+  {
+   "cdna": "c.2287T>C",
+   "protein": "p.Phe763Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "4710445",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2287T>C (p.Phe763Leu)"
+  },
+  {
+   "cdna": "c.2290G>T",
+   "protein": "p.Ala764Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "2810642",
+   "dbsnp": "rs2511222745",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2290G>T (p.Ala764Ser)"
+  },
+  {
+   "cdna": "c.2336dup",
+   "protein": "p.Val780fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3774957",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2336dup (p.Val780fs)"
+  },
+  {
+   "cdna": "c.2365C>G",
+   "protein": "p.Arg789Gly",
+   "classification": "likely pathogenic",
+   "variation_id": "1326279",
+   "dbsnp": "rs1555633697",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2365C>G (p.Arg789Gly)"
+  },
+  {
+   "cdna": "c.2373+1G>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4886405",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.2373+1G>T"
+  },
+  {
+   "cdna": "c.2373+7T>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4796748",
+   "dbsnp": "",
+   "consequence": "intron variant",
+   "full_name": "NM_000271.5(NPC1):c.2373+7T>C"
+  },
+  {
+   "cdna": "c.2383_2384del",
+   "protein": "p.Leu795fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1725792",
+   "dbsnp": "rs2511221794",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2383_2384del (p.Leu795fs)"
+  },
+  {
+   "cdna": "c.2434del",
+   "protein": "p.Ala812fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1725452",
+   "dbsnp": "rs2511221368",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2434del (p.Ala812fs)"
+  },
+  {
+   "cdna": "c.2443_2444del",
+   "protein": "p.Ser815fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4818056",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2443_2444del (p.Ser815fs)"
+  },
+  {
+   "cdna": "c.2514+1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2773286",
+   "dbsnp": "rs757477471",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.2514+1G>A"
+  },
+  {
+   "cdna": "c.2519C>A",
+   "protein": "p.Ala840Glu",
+   "classification": "likely pathogenic",
+   "variation_id": "1339060",
+   "dbsnp": "rs2145378239",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2519C>A (p.Ala840Glu)"
+  },
+  {
+   "cdna": "c.2522T>A",
+   "protein": "p.Ile841Lys",
+   "classification": "likely pathogenic",
+   "variation_id": "1965289",
+   "dbsnp": "rs1363313204",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2522T>A (p.Ile841Lys)"
+  },
+  {
+   "cdna": "c.2525T>C",
+   "protein": "p.Phe842Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "3007389",
+   "dbsnp": "rs374068891",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2525T>C (p.Phe842Ser)"
+  },
+  {
+   "cdna": "c.2531dup",
+   "protein": "p.Val845fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1120226",
+   "dbsnp": "rs2145378067",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2531dup (p.Val845fs)"
+  },
+  {
+   "cdna": "c.2533del",
+   "protein": "p.Val845fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4880238",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2533del (p.Val845fs)"
+  },
+  {
+   "cdna": "c.2546G>T",
+   "protein": "p.Ser849Ile",
+   "classification": "likely pathogenic",
+   "variation_id": "374777",
+   "dbsnp": "rs1057519242",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2546G>T (p.Ser849Ile)"
+  },
+  {
+   "cdna": "c.2575G>T",
+   "protein": "p.Gly859Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "984323",
+   "dbsnp": "rs2058698654",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2575G>T (p.Gly859Ter)"
+  },
+  {
+   "cdna": "c.2579T>A",
+   "protein": "p.Leu860Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "984322",
+   "dbsnp": "rs2058698544",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2579T>A (p.Leu860Ter)"
+  },
+  {
+   "cdna": "c.2584C>T",
+   "protein": "p.Gln862Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "4938334",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2584C>T (p.Gln862Ter)"
+  },
+  {
+   "cdna": "c.2593T>A",
+   "protein": "p.Ser865Thr",
+   "classification": "likely pathogenic",
+   "variation_id": "2965604",
+   "dbsnp": "rs977397569",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2593T>A (p.Ser865Thr)"
+  },
+  {
+   "cdna": "c.2597T>C",
+   "protein": "p.Met866Thr",
+   "classification": "likely pathogenic",
+   "variation_id": "556263",
+   "dbsnp": "rs1181604094",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2597T>C (p.Met866Thr)"
+  },
+  {
+   "cdna": "c.2620G>T",
+   "protein": "p.Asp874Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "3776070",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2620G>T (p.Asp874Tyr)"
+  },
+  {
+   "cdna": "c.2625T>G",
+   "protein": "p.Tyr875Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "547890",
+   "dbsnp": "rs1555633361",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2625T>G (p.Tyr875Ter)"
+  },
+  {
+   "cdna": "c.2673dup",
+   "protein": "p.Val892fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3600299",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2673dup (p.Val892fs)"
+  },
+  {
+   "cdna": "c.2688_2689dup",
+   "protein": "p.His897fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4818057",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2688_2689dup (p.His897fs)"
+  },
+  {
+   "cdna": "c.2695T>C",
+   "protein": "p.Tyr899His",
+   "classification": "likely pathogenic",
+   "variation_id": "1705770",
+   "dbsnp": "rs2511213925",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2695T>C (p.Tyr899His)"
+  },
+  {
+   "cdna": "c.269C>G",
+   "protein": "p.Pro90Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "3251705",
+   "dbsnp": "rs2511352190",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.269C>G (p.Pro90Arg)"
+  },
+  {
+   "cdna": "c.2712del",
+   "protein": "p.Gln905fs",
+   "classification": "likely pathogenic",
+   "variation_id": "557930",
+   "dbsnp": "rs1555633309",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2712del (p.Gln905fs)"
+  },
+  {
+   "cdna": "c.2742C>A",
+   "protein": "p.Cys914Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "984320",
+   "dbsnp": "rs2058687419",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2742C>A (p.Cys914Ter)"
+  },
+  {
+   "cdna": "c.2746_2748del",
+   "protein": "p.Asn916del",
+   "classification": "likely pathogenic",
+   "variation_id": "4081752",
+   "dbsnp": "",
+   "consequence": "inframe_deletion",
+   "full_name": "NM_000271.5(NPC1):c.2746_2748del (p.Asn916del)"
+  },
+  {
+   "cdna": "c.2749dup",
+   "protein": "p.Asp917fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4852909",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2749dup (p.Asp917fs)"
+  },
+  {
+   "cdna": "c.2758G>A",
+   "protein": "p.Val920Met",
+   "classification": "likely pathogenic",
+   "variation_id": "1705774",
+   "dbsnp": "rs2511213406",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2758G>A (p.Val920Met)"
+  },
+  {
+   "cdna": "c.2764C>T",
+   "protein": "p.Gln922Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "189033",
+   "dbsnp": "rs786204641",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2764C>T (p.Gln922Ter)"
+  },
+  {
+   "cdna": "c.2795+56C>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "974870",
+   "dbsnp": "rs2058685029",
+   "consequence": "intron variant",
+   "full_name": "NM_000271.5(NPC1):c.2795+56C>T"
+  },
+  {
+   "cdna": "c.2796-2A>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2059247",
+   "dbsnp": "rs2511210964",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.2796-2A>T"
+  },
+  {
+   "cdna": "c.2817dup",
+   "protein": "p.Ser940fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4818059",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2817dup (p.Ser940fs)"
+  },
+  {
+   "cdna": "c.2818T>C",
+   "protein": "p.Ser940Pro",
+   "classification": "likely pathogenic",
+   "variation_id": "2810311",
+   "dbsnp": "rs2511210759",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2818T>C (p.Ser940Pro)"
+  },
+  {
+   "cdna": "c.2825G>A",
+   "protein": "p.Trp942Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "4818060",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2825G>A (p.Trp942Ter)"
+  },
+  {
+   "cdna": "c.2826G>A",
+   "protein": "p.Trp942Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "4818061",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2826G>A (p.Trp942Ter)"
+  },
+  {
+   "cdna": "c.2826G>T",
+   "protein": "p.Trp942Cys",
+   "classification": "likely pathogenic",
+   "variation_id": "4058938",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2826G>T (p.Trp942Cys)"
+  },
+  {
+   "cdna": "c.2844C>G",
+   "protein": "p.Asp948Glu",
+   "classification": "likely pathogenic",
+   "variation_id": "2976074",
+   "dbsnp": "rs2511210490",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2844C>G (p.Asp948Glu)"
+  },
+  {
+   "cdna": "c.2857C>T",
+   "protein": "p.Gln953Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "4818062",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2857C>T (p.Gln953Ter)"
+  },
+  {
+   "cdna": "c.2870G>C",
+   "protein": "p.Cys957Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "4855161",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2870G>C (p.Cys957Ser)"
+  },
+  {
+   "cdna": "c.2871T>A",
+   "protein": "p.Cys957Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "1726695",
+   "dbsnp": "rs2511210229",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2871T>A (p.Cys957Ter)"
+  },
+  {
+   "cdna": "c.2872C>G",
+   "protein": "p.Arg958Gly",
+   "classification": "likely pathogenic",
+   "variation_id": "4536845",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2872C>G (p.Arg958Gly)"
+  },
+  {
+   "cdna": "c.2882_2897delinsG",
+   "protein": "p.Asn961_Phe966delinsSer",
+   "classification": "likely pathogenic",
+   "variation_id": "1705777",
+   "dbsnp": "rs2511209939",
+   "consequence": "inframe_indel",
+   "full_name": "NM_000271.5(NPC1):c.2882_2897delinsG (p.Asn961_Phe966delinsSer)"
+  },
+  {
+   "cdna": "c.2901C>A",
+   "protein": "p.Cys967Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "984319",
+   "dbsnp": "rs2058679233",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2901C>A (p.Cys967Ter)"
+  },
+  {
+   "cdna": "c.2907_2908dup",
+   "protein": "p.Ser970fs",
+   "classification": "likely pathogenic",
+   "variation_id": "553623",
+   "dbsnp": "rs761910746",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2907_2908dup (p.Ser970fs)"
+  },
+  {
+   "cdna": "c.2911+1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4058910",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.2911+1G>A"
+  },
+  {
+   "cdna": "c.2911+1del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "557355",
+   "dbsnp": "rs1555633118",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.2911+1del"
+  },
+  {
+   "cdna": "c.2911+2del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "847952",
+   "dbsnp": "rs2058678962",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.2911+2del"
+  },
+  {
+   "cdna": "c.2912-2A>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "471942",
+   "dbsnp": "rs1555632994",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.2912-2A>C"
+  },
+  {
+   "cdna": "c.2932C>A",
+   "protein": "p.Arg978Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "1519538",
+   "dbsnp": "rs28942108",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2932C>A (p.Arg978Ser)"
+  },
+  {
+   "cdna": "c.297del",
+   "protein": "p.Cys100fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4081555",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.297del (p.Cys100fs)"
+  },
+  {
+   "cdna": "c.2985C>G",
+   "protein": "p.Phe995Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "1180791",
+   "dbsnp": "rs2145366579",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2985C>G (p.Phe995Leu)"
+  },
+  {
+   "cdna": "c.29_30insGTCTCTTATACACACTG",
+   "protein": "p.Leu11fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1724850",
+   "dbsnp": "rs2511394914",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.29_30insGTCTCTTATACACACTG (p.Leu11fs)"
+  },
+  {
+   "cdna": "c.3017del",
+   "protein": "p.Asn1006fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1726601",
+   "dbsnp": "rs2511205258",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3017del (p.Asn1006fs)"
+  },
+  {
+   "cdna": "c.3026_3027del",
+   "protein": "p.Pro1009fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1725209",
+   "dbsnp": "rs1598942578",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3026_3027del (p.Pro1009fs)"
+  },
+  {
+   "cdna": "c.3035G>A",
+   "protein": "p.Gly1012Asp",
+   "classification": "likely pathogenic",
+   "variation_id": "2736701",
+   "dbsnp": "rs2511204987",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3035G>A (p.Gly1012Asp)"
+  },
+  {
+   "cdna": "c.3041+2del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "947141",
+   "dbsnp": "rs2058665849",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3041+2del"
+  },
+  {
+   "cdna": "c.3042-1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "552643",
+   "dbsnp": "rs771806960",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.3042-1G>A"
+  },
+  {
+   "cdna": "c.3042-2_3042-1del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "1994937",
+   "dbsnp": "rs2511198096",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.3042-2_3042-1del"
+  },
+  {
+   "cdna": "c.3065C>A",
+   "protein": "p.Ala1022Glu",
+   "classification": "likely pathogenic",
+   "variation_id": "1199746",
+   "dbsnp": "rs2033609417",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3065C>A (p.Ala1022Glu)"
+  },
+  {
+   "cdna": "c.3093del",
+   "protein": "p.Arg1032fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4938333",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3093del (p.Arg1032fs)"
+  },
+  {
+   "cdna": "c.3106A>T",
+   "protein": "p.Thr1036Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "2054565",
+   "dbsnp": "rs2511197628",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3106A>T (p.Thr1036Ser)"
+  },
+  {
+   "cdna": "c.3107C>A",
+   "protein": "p.Thr1036Lys",
+   "classification": "likely pathogenic",
+   "variation_id": "4818064",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3107C>A (p.Thr1036Lys)"
+  },
+  {
+   "cdna": "c.3136C>T",
+   "protein": "p.Gln1046Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "984318",
+   "dbsnp": "rs1446718670",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3136C>T (p.Gln1046Ter)"
+  },
+  {
+   "cdna": "c.3141_3147delinsAG",
+   "protein": "p.Ser1048fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1725432",
+   "dbsnp": "rs2511197297",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3141_3147delinsAG (p.Ser1048fs)"
+  },
+  {
+   "cdna": "c.3154_3156del",
+   "protein": "p.Ile1052del",
+   "classification": "likely pathogenic",
+   "variation_id": "1705784",
+   "dbsnp": "rs2511197169",
+   "consequence": "inframe_deletion",
+   "full_name": "NM_000271.5(NPC1):c.3154_3156del (p.Ile1052del)"
+  },
+  {
+   "cdna": "c.315_317delinsT",
+   "protein": "p.Asn106fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1724519",
+   "dbsnp": "rs2511341561",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.315_317delinsT (p.Asn106fs)"
+  },
+  {
+   "cdna": "c.3182_3183del",
+   "protein": "p.Ile1061fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1725130",
+   "dbsnp": "rs2511196937",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3182_3183del (p.Ile1061fs)"
+  },
+  {
+   "cdna": "c.3185C>T",
+   "protein": "p.Ala1062Val",
+   "classification": "likely pathogenic",
+   "variation_id": "2736699",
+   "dbsnp": "rs2511196908",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3185C>T (p.Ala1062Val)"
+  },
+  {
+   "cdna": "c.3232del",
+   "protein": "p.Val1078fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2585598",
+   "dbsnp": "rs2511196532",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3232del (p.Val1078fs)"
+  },
+  {
+   "cdna": "c.3243_3755-94del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "633341",
+   "dbsnp": "",
+   "consequence": "splice acceptor variant|splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3243_3755-94del"
+  },
+  {
+   "cdna": "c.3246T>A",
+   "protein": "p.Ser1082Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "2506393",
+   "dbsnp": "rs761952957",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3246T>A (p.Ser1082Arg)"
+  },
+  {
+   "cdna": "c.325dup",
+   "protein": "p.Cys109fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4818065",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.325dup (p.Cys109fs)"
+  },
+  {
+   "cdna": "c.3265G>C",
+   "protein": "p.Glu1089Gln",
+   "classification": "likely pathogenic",
+   "variation_id": "1705787",
+   "dbsnp": "rs374526072",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3265G>C (p.Glu1089Gln)"
+  },
+  {
+   "cdna": "c.3266A>G",
+   "protein": "p.Glu1089Gly",
+   "classification": "likely pathogenic",
+   "variation_id": "1999767",
+   "dbsnp": "rs2511191394",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3266A>G (p.Glu1089Gly)"
+  },
+  {
+   "cdna": "c.3273C>G",
+   "protein": "p.Tyr1091Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "984316",
+   "dbsnp": "rs1598937493",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3273C>G (p.Tyr1091Ter)"
+  },
+  {
+   "cdna": "c.3276_3277del",
+   "protein": "p.Thr1093fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1725066",
+   "dbsnp": "rs2511191312",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3276_3277del (p.Thr1093fs)"
+  },
+  {
+   "cdna": "c.3278C>T",
+   "protein": "p.Thr1093Ile",
+   "classification": "likely pathogenic",
+   "variation_id": "4884620",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3278C>T (p.Thr1093Ile)"
+  },
+  {
+   "cdna": "c.3279CAT[1]",
+   "protein": "p.Ile1095del",
+   "classification": "likely pathogenic",
+   "variation_id": "1705789",
+   "dbsnp": "rs2511191252",
+   "consequence": "inframe_deletion",
+   "full_name": "NM_000271.5(NPC1):c.3279CAT[1] (p.Ile1095del)"
+  },
+  {
+   "cdna": "c.327T>A",
+   "protein": "p.Cys109Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "983842",
+   "dbsnp": "rs2059164764",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.327T>A (p.Cys109Ter)"
+  },
+  {
+   "cdna": "c.3286GAC[1]",
+   "protein": "p.Asp1097del",
+   "classification": "likely pathogenic",
+   "variation_id": "4818066",
+   "dbsnp": "",
+   "consequence": "inframe_deletion",
+   "full_name": "NM_000271.5(NPC1):c.3286GAC[1] (p.Asp1097del)"
+  },
+  {
+   "cdna": "c.3314C>A",
+   "protein": "p.Ser1105Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "1705790",
+   "dbsnp": "rs2145351377",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3314C>A (p.Ser1105Tyr)"
+  },
+  {
+   "cdna": "c.3359_3360insAC",
+   "protein": "p.Leu1121fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1726855",
+   "dbsnp": "rs2511190372",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3359_3360insAC (p.Leu1121fs)"
+  },
+  {
+   "cdna": "c.3371dup",
+   "protein": "p.Val1125fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3776285",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3371dup (p.Val1125fs)"
+  },
+  {
+   "cdna": "c.337_340dup",
+   "protein": "p.Ser114delinsMetTer",
+   "classification": "likely pathogenic",
+   "variation_id": "3242177",
+   "dbsnp": "rs2511341408",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.337_340dup (p.Ser114delinsMetTer)"
+  },
+  {
+   "cdna": "c.338G>A",
+   "protein": "p.Cys113Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "1705792",
+   "dbsnp": "rs2511341428",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.338G>A (p.Cys113Tyr)"
+  },
+  {
+   "cdna": "c.3395_3396insT",
+   "protein": "p.Met1133fs",
+   "classification": "likely pathogenic",
+   "variation_id": "5004420",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3395_3396insT (p.Met1133fs)"
+  },
+  {
+   "cdna": "c.339T>A",
+   "protein": "p.Cys113Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "983841",
+   "dbsnp": "rs2059164609",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.339T>A (p.Cys113Ter)"
+  },
+  {
+   "cdna": "c.3417_3423del",
+   "protein": "p.Phe1139fs",
+   "classification": "likely pathogenic",
+   "variation_id": "370636",
+   "dbsnp": "rs1057516647",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3417_3423del (p.Phe1139fs)"
+  },
+  {
+   "cdna": "c.3433T>C",
+   "protein": "p.Trp1145Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "1494423",
+   "dbsnp": "rs2145350224",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3433T>C (p.Trp1145Arg)"
+  },
+  {
+   "cdna": "c.3435G>C",
+   "protein": "p.Trp1145Cys",
+   "classification": "likely pathogenic",
+   "variation_id": "2036158",
+   "dbsnp": "rs753637056",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3435G>C (p.Trp1145Cys)"
+  },
+  {
+   "cdna": "c.3437del",
+   "protein": "p.Gly1146fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4081556",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3437del (p.Gly1146fs)"
+  },
+  {
+   "cdna": "c.3450C>A",
+   "protein": "p.Asn1150Lys",
+   "classification": "likely pathogenic",
+   "variation_id": "551573",
+   "dbsnp": "rs34715591",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3450C>A (p.Asn1150Lys)"
+  },
+  {
+   "cdna": "c.3451G>T",
+   "protein": "p.Ala1151Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "1997193",
+   "dbsnp": "rs765729815",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3451G>T (p.Ala1151Ser)"
+  },
+  {
+   "cdna": "c.3461T>A",
+   "protein": "p.Leu1154Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "557189",
+   "dbsnp": "rs1555632182",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3461T>A (p.Leu1154Ter)"
+  },
+  {
+   "cdna": "c.3470_3473delinsAA",
+   "protein": "p.Leu1157fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2432260",
+   "dbsnp": "rs2511189114",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3470_3473delinsAA (p.Leu1157fs)"
+  },
+  {
+   "cdna": "c.3477+1G>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4938331",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3477+1G>T"
+  },
+  {
+   "cdna": "c.3478-1G>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2118117",
+   "dbsnp": "rs2511184326",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.3478-1G>C"
+  },
+  {
+   "cdna": "c.3485G>C",
+   "protein": "p.Gly1162Ala",
+   "classification": "likely pathogenic",
+   "variation_id": "1698483",
+   "dbsnp": "rs1194990534",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3485G>C (p.Gly1162Ala)"
+  },
+  {
+   "cdna": "c.3490T>C",
+   "protein": "p.Ser1164Pro",
+   "classification": "likely pathogenic",
+   "variation_id": "1705795",
+   "dbsnp": "rs2511184214",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3490T>C (p.Ser1164Pro)"
+  },
+  {
+   "cdna": "c.3507C>G",
+   "protein": "p.Ser1169Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "834089",
+   "dbsnp": "rs2058596611",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3507C>G (p.Ser1169Arg)"
+  },
+  {
+   "cdna": "c.350A>G",
+   "protein": "p.Gln117Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "581349",
+   "dbsnp": "rs1567977251",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.350A>G (p.Gln117Arg)"
+  },
+  {
+   "cdna": "c.3514del",
+   "protein": "p.Thr1172fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4058929",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3514del (p.Thr1172fs)"
+  },
+  {
+   "cdna": "c.3521C>T",
+   "protein": "p.Ala1174Val",
+   "classification": "likely pathogenic",
+   "variation_id": "1465957",
+   "dbsnp": "rs780175800",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3521C>T (p.Ala1174Val)"
+  },
+  {
+   "cdna": "c.3535_3538delinsTTT",
+   "protein": "p.Met1179fs",
+   "classification": "likely pathogenic",
+   "variation_id": "557570",
+   "dbsnp": "rs1555631957",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3535_3538delinsTTT (p.Met1179fs)"
+  },
+  {
+   "cdna": "c.3553G>T",
+   "protein": "p.Glu1185Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "1725543",
+   "dbsnp": "rs750739947",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3553G>T (p.Glu1185Ter)"
+  },
+  {
+   "cdna": "c.3557G>T",
+   "protein": "p.Arg1186Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "2125653",
+   "dbsnp": "rs200444084",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3557G>T (p.Arg1186Leu)"
+  },
+  {
+   "cdna": "c.3562del",
+   "protein": "p.Glu1188fs",
+   "classification": "likely pathogenic",
+   "variation_id": "552331",
+   "dbsnp": "rs758231839",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3562del (p.Glu1188fs)"
+  },
+  {
+   "cdna": "c.3571C>G",
+   "protein": "p.Leu1191Val",
+   "classification": "likely pathogenic",
+   "variation_id": "3012807",
+   "dbsnp": "rs2511183420",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3571C>G (p.Leu1191Val)"
+  },
+  {
+   "cdna": "c.3590C>T",
+   "protein": "p.Ser1197Phe",
+   "classification": "likely pathogenic",
+   "variation_id": "834088",
+   "dbsnp": "rs1234099104",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3590C>T (p.Ser1197Phe)"
+  },
+  {
+   "cdna": "c.3591+121C>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2882491",
+   "dbsnp": "rs1444840655",
+   "consequence": "intron variant",
+   "full_name": "NM_000271.5(NPC1):c.3591+121C>T"
+  },
+  {
+   "cdna": "c.3591+1_3591+7delinsTCTT",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "3027381",
+   "dbsnp": "rs2511183145",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3591+1_3591+7delinsTCTT"
+  },
+  {
+   "cdna": "c.3592-1G>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "550558",
+   "dbsnp": "rs1555631653",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.3592-1G>C"
+  },
+  {
+   "cdna": "c.3592-7_3592-3del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "558202",
+   "dbsnp": "rs760935117",
+   "consequence": "intron variant",
+   "full_name": "NM_000271.5(NPC1):c.3592-7_3592-3del"
+  },
+  {
+   "cdna": "c.3609_3610del",
+   "protein": "p.Leu1204fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3068013",
+   "dbsnp": "rs1470058408",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3609_3610del (p.Leu1204fs)"
+  },
+  {
+   "cdna": "c.3612_3613delinsG",
+   "protein": "p.Thr1205fs",
+   "classification": "likely pathogenic",
+   "variation_id": "556189",
+   "dbsnp": "rs1555631642",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3612_3613delinsG (p.Thr1205fs)"
+  },
+  {
+   "cdna": "c.3614C>T",
+   "protein": "p.Thr1205Ile",
+   "classification": "likely pathogenic",
+   "variation_id": "1705797",
+   "dbsnp": "rs758902805",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3614C>T (p.Thr1205Ile)"
+  },
+  {
+   "cdna": "c.3622G>T",
+   "protein": "p.Gly1208Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "4081554",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3622G>T (p.Gly1208Ter)"
+  },
+  {
+   "cdna": "c.3634G>A",
+   "protein": "p.Val1212Met",
+   "classification": "likely pathogenic",
+   "variation_id": "2829651",
+   "dbsnp": "rs753419933",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3634G>A (p.Val1212Met)"
+  },
+  {
+   "cdna": "c.3639G>C",
+   "protein": "p.Leu1213Phe",
+   "classification": "likely pathogenic",
+   "variation_id": "2965",
+   "dbsnp": "rs120074131",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3639G>C (p.Leu1213Phe)"
+  },
+  {
+   "cdna": "c.3655C>T",
+   "protein": "p.Gln1219Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "4818067",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3655C>T (p.Gln1219Ter)"
+  },
+  {
+   "cdna": "c.3666_3672del",
+   "protein": "p.Gln1222fs",
+   "classification": "likely pathogenic",
+   "variation_id": "558037",
+   "dbsnp": "rs1555631610",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3666_3672del (p.Gln1222fs)"
+  },
+  {
+   "cdna": "c.3671T>G",
+   "protein": "p.Phe1224Cys",
+   "classification": "likely pathogenic",
+   "variation_id": "287836",
+   "dbsnp": "rs886043744",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3671T>G (p.Phe1224Cys)"
+  },
+  {
+   "cdna": "c.3687_3704delinsGTAGAATTAATCC",
+   "protein": "p.Tyr1229_Leu1235delinsTer",
+   "classification": "likely pathogenic",
+   "variation_id": "4818068",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3687_3704delinsGTAGAATTAATCC (p.Tyr1229_Leu1235delinsTer)"
+  },
+  {
+   "cdna": "c.3718G>A",
+   "protein": "p.Gly1240Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "2506169",
+   "dbsnp": "rs745892286",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3718G>A (p.Gly1240Arg)"
+  },
+  {
+   "cdna": "c.3731T>C",
+   "protein": "p.Leu1244Pro",
+   "classification": "likely pathogenic",
+   "variation_id": "2736695",
+   "dbsnp": "rs2511176179",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3731T>C (p.Leu1244Pro)"
+  },
+  {
+   "cdna": "c.3731_3732delinsCT",
+   "protein": "p.Leu1244Pro",
+   "classification": "likely pathogenic",
+   "variation_id": "4819297",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3731_3732delinsCT (p.Leu1244Pro)"
+  },
+  {
+   "cdna": "c.3732_3735del",
+   "protein": "p.Pro1245fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1705799",
+   "dbsnp": "rs2511176123",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3732_3735del (p.Pro1245fs)"
+  },
+  {
+   "cdna": "c.3754+1G>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "557711",
+   "dbsnp": "rs1555631571",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3754+1G>C"
+  },
+  {
+   "cdna": "c.3754+1G>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "552085",
+   "dbsnp": "rs1555631571",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3754+1G>T"
+  },
+  {
+   "cdna": "c.3754+1del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "985633",
+   "dbsnp": "rs1835896772",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3754+1del"
+  },
+  {
+   "cdna": "c.3754G>C",
+   "protein": "p.Gly1252Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "4818069",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3754G>C (p.Gly1252Arg)"
+  },
+  {
+   "cdna": "c.378del",
+   "protein": "p.Glu127fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1724659",
+   "dbsnp": "rs2511341154",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.378del (p.Glu127fs)"
+  },
+  {
+   "cdna": "c.390_391dup",
+   "protein": "p.Asp131fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4818070",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.390_391dup (p.Asp131fs)"
+  },
+  {
+   "cdna": "c.392dup",
+   "protein": "p.Asp131fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1705800",
+   "dbsnp": "rs2511341044",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.392dup (p.Asp131fs)"
+  },
+  {
+   "cdna": "c.397del",
+   "protein": "p.Val133fs",
+   "classification": "likely pathogenic",
+   "variation_id": "371329",
+   "dbsnp": "rs1057517186",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.397del (p.Val133fs)"
+  },
+  {
+   "cdna": "c.414_435dup",
+   "protein": "p.Tyr146fs",
+   "classification": "likely pathogenic",
+   "variation_id": "556509",
+   "dbsnp": "rs1555641027",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.414_435dup (p.Tyr146fs)"
+  },
+  {
+   "cdna": "c.425_428del",
+   "protein": "p.Lys142fs",
+   "classification": "likely pathogenic",
+   "variation_id": "554442",
+   "dbsnp": "rs770580241",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.425_428del (p.Lys142fs)"
+  },
+  {
+   "cdna": "c.425_428dup",
+   "protein": "p.Leu144fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4818071",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.425_428dup (p.Leu144fs)"
+  },
+  {
+   "cdna": "c.463+1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2099325",
+   "dbsnp": "rs2511340604",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.463+1G>A"
+  },
+  {
+   "cdna": "c.463+2T>G",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "1067827",
+   "dbsnp": "rs2145526252",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.463+2T>G"
+  },
+  {
+   "cdna": "c.464-1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "5004897",
+   "dbsnp": "",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.464-1G>A"
+  },
+  {
+   "cdna": "c.467T>A",
+   "protein": "p.Met156Lys",
+   "classification": "likely pathogenic",
+   "variation_id": "4057232",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.467T>A (p.Met156Lys)"
+  },
+  {
+   "cdna": "c.473dup",
+   "protein": "p.Asn158fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1726160",
+   "dbsnp": "rs2511309763",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.473dup (p.Asn158fs)"
+  },
+  {
+   "cdna": "c.497C>A",
+   "protein": "p.Pro166His",
+   "classification": "likely pathogenic",
+   "variation_id": "1705802",
+   "dbsnp": "rs2511309549",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.497C>A (p.Pro166His)"
+  },
+  {
+   "cdna": "c.497C>T",
+   "protein": "p.Pro166Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "4710451",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.497C>T (p.Pro166Leu)"
+  },
+  {
+   "cdna": "c.500C>G",
+   "protein": "p.Ser167Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "370794",
+   "dbsnp": "rs752409181",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.500C>G (p.Ser167Ter)"
+  },
+  {
+   "cdna": "c.500C>T",
+   "protein": "p.Ser167Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "2844420",
+   "dbsnp": "rs752409181",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.500C>T (p.Ser167Leu)"
+  },
+  {
+   "cdna": "c.511_512del",
+   "protein": "p.Lys171fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4818072",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.511_512del (p.Lys171fs)"
+  },
+  {
+   "cdna": "c.529T>C",
+   "protein": "p.Cys177Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "1705803",
+   "dbsnp": "rs2511309222",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.529T>C (p.Cys177Arg)"
+  },
+  {
+   "cdna": "c.532G>A",
+   "protein": "p.Gly178Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "1705804",
+   "dbsnp": "rs2511309193",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.532G>A (p.Gly178Arg)"
+  },
+  {
+   "cdna": "c.57+1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4818073",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.57+1G>A"
+  },
+  {
+   "cdna": "c.58-2A>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "551018",
+   "dbsnp": "rs1555642347",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.58-2A>T"
+  },
+  {
+   "cdna": "c.586A>T",
+   "protein": "p.Lys196Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "983763",
+   "dbsnp": "rs754653682",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.586A>T (p.Lys196Ter)"
+  },
+  {
+   "cdna": "c.608_609del",
+   "protein": "p.Phe203fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1726313",
+   "dbsnp": "rs2511308451",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.608_609del (p.Phe203fs)"
+  },
+  {
+   "cdna": "c.611_612insTC",
+   "protein": "p.Ile205fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4058945",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.611_612insTC (p.Ile205fs)"
+  },
+  {
+   "cdna": "c.629del",
+   "protein": "p.Phe209_Ser210insTer",
+   "classification": "likely pathogenic",
+   "variation_id": "370135",
+   "dbsnp": "rs1057516260",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.629del (p.Phe209_Ser210insTer)"
+  },
+  {
+   "cdna": "c.631+1G>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2062322",
+   "dbsnp": "rs2511308216",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.631+1G>T"
+  },
+  {
+   "cdna": "c.631+2T>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "557600",
+   "dbsnp": "rs1555638833",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.631+2T>C"
+  },
+  {
+   "cdna": "c.718_719del",
+   "protein": "p.Cys240fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1726112",
+   "dbsnp": "rs2511303175",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.718_719del (p.Cys240fs)"
+  },
+  {
+   "cdna": "c.743G>T",
+   "protein": "p.Gly248Val",
+   "classification": "likely pathogenic",
+   "variation_id": "995578",
+   "dbsnp": "rs1230538609",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.743G>T (p.Gly248Val)"
+  },
+  {
+   "cdna": "c.745C>T",
+   "protein": "p.Pro249Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "988459",
+   "dbsnp": "rs1184804915",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.745C>T (p.Pro249Ser)"
+  },
+  {
+   "cdna": "c.747del",
+   "protein": "p.Lys250fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1726891",
+   "dbsnp": "rs2511302863",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.747del (p.Lys250fs)"
+  },
+  {
+   "cdna": "c.75T>A",
+   "protein": "p.Cys25Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "1725574",
+   "dbsnp": "rs2511358085",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.75T>A (p.Cys25Ter)"
+  },
+  {
+   "cdna": "c.803_805dup",
+   "protein": "p.Met268_Tyr269insLeu",
+   "classification": "likely pathogenic",
+   "variation_id": "1705812",
+   "dbsnp": "rs2511302158",
+   "consequence": "inframe_insertion",
+   "full_name": "NM_000271.5(NPC1):c.803_805dup (p.Met268_Tyr269insLeu)"
+  },
+  {
+   "cdna": "c.839del",
+   "protein": "p.Leu280fs",
+   "classification": "likely pathogenic",
+   "variation_id": "374342",
+   "dbsnp": "rs1057518711",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.839del (p.Leu280fs)"
+  },
+  {
+   "cdna": "c.872G>A",
+   "protein": "p.Trp291Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "983761",
+   "dbsnp": "rs2059018297",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.872G>A (p.Trp291Ter)"
+  },
+  {
+   "cdna": "c.873G>A",
+   "protein": "p.Trp291Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "4058928",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.873G>A (p.Trp291Ter)"
+  },
+  {
+   "cdna": "c.881+1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2822199",
+   "dbsnp": "rs1555638409",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.881+1G>A"
+  },
+  {
+   "cdna": "c.881+2T>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4727697",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.881+2T>C"
+  },
+  {
+   "cdna": "c.882-2A>G",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4818074",
+   "dbsnp": "",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.882-2A>G"
+  },
+  {
+   "cdna": "c.88G>T",
+   "protein": "p.Glu30Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "983843",
+   "dbsnp": "rs2059233326",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.88G>T (p.Glu30Ter)"
+  },
+  {
+   "cdna": "c.901G>T",
+   "protein": "p.Glu301Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "983760",
+   "dbsnp": "rs150154006",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.901G>T (p.Glu301Ter)"
+  },
+  {
+   "cdna": "c.906C>A",
+   "protein": "p.Tyr302Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "1724564",
+   "dbsnp": "rs2511288528",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.906C>A (p.Tyr302Ter)"
+  },
+  {
+   "cdna": "c.943del",
+   "protein": "p.Ala315fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1724380",
+   "dbsnp": "rs1567966452",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.943del (p.Ala315fs)"
+  },
+  {
+   "cdna": "c.955+1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2501063",
+   "dbsnp": "rs2511288024",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.955+1G>A"
+  },
+  {
+   "cdna": "c.955+2_955+5del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4712191",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.955+2_955+5del"
+  },
+  {
+   "cdna": "c.955+3A>G",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4884621",
+   "dbsnp": "",
+   "consequence": "intron variant",
+   "full_name": "NM_000271.5(NPC1):c.955+3A>G"
+  },
+  {
+   "cdna": "c.955G>T",
+   "protein": "p.Gly319Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "3242050",
+   "dbsnp": "rs1454083299",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.955G>T (p.Gly319Ter)"
+  },
+  {
+   "cdna": "c.956-1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "370542",
+   "dbsnp": "rs756853895",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.956-1G>A"
+  },
+  {
+   "cdna": "c.956-1G>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2751517",
+   "dbsnp": "rs756853895",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.956-1G>T"
+  },
+  {
+   "cdna": "c.956-2A>G",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "1677924",
+   "dbsnp": "rs1473909084",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.956-2A>G"
+  },
+  {
+   "cdna": "c.[2727C>T;2793C>T]",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "867233",
+   "dbsnp": "rs1140458|rs774773656",
+   "consequence": "synonymous variant",
+   "full_name": "NM_000271.5(NPC1):c.[2727C>T;2793C>T]"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "58718",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18p11.32-q23(chr18:53345-80209986)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "149674",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18p11.32-q23(chr18:118760-80254946)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "155151",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18p11.32-q23(chr18:136226-80256240)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "154106",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18p11.32-q23(chr18:136227-80256240)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "160810",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18p11.32-q23(chr18:148963-80252149)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "58729",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18p11.32-q23(chr18:148963-80244381)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "150559",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18p11.32-q23(chr18:149089-80254936)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "144654",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18p11.32-q23(chr18:149089-80234391)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "155008",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18p11.22-q11.2(chr18:8779843-24685379)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "4820056",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "Multiple alleles"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "154073",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18q11.1-12.3(chr18:20941324-40360620)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "153150",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18q11.1-12.1(chr18:20949378-34363455)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "58758",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18q11.1-12.1(chr18:20960320-28601877)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "58756",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18q11.1-23(chr18:20960320-80234429)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "154990",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18q11.1-22.3(chr18:20962119-74691446)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "58762",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 18q11.1-23(chr18:20989762-80209986)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "2707190",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.10:g.23543572_23543573insTTTTTTTTTTTTTTTTTTTTNNNNNNNNNNCCACCACCAGTGTTATTTGATTTATGGAATTTTGAAACCTCTTCGGGGCCCAAAGTGCTGGGATTACAGGCGTGAGCCACCGCGCCCGGCCACGT"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "3391862",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18q11.2-23(chr18:19309942-78014123)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "3242771",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(?_21140312)_(21141981_?)del"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "3242770",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(?_21115552)_(21120958_?)del"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "3242769",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(?_21119346)_(21126312_?)del"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "3242767",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(?_21132700)_(21140464_?)del"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "3242766",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(?_21132700)_(21141511_?)del"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "3242764",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(?_21148767)_(21153558_?)del"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "3242763",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(?_21140185)_(21166317_?)del"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "3242762",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(?_20516815)_(21534612_?)del"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1526597",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18p11.32-q23(chr18:136226-78014123)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1459879",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000018.9:g.(?_21166241)_(21166317_?)del"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1340066",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18p11.32-q12.1(chr18:136226-25252276)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1326872",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "Single allele"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "816014",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18q11.2-21.2(chr18:20689919-49455212)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "443993",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18p11.32-q23(chr18:136227-78014123)"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "443662",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18p11.21-q23(chr18:14869204-78014123)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "443062",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18q11.2-12.2(chr18:20069932-36887326)x1"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "442451",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18p11.32-q21.1(chr18:136227-46171053)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "442013",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18q11.1-22.1(chr18:18521285-64495798)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "441767",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18p11.32-q11.2(chr18:136226-21657790)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "395441",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18p11.32-q23(chr18:163323-78005185)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "395050",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18p11.21-q11.2(chr18:12254327-23262749)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "253620",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18q11.1-23(chr18:18548019-77954165)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "253424",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 18p11.32-q23(chr18:163323-78005236)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "2975",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NPC1, IVS16, G-A, -82"
+  },
+  {
+   "cdna": "c.-5_16del",
+   "protein": "p.Met1_Leu6del",
+   "classification": "pathogenic",
+   "variation_id": "4713657",
+   "dbsnp": "",
+   "consequence": "inframe_deletion|initiator_codon_variant",
+   "full_name": "NM_000271.5(NPC1):c.-5_16del (p.Met1_Leu6del)"
+  },
+  {
+   "cdna": "c.1011del",
+   "protein": "p.Leu338fs",
+   "classification": "pathogenic",
+   "variation_id": "5014709",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1011del (p.Leu338fs)"
+  },
+  {
+   "cdna": "c.1026G>A",
+   "protein": "p.Trp342Ter",
+   "classification": "pathogenic",
+   "variation_id": "2134612",
+   "dbsnp": "rs2511284626",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1026G>A (p.Trp342Ter)"
+  },
+  {
+   "cdna": "c.1028G>A",
+   "protein": "p.Gly343Glu",
+   "classification": "pathogenic",
+   "variation_id": "1412395",
+   "dbsnp": "rs1444308532",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1028G>A (p.Gly343Glu)"
+  },
+  {
+   "cdna": "c.1029del",
+   "protein": "p.Ser344fs",
+   "classification": "pathogenic",
+   "variation_id": "2713959",
+   "dbsnp": "rs2511284582",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1029del (p.Ser344fs)"
+  },
+  {
+   "cdna": "c.1030del",
+   "protein": "p.Ser344fs",
+   "classification": "pathogenic",
+   "variation_id": "132888",
+   "dbsnp": "rs483352883",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1030del (p.Ser344fs)"
+  },
+  {
+   "cdna": "c.1033_1034del",
+   "protein": "p.Phe345fs",
+   "classification": "pathogenic",
+   "variation_id": "371030",
+   "dbsnp": "rs1057516950",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1033_1034del (p.Phe345fs)"
+  },
+  {
+   "cdna": "c.1034del",
+   "protein": "p.Phe345fs",
+   "classification": "pathogenic",
+   "variation_id": "861914",
+   "dbsnp": "rs1057516950",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1034del (p.Phe345fs)"
+  },
+  {
+   "cdna": "c.1065del",
+   "protein": "p.Phe356fs",
+   "classification": "pathogenic",
+   "variation_id": "288351",
+   "dbsnp": "rs886043871",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1065del (p.Phe356fs)"
+  },
+  {
+   "cdna": "c.1084_1093del",
+   "protein": "p.Thr362fs",
+   "classification": "pathogenic",
+   "variation_id": "1705750",
+   "dbsnp": "rs2511284054",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1084_1093del (p.Thr362fs)"
+  },
+  {
+   "cdna": "c.1097C>G",
+   "protein": "p.Ser366Ter",
+   "classification": "pathogenic",
+   "variation_id": "973557",
+   "dbsnp": "rs1278305591",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1097C>G (p.Ser366Ter)"
+  },
+  {
+   "cdna": "c.1102dup",
+   "protein": "p.Leu368fs",
+   "classification": "pathogenic",
+   "variation_id": "2771928",
+   "dbsnp": "rs2511283953",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1102dup (p.Leu368fs)"
+  },
+  {
+   "cdna": "c.1103_1151del",
+   "protein": "p.Leu368fs",
+   "classification": "pathogenic",
+   "variation_id": "3619524",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1103_1151del (p.Leu368fs)"
+  },
+  {
+   "cdna": "c.1110_1113del",
+   "protein": "p.Val371fs",
+   "classification": "pathogenic",
+   "variation_id": "1705761",
+   "dbsnp": "rs2511283868",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1110_1113del (p.Val371fs)"
+  },
+  {
+   "cdna": "c.1111del",
+   "protein": "p.Val371fs",
+   "classification": "pathogenic",
+   "variation_id": "5012734",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1111del (p.Val371fs)"
+  },
+  {
+   "cdna": "c.1133_1161del",
+   "protein": "p.Val378fs",
+   "classification": "pathogenic",
+   "variation_id": "550364",
+   "dbsnp": "rs1555637164",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1133_1161del (p.Val378fs)"
+  },
+  {
+   "cdna": "c.1142G>A",
+   "protein": "p.Trp381Ter",
+   "classification": "pathogenic",
+   "variation_id": "198702",
+   "dbsnp": "rs794727897",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1142G>A (p.Trp381Ter)"
+  },
+  {
+   "cdna": "c.1152dup",
+   "protein": "p.Ser385fs",
+   "classification": "pathogenic",
+   "variation_id": "1416246",
+   "dbsnp": "rs2145456711",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1152dup (p.Ser385fs)"
+  },
+  {
+   "cdna": "c.1171G>T",
+   "protein": "p.Glu391Ter",
+   "classification": "pathogenic",
+   "variation_id": "522757",
+   "dbsnp": "rs1555637139",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1171G>T (p.Glu391Ter)"
+  },
+  {
+   "cdna": "c.1176dup",
+   "protein": "p.Glu393fs",
+   "classification": "pathogenic",
+   "variation_id": "2782515",
+   "dbsnp": "rs762646794",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1176dup (p.Glu393fs)"
+  },
+  {
+   "cdna": "c.1180_1181dup",
+   "protein": "p.Phe395fs",
+   "classification": "pathogenic",
+   "variation_id": "1705772",
+   "dbsnp": "rs2511283295",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1180_1181dup (p.Phe395fs)"
+  },
+  {
+   "cdna": "c.1182C>G",
+   "protein": "p.Tyr394Ter",
+   "classification": "pathogenic",
+   "variation_id": "2859962",
+   "dbsnp": "rs2511283263",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1182C>G (p.Tyr394Ter)"
+  },
+  {
+   "cdna": "c.1205_1208del",
+   "protein": "p.Phe402fs",
+   "classification": "pathogenic",
+   "variation_id": "2778375",
+   "dbsnp": "rs2511283040",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1205_1208del (p.Phe402fs)"
+  },
+  {
+   "cdna": "c.1211G>A",
+   "protein": "p.Arg404Gln",
+   "classification": "pathogenic",
+   "variation_id": "188794",
+   "dbsnp": "rs139751448",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1211G>A (p.Arg404Gln)"
+  },
+  {
+   "cdna": "c.1219C>T",
+   "protein": "p.Gln407Ter",
+   "classification": "pathogenic",
+   "variation_id": "498154",
+   "dbsnp": "rs775629081",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1219C>T (p.Gln407Ter)"
+  },
+  {
+   "cdna": "c.1238dup",
+   "protein": "p.Leu414fs",
+   "classification": "pathogenic",
+   "variation_id": "1705783",
+   "dbsnp": "rs2511282703",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1238dup (p.Leu414fs)"
+  },
+  {
+   "cdna": "c.1250_1253del",
+   "protein": "p.Lys417fs",
+   "classification": "pathogenic",
+   "variation_id": "841247",
+   "dbsnp": "rs2058949697",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1250_1253del (p.Lys417fs)"
+  },
+  {
+   "cdna": "c.1253_1260dup",
+   "protein": "p.Gln421fs",
+   "classification": "pathogenic",
+   "variation_id": "2807989",
+   "dbsnp": "rs2511282463",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1253_1260dup (p.Gln421fs)"
+  },
+  {
+   "cdna": "c.1260C>A",
+   "protein": "p.Tyr420Ter",
+   "classification": "pathogenic",
+   "variation_id": "5011293",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1260C>A (p.Tyr420Ter)"
+  },
+  {
+   "cdna": "c.1261C>T",
+   "protein": "p.Gln421Ter",
+   "classification": "pathogenic",
+   "variation_id": "958381",
+   "dbsnp": "rs2058949363",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1261C>T (p.Gln421Ter)"
+  },
+  {
+   "cdna": "c.1269C>A",
+   "protein": "p.Tyr423Ter",
+   "classification": "pathogenic",
+   "variation_id": "3646604",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1269C>A (p.Tyr423Ter)"
+  },
+  {
+   "cdna": "c.1290del",
+   "protein": "p.Phe431fs",
+   "classification": "pathogenic",
+   "variation_id": "2838653",
+   "dbsnp": "rs2511282212",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1290del (p.Phe431fs)"
+  },
+  {
+   "cdna": "c.1318dup",
+   "protein": "p.Leu440fs",
+   "classification": "pathogenic",
+   "variation_id": "5016304",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1318dup (p.Leu440fs)"
+  },
+  {
+   "cdna": "c.1339C>T",
+   "protein": "p.Gln447Ter",
+   "classification": "pathogenic",
+   "variation_id": "371192",
+   "dbsnp": "rs1057517077",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1339C>T (p.Gln447Ter)"
+  },
+  {
+   "cdna": "c.1361del",
+   "protein": "p.Thr454fs",
+   "classification": "pathogenic",
+   "variation_id": "2104146",
+   "dbsnp": "rs2511276986",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1361del (p.Thr454fs)"
+  },
+  {
+   "cdna": "c.1368_1369del",
+   "protein": "p.Ser456_Tyr457insTer",
+   "classification": "pathogenic",
+   "variation_id": "956957",
+   "dbsnp": "rs2058928573",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1368_1369del (p.Ser456_Tyr457insTer)"
+  },
+  {
+   "cdna": "c.1369dup",
+   "protein": "p.Tyr457fs",
+   "classification": "pathogenic",
+   "variation_id": "2020204",
+   "dbsnp": "rs2511276931",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1369dup (p.Tyr457fs)"
+  },
+  {
+   "cdna": "c.1405_1409del",
+   "protein": "p.Leu469fs",
+   "classification": "pathogenic",
+   "variation_id": "3660531",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1405_1409del (p.Leu469fs)"
+  },
+  {
+   "cdna": "c.1417dup",
+   "protein": "p.Ser473fs",
+   "classification": "pathogenic",
+   "variation_id": "1352436",
+   "dbsnp": "rs2145447827",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1417dup (p.Ser473fs)"
+  },
+  {
+   "cdna": "c.1418C>G",
+   "protein": "p.Ser473Ter",
+   "classification": "pathogenic",
+   "variation_id": "1676845",
+   "dbsnp": "rs2511276304",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1418C>G (p.Ser473Ter)"
+  },
+  {
+   "cdna": "c.1421C>T",
+   "protein": "p.Pro474Leu",
+   "classification": "pathogenic",
+   "variation_id": "374049",
+   "dbsnp": "rs372445155",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1421C>T (p.Pro474Leu)"
+  },
+  {
+   "cdna": "c.1435_1438dup",
+   "protein": "p.Thr480fs",
+   "classification": "pathogenic",
+   "variation_id": "1451367",
+   "dbsnp": "rs2145447627",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1435_1438dup (p.Thr480fs)"
+  },
+  {
+   "cdna": "c.144_145insT",
+   "protein": "p.Lys49Ter",
+   "classification": "pathogenic",
+   "variation_id": "552698",
+   "dbsnp": "rs1555642296",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.144_145insT (p.Lys49Ter)"
+  },
+  {
+   "cdna": "c.1451del",
+   "protein": "p.Val484fs",
+   "classification": "pathogenic",
+   "variation_id": "1705815",
+   "dbsnp": "rs2511275951",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1451del (p.Val484fs)"
+  },
+  {
+   "cdna": "c.1459dup",
+   "protein": "p.Tyr487fs",
+   "classification": "pathogenic",
+   "variation_id": "992841",
+   "dbsnp": "rs2511275889",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1459dup (p.Tyr487fs)"
+  },
+  {
+   "cdna": "c.1497dup",
+   "protein": "p.Gly500fs",
+   "classification": "pathogenic",
+   "variation_id": "952147",
+   "dbsnp": "rs2058926540",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1497dup (p.Gly500fs)"
+  },
+  {
+   "cdna": "c.1501G>T",
+   "protein": "p.Asp501Tyr",
+   "classification": "pathogenic",
+   "variation_id": "2736709",
+   "dbsnp": "rs2511275485",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1501G>T (p.Asp501Tyr)"
+  },
+  {
+   "cdna": "c.1502A>T",
+   "protein": "p.Asp501Val",
+   "classification": "pathogenic",
+   "variation_id": "132889",
+   "dbsnp": "rs483352885",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1502A>T (p.Asp501Val)"
+  },
+  {
+   "cdna": "c.1512dup",
+   "protein": "p.Val505fs",
+   "classification": "pathogenic",
+   "variation_id": "5013243",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1512dup (p.Val505fs)"
+  },
+  {
+   "cdna": "c.1525dup",
+   "protein": "p.Tyr509fs",
+   "classification": "pathogenic",
+   "variation_id": "5012687",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1525dup (p.Tyr509fs)"
+  },
+  {
+   "cdna": "c.1531_1532del",
+   "protein": "p.Thr511fs",
+   "classification": "pathogenic",
+   "variation_id": "1074872",
+   "dbsnp": "rs2145446953",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1531_1532del (p.Thr511fs)"
+  },
+  {
+   "cdna": "c.1553+1G>C",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "4818047",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1553+1G>C"
+  },
+  {
+   "cdna": "c.1553G>A",
+   "protein": "p.Arg518Gln",
+   "classification": "pathogenic",
+   "variation_id": "132890",
+   "dbsnp": "rs483352886",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1553G>A (p.Arg518Gln)"
+  },
+  {
+   "cdna": "c.1554-1009G>A",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "553804",
+   "dbsnp": "rs1055204017",
+   "consequence": "intron variant",
+   "full_name": "NM_000271.5(NPC1):c.1554-1009G>A"
+  },
+  {
+   "cdna": "c.1612_1619dup",
+   "protein": "p.Phe542fs",
+   "classification": "pathogenic",
+   "variation_id": "1705817",
+   "dbsnp": "rs2511262763",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1612_1619dup (p.Phe542fs)"
+  },
+  {
+   "cdna": "c.1618_1619insGTAC",
+   "protein": "p.Pro540fs",
+   "classification": "pathogenic",
+   "variation_id": "2135408",
+   "dbsnp": "rs2511262780",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1618_1619insGTAC (p.Pro540fs)"
+  },
+  {
+   "cdna": "c.1628C>T",
+   "protein": "p.Pro543Leu",
+   "classification": "pathogenic",
+   "variation_id": "181455",
+   "dbsnp": "rs369368181",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1628C>T (p.Pro543Leu)"
+  },
+  {
+   "cdna": "c.1628del",
+   "protein": "p.Pro543fs",
+   "classification": "pathogenic",
+   "variation_id": "556403",
+   "dbsnp": "rs1555635957",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1628del (p.Pro543fs)"
+  },
+  {
+   "cdna": "c.1631G>A",
+   "protein": "p.Trp544Ter",
+   "classification": "pathogenic",
+   "variation_id": "2915518",
+   "dbsnp": "rs2511262669",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1631G>A (p.Trp544Ter)"
+  },
+  {
+   "cdna": "c.1643G>A",
+   "protein": "p.Gly548Glu",
+   "classification": "pathogenic",
+   "variation_id": "4802998",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1643G>A (p.Gly548Glu)"
+  },
+  {
+   "cdna": "c.1654+1G>A",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1070529",
+   "dbsnp": "rs2145433024",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1654+1G>A"
+  },
+  {
+   "cdna": "c.1654+1dup",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1705752",
+   "dbsnp": "rs2511262517",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1654+1dup"
+  },
+  {
+   "cdna": "c.1711del",
+   "protein": "p.Tyr571fs",
+   "classification": "pathogenic",
+   "variation_id": "371675",
+   "dbsnp": "rs1057517455",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1711del (p.Tyr571fs)"
+  },
+  {
+   "cdna": "c.1728_1731delinsCATCA",
+   "protein": "p.Lys576fs",
+   "classification": "pathogenic",
+   "variation_id": "5011703",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1728_1731delinsCATCA (p.Lys576fs)"
+  },
+  {
+   "cdna": "c.1741dup",
+   "protein": "p.Gln581fs",
+   "classification": "pathogenic",
+   "variation_id": "3642868",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1741dup (p.Gln581fs)"
+  },
+  {
+   "cdna": "c.1747_1755delinsAT",
+   "protein": "p.Trp583fs",
+   "classification": "pathogenic",
+   "variation_id": "1705753",
+   "dbsnp": "rs2511249901",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1747_1755delinsAT (p.Trp583fs)"
+  },
+  {
+   "cdna": "c.1754_1755del",
+   "protein": "p.Lys585fs",
+   "classification": "pathogenic",
+   "variation_id": "3728682",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1754_1755del (p.Lys585fs)"
+  },
+  {
+   "cdna": "c.1757+1G>T",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1705754",
+   "dbsnp": "rs2058813191",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1757+1G>T"
+  },
+  {
+   "cdna": "c.1757+2T>G",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1705756",
+   "dbsnp": "rs2511249838",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1757+2T>G"
+  },
+  {
+   "cdna": "c.1757+2_1757+3del",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1705755",
+   "dbsnp": "rs2511249830",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1757+2_1757+3del"
+  },
+  {
+   "cdna": "c.1764dup",
+   "protein": "p.Asn589Ter",
+   "classification": "pathogenic",
+   "variation_id": "2835530",
+   "dbsnp": "rs2511240834",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1764dup (p.Asn589Ter)"
+  },
+  {
+   "cdna": "c.1770del",
+   "protein": "p.Phe590fs",
+   "classification": "pathogenic",
+   "variation_id": "2807238",
+   "dbsnp": "rs1410351489",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1770del (p.Phe590fs)"
+  },
+  {
+   "cdna": "c.1778del",
+   "protein": "p.Asn593fs",
+   "classification": "pathogenic",
+   "variation_id": "5016150",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1778del (p.Asn593fs)"
+  },
+  {
+   "cdna": "c.178C>T",
+   "protein": "p.Gln60Ter",
+   "classification": "pathogenic",
+   "variation_id": "2099123",
+   "dbsnp": "rs2511357416",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.178C>T (p.Gln60Ter)"
+  },
+  {
+   "cdna": "c.1800del",
+   "protein": "p.Ile601fs",
+   "classification": "pathogenic",
+   "variation_id": "132891",
+   "dbsnp": "rs483352879",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1800del (p.Ile601fs)"
+  },
+  {
+   "cdna": "c.1819C>T",
+   "protein": "p.Arg607Ter",
+   "classification": "pathogenic",
+   "variation_id": "265495",
+   "dbsnp": "rs377130051",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1819C>T (p.Arg607Ter)"
+  },
+  {
+   "cdna": "c.1832A>G",
+   "protein": "p.Asp611Gly",
+   "classification": "pathogenic",
+   "variation_id": "132892",
+   "dbsnp": "rs483352887",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1832A>G (p.Asp611Gly)"
+  },
+  {
+   "cdna": "c.1844del",
+   "protein": "p.Arg615fs",
+   "classification": "pathogenic",
+   "variation_id": "936729",
+   "dbsnp": "rs1257362365",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1844del (p.Arg615fs)"
+  },
+  {
+   "cdna": "c.1903_1906dup",
+   "protein": "p.Ser636fs",
+   "classification": "pathogenic",
+   "variation_id": "956471",
+   "dbsnp": "rs2058768417",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1903_1906dup (p.Ser636fs)"
+  },
+  {
+   "cdna": "c.1990G>A",
+   "protein": "p.Val664Met",
+   "classification": "pathogenic",
+   "variation_id": "370601",
+   "dbsnp": "rs376213990",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1990G>A (p.Val664Met)"
+  },
+  {
+   "cdna": "c.2000C>T",
+   "protein": "p.Ser667Leu",
+   "classification": "pathogenic",
+   "variation_id": "1380508",
+   "dbsnp": "rs2058756032",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2000C>T (p.Ser667Leu)"
+  },
+  {
+   "cdna": "c.2008_2011del",
+   "protein": "p.Cys670fs",
+   "classification": "pathogenic",
+   "variation_id": "4818053",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2008_2011del (p.Cys670fs)"
+  },
+  {
+   "cdna": "c.2013_2020del",
+   "protein": "p.Gly673fs",
+   "classification": "pathogenic",
+   "variation_id": "5011345",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2013_2020del (p.Gly673fs)"
+  },
+  {
+   "cdna": "c.2017_2018del",
+   "protein": "p.Gly673fs",
+   "classification": "pathogenic",
+   "variation_id": "5014321",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2017_2018del (p.Gly673fs)"
+  },
+  {
+   "cdna": "c.2020_2021del",
+   "protein": "p.Val674fs",
+   "classification": "pathogenic",
+   "variation_id": "4754264",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2020_2021del (p.Val674fs)"
+  },
+  {
+   "cdna": "c.2027_2030del",
+   "protein": "p.Ser676fs",
+   "classification": "pathogenic",
+   "variation_id": "5011347",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2027_2030del (p.Ser676fs)"
+  },
+  {
+   "cdna": "c.2033_2034insC",
+   "protein": "p.Gly679fs",
+   "classification": "pathogenic",
+   "variation_id": "5011346",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2033_2034insC (p.Gly679fs)"
+  },
+  {
+   "cdna": "c.2039dup",
+   "protein": "p.Leu680fs",
+   "classification": "pathogenic",
+   "variation_id": "1456154",
+   "dbsnp": "rs2145400078",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2039dup (p.Leu680fs)"
+  },
+  {
+   "cdna": "c.2069_2072dup",
+   "protein": "p.Phe692fs",
+   "classification": "pathogenic",
+   "variation_id": "5013723",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2069_2072dup (p.Phe692fs)"
+  },
+  {
+   "cdna": "c.2077del",
+   "protein": "p.Leu693fs",
+   "classification": "pathogenic",
+   "variation_id": "1705759",
+   "dbsnp": "rs2511234937",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2077del (p.Leu693fs)"
+  },
+  {
+   "cdna": "c.2096_2097dup",
+   "protein": "p.Asp700fs",
+   "classification": "pathogenic",
+   "variation_id": "2012367",
+   "dbsnp": "rs2511234717",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2096_2097dup (p.Asp700fs)"
+  },
+  {
+   "cdna": "c.2096del",
+   "protein": "p.Val699fs",
+   "classification": "pathogenic",
+   "variation_id": "645173",
+   "dbsnp": "rs1598954455",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2096del (p.Val699fs)"
+  },
+  {
+   "cdna": "c.2112del",
+   "protein": "p.Leu705fs",
+   "classification": "pathogenic",
+   "variation_id": "5013874",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2112del (p.Leu705fs)"
+  },
+  {
+   "cdna": "c.2128C>T",
+   "protein": "p.Gln710Ter",
+   "classification": "pathogenic",
+   "variation_id": "132894",
+   "dbsnp": "rs483352889",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2128C>T (p.Gln710Ter)"
+  },
+  {
+   "cdna": "c.2129del",
+   "protein": "p.Gln710fs",
+   "classification": "pathogenic",
+   "variation_id": "1454777",
+   "dbsnp": "rs2058753352",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2129del (p.Gln710fs)"
+  },
+  {
+   "cdna": "c.2130+1G>A",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "982131",
+   "dbsnp": "rs2058753286",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.2130+1G>A"
+  },
+  {
+   "cdna": "c.2130+1G>C",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1705762",
+   "dbsnp": "rs2058753286",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.2130+1G>C"
+  },
+  {
+   "cdna": "c.2134_2135del",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1705763",
+   "dbsnp": "rs2511230353",
+   "consequence": "",
+   "full_name": "NM_000271.4(NPC1):c.2134_2135del"
+  },
+  {
+   "cdna": "c.2137_2138insT",
+   "protein": "p.Glu713fs",
+   "classification": "pathogenic",
+   "variation_id": "4291941",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2137_2138insT (p.Glu713fs)"
+  },
+  {
+   "cdna": "c.2152_2153dup",
+   "protein": "p.Thr719fs",
+   "classification": "pathogenic",
+   "variation_id": "5011621",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2152_2153dup (p.Thr719fs)"
+  },
+  {
+   "cdna": "c.2158_2162del",
+   "protein": "p.Leu720fs",
+   "classification": "pathogenic",
+   "variation_id": "1705765",
+   "dbsnp": "rs2511230156",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2158_2162del (p.Leu720fs)"
+  },
+  {
+   "cdna": "c.2165delinsGGATCG",
+   "protein": "p.Gln722fs",
+   "classification": "pathogenic",
+   "variation_id": "5013289",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2165delinsGGATCG (p.Gln722fs)"
+  },
+  {
+   "cdna": "c.2170del",
+   "protein": "p.Leu724fs",
+   "classification": "pathogenic",
+   "variation_id": "1997866",
+   "dbsnp": "rs2511230102",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2170del (p.Leu724fs)"
+  },
+  {
+   "cdna": "c.2175dup",
+   "protein": "p.Arg726fs",
+   "classification": "pathogenic",
+   "variation_id": "2032467",
+   "dbsnp": "rs2511230006",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2175dup (p.Arg726fs)"
+  },
+  {
+   "cdna": "c.2177G>C",
+   "protein": "p.Arg726Thr",
+   "classification": "pathogenic",
+   "variation_id": "132895",
+   "dbsnp": "rs483352890",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2177G>C (p.Arg726Thr)"
+  },
+  {
+   "cdna": "c.219_220del",
+   "protein": "p.Cys74fs",
+   "classification": "pathogenic",
+   "variation_id": "5013796",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.219_220del (p.Cys74fs)"
+  },
+  {
+   "cdna": "c.2205_2214delinsATT",
+   "protein": "p.Met735fs",
+   "classification": "pathogenic",
+   "variation_id": "5011286",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2205_2214delinsATT (p.Met735fs)"
+  },
+  {
+   "cdna": "c.2213C>A",
+   "protein": "p.Ser738Ter",
+   "classification": "pathogenic",
+   "variation_id": "242482",
+   "dbsnp": "rs777286835",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2213C>A (p.Ser738Ter)"
+  },
+  {
+   "cdna": "c.2286_2287del",
+   "protein": "p.Phe763fs",
+   "classification": "pathogenic",
+   "variation_id": "373793",
+   "dbsnp": "rs1057518613",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2286_2287del (p.Phe763fs)"
+  },
+  {
+   "cdna": "c.2286_2287dup",
+   "protein": "p.Phe763fs",
+   "classification": "pathogenic",
+   "variation_id": "5014322",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2286_2287dup (p.Phe763fs)"
+  },
+  {
+   "cdna": "c.2286_2289del",
+   "protein": "p.Phe763fs",
+   "classification": "pathogenic",
+   "variation_id": "2817164",
+   "dbsnp": "rs2511222768",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2286_2289del (p.Phe763fs)"
+  },
+  {
+   "cdna": "c.2291C>A",
+   "protein": "p.Ala764Glu",
+   "classification": "pathogenic",
+   "variation_id": "1710501",
+   "dbsnp": "rs773765255",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2291C>A (p.Ala764Glu)"
+  },
+  {
+   "cdna": "c.2291C>T",
+   "protein": "p.Ala764Val",
+   "classification": "pathogenic",
+   "variation_id": "1066745",
+   "dbsnp": "rs773765255",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2291C>T (p.Ala764Val)"
+  },
+  {
+   "cdna": "c.2297T>A",
+   "protein": "p.Leu766Ter",
+   "classification": "pathogenic",
+   "variation_id": "1030709",
+   "dbsnp": "rs2058711607",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2297T>A (p.Leu766Ter)"
+  },
+  {
+   "cdna": "c.2302dup",
+   "protein": "p.Val768fs",
+   "classification": "pathogenic",
+   "variation_id": "132897",
+   "dbsnp": "rs483352881",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2302dup (p.Val768fs)"
+  },
+  {
+   "cdna": "c.2317del",
+   "protein": "p.Leu773fs",
+   "classification": "pathogenic",
+   "variation_id": "4731927",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2317del (p.Leu773fs)"
+  },
+  {
+   "cdna": "c.2323C>T",
+   "protein": "p.Gln775Ter",
+   "classification": "pathogenic",
+   "variation_id": "2736705",
+   "dbsnp": "rs1338210490",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2323C>T (p.Gln775Ter)"
+  },
+  {
+   "cdna": "c.2324A>C",
+   "protein": "p.Gln775Pro",
+   "classification": "pathogenic",
+   "variation_id": "21134",
+   "dbsnp": "rs80358253",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2324A>C (p.Gln775Pro)"
+  },
+  {
+   "cdna": "c.2374-1G>A",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1050802",
+   "dbsnp": "rs2145381556",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.2374-1G>A"
+  },
+  {
+   "cdna": "c.239_258del",
+   "protein": "p.Leu80fs",
+   "classification": "pathogenic",
+   "variation_id": "2857827",
+   "dbsnp": "rs2511352293",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.239_258del (p.Leu80fs)"
+  },
+  {
+   "cdna": "c.2423del",
+   "protein": "p.Thr808fs",
+   "classification": "pathogenic",
+   "variation_id": "5014593",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2423del (p.Thr808fs)"
+  },
+  {
+   "cdna": "c.2431C>T",
+   "protein": "p.Gln811Ter",
+   "classification": "pathogenic",
+   "variation_id": "2858822",
+   "dbsnp": "rs2058707982",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2431C>T (p.Gln811Ter)"
+  },
+  {
+   "cdna": "c.2454del",
+   "protein": "p.Arg819fs",
+   "classification": "pathogenic",
+   "variation_id": "5015053",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2454del (p.Arg819fs)"
+  },
+  {
+   "cdna": "c.2464_2465insT",
+   "protein": "p.Lys822fs",
+   "classification": "pathogenic",
+   "variation_id": "2152296",
+   "dbsnp": "rs2511221073",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2464_2465insT (p.Lys822fs)"
+  },
+  {
+   "cdna": "c.2485del",
+   "protein": "p.Leu829fs",
+   "classification": "pathogenic",
+   "variation_id": "2762172",
+   "dbsnp": "rs2511220896",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2485del (p.Leu829fs)"
+  },
+  {
+   "cdna": "c.248_249del",
+   "protein": "p.Leu83fs",
+   "classification": "pathogenic",
+   "variation_id": "1071813",
+   "dbsnp": "rs2145544570",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.248_249del (p.Leu83fs)"
+  },
+  {
+   "cdna": "c.2498G>A",
+   "protein": "p.Trp833Ter",
+   "classification": "pathogenic",
+   "variation_id": "3723090",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2498G>A (p.Trp833Ter)"
+  },
+  {
+   "cdna": "c.24dup",
+   "protein": "p.Gly9fs",
+   "classification": "pathogenic",
+   "variation_id": "1456903",
+   "dbsnp": "rs2145603843",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.24dup (p.Gly9fs)"
+  },
+  {
+   "cdna": "c.2531del",
+   "protein": "p.Gly844fs",
+   "classification": "pathogenic",
+   "variation_id": "2846892",
+   "dbsnp": "rs2145378067",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2531del (p.Gly844fs)"
+  },
+  {
+   "cdna": "c.2536_2537del",
+   "protein": "p.Leu846fs",
+   "classification": "pathogenic",
+   "variation_id": "2034706",
+   "dbsnp": "rs2511218341",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2536_2537del (p.Leu846fs)"
+  },
+  {
+   "cdna": "c.2563A>T",
+   "protein": "p.Lys855Ter",
+   "classification": "pathogenic",
+   "variation_id": "5014201",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2563A>T (p.Lys855Ter)"
+  },
+  {
+   "cdna": "c.2572_2577delinsG",
+   "protein": "p.Ile858fs",
+   "classification": "pathogenic",
+   "variation_id": "5015133",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2572_2577delinsG (p.Ile858fs)"
+  },
+  {
+   "cdna": "c.2590_2591del",
+   "protein": "p.Leu864fs",
+   "classification": "pathogenic",
+   "variation_id": "5012495",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2590_2591del (p.Leu864fs)"
+  },
+  {
+   "cdna": "c.2591_2594del",
+   "protein": "p.Leu864fs",
+   "classification": "pathogenic",
+   "variation_id": "2812189",
+   "dbsnp": "rs2511217914",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2591_2594del (p.Leu864fs)"
+  },
+  {
+   "cdna": "c.2593dup",
+   "protein": "p.Ser865fs",
+   "classification": "pathogenic",
+   "variation_id": "5015913",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2593dup (p.Ser865fs)"
+  },
+  {
+   "cdna": "c.2604+2T>G",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1705767",
+   "dbsnp": "rs2511217778",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.2604+2T>G"
+  },
+  {
+   "cdna": "c.2608T>A",
+   "protein": "p.Ser870Thr",
+   "classification": "pathogenic",
+   "variation_id": "973558",
+   "dbsnp": "rs2058690179",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2608T>A (p.Ser870Thr)"
+  },
+  {
+   "cdna": "c.2612del",
+   "protein": "p.Tyr871fs",
+   "classification": "pathogenic",
+   "variation_id": "1705768",
+   "dbsnp": "rs2511214670",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2612del (p.Tyr871fs)"
+  },
+  {
+   "cdna": "c.2641C>T",
+   "protein": "p.Gln881Ter",
+   "classification": "pathogenic",
+   "variation_id": "2020497",
+   "dbsnp": "rs2511214388",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2641C>T (p.Gln881Ter)"
+  },
+  {
+   "cdna": "c.2647del",
+   "protein": "p.Leu883fs",
+   "classification": "pathogenic",
+   "variation_id": "1705769",
+   "dbsnp": "rs2511214292",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2647del (p.Leu883fs)"
+  },
+  {
+   "cdna": "c.2662C>T",
+   "protein": "p.Pro888Ser",
+   "classification": "pathogenic",
+   "variation_id": "2736703",
+   "dbsnp": "rs1191346899",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2662C>T (p.Pro888Ser)"
+  },
+  {
+   "cdna": "c.2664dup",
+   "protein": "p.Val889fs",
+   "classification": "pathogenic",
+   "variation_id": "970280",
+   "dbsnp": "rs2058688995",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2664dup (p.Val889fs)"
+  },
+  {
+   "cdna": "c.2665G>A",
+   "protein": "p.Val889Met",
+   "classification": "pathogenic",
+   "variation_id": "2962",
+   "dbsnp": "rs120074130",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2665G>A (p.Val889Met)"
+  },
+  {
+   "cdna": "c.2665dup",
+   "protein": "p.Val889fs",
+   "classification": "pathogenic",
+   "variation_id": "5013650",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2665dup (p.Val889fs)"
+  },
+  {
+   "cdna": "c.2671_2680del",
+   "protein": "p.Phe891fs",
+   "classification": "pathogenic",
+   "variation_id": "5011479",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2671_2680del (p.Phe891fs)"
+  },
+  {
+   "cdna": "c.2683G>T",
+   "protein": "p.Glu895Ter",
+   "classification": "pathogenic",
+   "variation_id": "1072937",
+   "dbsnp": "rs2145373524",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2683G>T (p.Glu895Ter)"
+  },
+  {
+   "cdna": "c.2683dup",
+   "protein": "p.Glu895fs",
+   "classification": "pathogenic",
+   "variation_id": "551834",
+   "dbsnp": "rs1555633326",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2683dup (p.Glu895fs)"
+  },
+  {
+   "cdna": "c.2688dup",
+   "protein": "p.His897fs",
+   "classification": "pathogenic",
+   "variation_id": "5014620",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2688dup (p.His897fs)"
+  },
+  {
+   "cdna": "c.2719del",
+   "protein": "p.Met907fs",
+   "classification": "pathogenic",
+   "variation_id": "1705771",
+   "dbsnp": "rs2496350900",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2719del (p.Met907fs)"
+  },
+  {
+   "cdna": "c.2727_2728insT",
+   "protein": "p.Gly910fs",
+   "classification": "pathogenic",
+   "variation_id": "3643389",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2727_2728insT (p.Gly910fs)"
+  },
+  {
+   "cdna": "c.2730dup",
+   "protein": "p.Gly911fs",
+   "classification": "pathogenic",
+   "variation_id": "5016237",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2730dup (p.Gly911fs)"
+  },
+  {
+   "cdna": "c.2736_2751del",
+   "protein": "p.Met912fs",
+   "classification": "pathogenic",
+   "variation_id": "1705773",
+   "dbsnp": "rs2511213480",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2736_2751del (p.Met912fs)"
+  },
+  {
+   "cdna": "c.2740T>A",
+   "protein": "p.Cys914Ser",
+   "classification": "pathogenic",
+   "variation_id": "2506522",
+   "dbsnp": "rs2511213538",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2740T>A (p.Cys914Ser)"
+  },
+  {
+   "cdna": "c.274C>T",
+   "protein": "p.Gln92Ter",
+   "classification": "pathogenic",
+   "variation_id": "2759378",
+   "dbsnp": "rs2511352133",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.274C>T (p.Gln92Ter)"
+  },
+  {
+   "cdna": "c.2761C>T",
+   "protein": "p.Gln921Ter",
+   "classification": "pathogenic",
+   "variation_id": "188849",
+   "dbsnp": "rs786204512",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2761C>T (p.Gln921Ter)"
+  },
+  {
+   "cdna": "c.2775del",
+   "protein": "p.Asn925fs",
+   "classification": "pathogenic",
+   "variation_id": "370581",
+   "dbsnp": "rs1057516603",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2775del (p.Asn925fs)"
+  },
+  {
+   "cdna": "c.2780C>G",
+   "protein": "p.Ala927Gly",
+   "classification": "pathogenic",
+   "variation_id": "2855152",
+   "dbsnp": "rs753768576",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2780C>G (p.Ala927Gly)"
+  },
+  {
+   "cdna": "c.2782C>T",
+   "protein": "p.Gln928Ter",
+   "classification": "pathogenic",
+   "variation_id": "1705776",
+   "dbsnp": "rs2511213147",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2782C>T (p.Gln928Ter)"
+  },
+  {
+   "cdna": "c.2783A>C",
+   "protein": "p.Gln928Pro",
+   "classification": "pathogenic",
+   "variation_id": "2957",
+   "dbsnp": "rs28940897",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2783A>C (p.Gln928Pro)"
+  },
+  {
+   "cdna": "c.2795+1G>C",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "4818058",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.2795+1G>C"
+  },
+  {
+   "cdna": "c.2795dup",
+   "protein": "p.Tyr932Ter",
+   "classification": "pathogenic",
+   "variation_id": "132899",
+   "dbsnp": "rs483352884",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2795dup (p.Tyr932Ter)"
+  },
+  {
+   "cdna": "c.2800C>T",
+   "protein": "p.Arg934Ter",
+   "classification": "pathogenic",
+   "variation_id": "917636",
+   "dbsnp": "rs370721218",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2800C>T (p.Arg934Ter)"
+  },
+  {
+   "cdna": "c.280_281del",
+   "protein": "p.Leu94fs",
+   "classification": "pathogenic",
+   "variation_id": "5013979",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.280_281del (p.Leu94fs)"
+  },
+  {
+   "cdna": "c.2823del",
+   "protein": "p.Trp942fs",
+   "classification": "pathogenic",
+   "variation_id": "1074756",
+   "dbsnp": "rs2145370732",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2823del (p.Trp942fs)"
+  },
+  {
+   "cdna": "c.2826del",
+   "protein": "p.Ser941_Trp942insTer",
+   "classification": "pathogenic",
+   "variation_id": "4736504",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2826del (p.Ser941_Trp942insTer)"
+  },
+  {
+   "cdna": "c.2830G>A",
+   "protein": "p.Asp944Asn",
+   "classification": "pathogenic",
+   "variation_id": "594885",
+   "dbsnp": "rs748837410",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2830G>A (p.Asp944Asn)"
+  },
+  {
+   "cdna": "c.2847G>A",
+   "protein": "p.Trp949Ter",
+   "classification": "pathogenic",
+   "variation_id": "1333269",
+   "dbsnp": "rs2145370569",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2847G>A (p.Trp949Ter)"
+  },
+  {
+   "cdna": "c.2855del",
+   "protein": "p.Pro952fs",
+   "classification": "pathogenic",
+   "variation_id": "5010473",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2855del (p.Pro952fs)"
+  },
+  {
+   "cdna": "c.2857_2858del",
+   "protein": "p.Gln953fs",
+   "classification": "pathogenic",
+   "variation_id": "1068796",
+   "dbsnp": "rs2145370503",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2857_2858del (p.Gln953fs)"
+  },
+  {
+   "cdna": "c.2861C>T",
+   "protein": "p.Ser954Leu",
+   "classification": "pathogenic",
+   "variation_id": "181457",
+   "dbsnp": "rs543206298",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2861C>T (p.Ser954Leu)"
+  },
+  {
+   "cdna": "c.2872C>T",
+   "protein": "p.Arg958Ter",
+   "classification": "pathogenic",
+   "variation_id": "287837",
+   "dbsnp": "rs759826138",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2872C>T (p.Arg958Ter)"
+  },
+  {
+   "cdna": "c.2878dup",
+   "protein": "p.Asp960fs",
+   "classification": "pathogenic",
+   "variation_id": "2017066",
+   "dbsnp": "rs2511210153",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2878dup (p.Asp960fs)"
+  },
+  {
+   "cdna": "c.2893C>T",
+   "protein": "p.Gln965Ter",
+   "classification": "pathogenic",
+   "variation_id": "188956",
+   "dbsnp": "rs786204586",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2893C>T (p.Gln965Ter)"
+  },
+  {
+   "cdna": "c.2908dup",
+   "protein": "p.Ser970fs",
+   "classification": "pathogenic",
+   "variation_id": "1705778",
+   "dbsnp": "rs761910746",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2908dup (p.Ser970fs)"
+  },
+  {
+   "cdna": "c.2942dup",
+   "protein": "p.Leu982fs",
+   "classification": "pathogenic",
+   "variation_id": "5011878",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2942dup (p.Leu982fs)"
+  },
+  {
+   "cdna": "c.2960_2963del",
+   "protein": "p.Lys987fs",
+   "classification": "pathogenic",
+   "variation_id": "1376210",
+   "dbsnp": "rs2145366821",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2960_2963del (p.Lys987fs)"
+  },
+  {
+   "cdna": "c.2965_2966del",
+   "protein": "p.Arg989fs",
+   "classification": "pathogenic",
+   "variation_id": "555442",
+   "dbsnp": "rs1555632977",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2965_2966del (p.Arg989fs)"
+  },
+  {
+   "cdna": "c.2972del",
+   "protein": "p.Gln991fs",
+   "classification": "pathogenic",
+   "variation_id": "1341592",
+   "dbsnp": "rs1567948623",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2972del (p.Gln991fs)"
+  },
+  {
+   "cdna": "c.2974G>A",
+   "protein": "p.Gly992Arg",
+   "classification": "pathogenic",
+   "variation_id": "21137",
+   "dbsnp": "rs80358254",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2974G>A (p.Gly992Arg)"
+  },
+  {
+   "cdna": "c.2977_2978dup",
+   "protein": "p.Asp994fs",
+   "classification": "pathogenic",
+   "variation_id": "2849332",
+   "dbsnp": "rs775915490",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2977_2978dup (p.Asp994fs)"
+  },
+  {
+   "cdna": "c.2978del",
+   "protein": "p.Gly993fs",
+   "classification": "pathogenic",
+   "variation_id": "4293737",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2978del (p.Gly993fs)"
+  },
+  {
+   "cdna": "c.3003_3041+24del",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "4818063",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3003_3041+24del"
+  },
+  {
+   "cdna": "c.3003del",
+   "protein": "p.Met1001fs",
+   "classification": "pathogenic",
+   "variation_id": "1705779",
+   "dbsnp": "rs2511205378",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3003del (p.Met1001fs)"
+  },
+  {
+   "cdna": "c.3019C>G",
+   "protein": "p.Pro1007Ala",
+   "classification": "pathogenic",
+   "variation_id": "2966",
+   "dbsnp": "rs80358257",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3019C>G (p.Pro1007Ala)"
+  },
+  {
+   "cdna": "c.3020C>T",
+   "protein": "p.Pro1007Leu",
+   "classification": "pathogenic",
+   "variation_id": "973559",
+   "dbsnp": "rs764789542",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3020C>T (p.Pro1007Leu)"
+  },
+  {
+   "cdna": "c.3025_3026insTAAC",
+   "protein": "p.Pro1009fs",
+   "classification": "pathogenic",
+   "variation_id": "1451363",
+   "dbsnp": "rs1352485089",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3025_3026insTAAC (p.Pro1009fs)"
+  },
+  {
+   "cdna": "c.3032_3038delinsAGGTTTACTC",
+   "protein": "p.Cys1011_Lys1013delinsTer",
+   "classification": "pathogenic",
+   "variation_id": "1705780",
+   "dbsnp": "rs2511204966",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3032_3038delinsAGGTTTACTC (p.Cys1011_Lys1013delinsTer)"
+  },
+  {
+   "cdna": "c.3041+1G>T",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1705781",
+   "dbsnp": "rs2145366125",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3041+1G>T"
+  },
+  {
+   "cdna": "c.3068T>G",
+   "protein": "p.Val1023Gly",
+   "classification": "pathogenic",
+   "variation_id": "1401665",
+   "dbsnp": "rs2145357984",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3068T>G (p.Val1023Gly)"
+  },
+  {
+   "cdna": "c.306T>G",
+   "protein": "p.Tyr102Ter",
+   "classification": "pathogenic",
+   "variation_id": "579540",
+   "dbsnp": "rs751249367",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.306T>G (p.Tyr102Ter)"
+  },
+  {
+   "cdna": "c.3081_3082dup",
+   "protein": "p.Gly1028fs",
+   "classification": "pathogenic",
+   "variation_id": "2703554",
+   "dbsnp": "rs2511197807",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3081_3082dup (p.Gly1028fs)"
+  },
+  {
+   "cdna": "c.3083_3084del",
+   "protein": "p.Gly1028fs",
+   "classification": "pathogenic",
+   "variation_id": "1075415",
+   "dbsnp": "rs1274484561",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3083_3084del (p.Gly1028fs)"
+  },
+  {
+   "cdna": "c.3086dup",
+   "protein": "p.His1029fs",
+   "classification": "pathogenic",
+   "variation_id": "2866089",
+   "dbsnp": "rs2511197777",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3086dup (p.His1029fs)"
+  },
+  {
+   "cdna": "c.3096_3116delinsCAGGTCG",
+   "protein": "p.Arg1032fs",
+   "classification": "pathogenic",
+   "variation_id": "1705782",
+   "dbsnp": "rs2511197570",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3096_3116delinsCAGGTCG (p.Arg1032fs)"
+  },
+  {
+   "cdna": "c.3105dup",
+   "protein": "p.Thr1036fs",
+   "classification": "pathogenic",
+   "variation_id": "5014329",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3105dup (p.Thr1036fs)"
+  },
+  {
+   "cdna": "c.3108_3111del",
+   "protein": "p.Tyr1037fs",
+   "classification": "pathogenic",
+   "variation_id": "1453633",
+   "dbsnp": "rs2145357685",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3108_3111del (p.Tyr1037fs)"
+  },
+  {
+   "cdna": "c.3122dup",
+   "protein": "p.Tyr1041Ter",
+   "classification": "pathogenic",
+   "variation_id": "1071500",
+   "dbsnp": "rs2145357627",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3122dup (p.Tyr1041Ter)"
+  },
+  {
+   "cdna": "c.3127A>G",
+   "protein": "p.Thr1043Ala",
+   "classification": "pathogenic",
+   "variation_id": "235096",
+   "dbsnp": "rs876661319",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3127A>G (p.Thr1043Ala)"
+  },
+  {
+   "cdna": "c.3135dup",
+   "protein": "p.Gln1046fs",
+   "classification": "pathogenic",
+   "variation_id": "2736700",
+   "dbsnp": "rs2511197396",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3135dup (p.Gln1046fs)"
+  },
+  {
+   "cdna": "c.3152_3153del",
+   "protein": "p.Phe1051fs",
+   "classification": "pathogenic",
+   "variation_id": "1068529",
+   "dbsnp": "rs2145357371",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3152_3153del (p.Phe1051fs)"
+  },
+  {
+   "cdna": "c.315del",
+   "protein": "p.Asn106fs",
+   "classification": "pathogenic",
+   "variation_id": "5015791",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.315del (p.Asn106fs)"
+  },
+  {
+   "cdna": "c.3175C>T",
+   "protein": "p.Arg1059Ter",
+   "classification": "pathogenic",
+   "variation_id": "188769",
+   "dbsnp": "rs786204455",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3175C>T (p.Arg1059Ter)"
+  },
+  {
+   "cdna": "c.3182T>C",
+   "protein": "p.Ile1061Thr",
+   "classification": "pathogenic",
+   "variation_id": "2967",
+   "dbsnp": "rs80358259",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3182T>C (p.Ile1061Thr)"
+  },
+  {
+   "cdna": "c.3229C>T",
+   "protein": "p.Arg1077Ter",
+   "classification": "pathogenic",
+   "variation_id": "289257",
+   "dbsnp": "rs750095738",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3229C>T (p.Arg1077Ter)"
+  },
+  {
+   "cdna": "c.3234_3237dup",
+   "protein": "p.Pro1080fs",
+   "classification": "pathogenic",
+   "variation_id": "242483",
+   "dbsnp": "rs863224902",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3234_3237dup (p.Pro1080fs)"
+  },
+  {
+   "cdna": "c.3243C>G",
+   "protein": "p.Tyr1081Ter",
+   "classification": "pathogenic",
+   "variation_id": "3769124",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3243C>G (p.Tyr1081Ter)"
+  },
+  {
+   "cdna": "c.3245+1G>T",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1705785",
+   "dbsnp": "rs2511196440",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3245+1G>T"
+  },
+  {
+   "cdna": "c.3249_3250del",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1705786",
+   "dbsnp": "rs1364421307",
+   "consequence": "",
+   "full_name": "NM_000271.4(NPC1):c.3249_3250del"
+  },
+  {
+   "cdna": "c.3254_3255del",
+   "protein": "p.Tyr1085fs",
+   "classification": "pathogenic",
+   "variation_id": "1407124",
+   "dbsnp": "rs2145351971",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3254_3255del (p.Tyr1085fs)"
+  },
+  {
+   "cdna": "c.3265G>A",
+   "protein": "p.Glu1089Lys",
+   "classification": "pathogenic",
+   "variation_id": "181458",
+   "dbsnp": "rs374526072",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3265G>A (p.Glu1089Lys)"
+  },
+  {
+   "cdna": "c.3281del",
+   "protein": "p.Ile1094fs",
+   "classification": "pathogenic",
+   "variation_id": "1705788",
+   "dbsnp": "rs2511191286",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3281del (p.Ile1094fs)"
+  },
+  {
+   "cdna": "c.3294dup",
+   "protein": "p.Ile1099fs",
+   "classification": "pathogenic",
+   "variation_id": "1071835",
+   "dbsnp": "rs2145351616",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3294dup (p.Ile1099fs)"
+  },
+  {
+   "cdna": "c.3299_3300dup",
+   "protein": "p.Asn1101fs",
+   "classification": "pathogenic",
+   "variation_id": "1076409",
+   "dbsnp": "rs2145351545",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3299_3300dup (p.Asn1101fs)"
+  },
+  {
+   "cdna": "c.3309dup",
+   "protein": "p.Val1104fs",
+   "classification": "pathogenic",
+   "variation_id": "371340",
+   "dbsnp": "rs1057517194",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3309dup (p.Val1104fs)"
+  },
+  {
+   "cdna": "c.3320dup",
+   "protein": "p.Ala1108fs",
+   "classification": "pathogenic",
+   "variation_id": "1458540",
+   "dbsnp": "rs2145351287",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3320dup (p.Ala1108fs)"
+  },
+  {
+   "cdna": "c.3347del",
+   "protein": "p.Leu1116fs",
+   "classification": "pathogenic",
+   "variation_id": "1705791",
+   "dbsnp": "rs2511190471",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3347del (p.Leu1116fs)"
+  },
+  {
+   "cdna": "c.3349dup",
+   "protein": "p.Leu1117fs",
+   "classification": "pathogenic",
+   "variation_id": "1331427",
+   "dbsnp": "rs2145350930",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3349dup (p.Leu1117fs)"
+  },
+  {
+   "cdna": "c.3426G>A",
+   "protein": "p.Met1142Ile",
+   "classification": "pathogenic",
+   "variation_id": "2736698",
+   "dbsnp": "rs1165786597",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3426G>A (p.Met1142Ile)"
+  },
+  {
+   "cdna": "c.3457_3458dup",
+   "protein": "p.Leu1154fs",
+   "classification": "pathogenic",
+   "variation_id": "1356247",
+   "dbsnp": "rs1263493813",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3457_3458dup (p.Leu1154fs)"
+  },
+  {
+   "cdna": "c.3460_3471del",
+   "protein": "p.Leu1154_Leu1157del",
+   "classification": "pathogenic",
+   "variation_id": "953488",
+   "dbsnp": "rs2058614971",
+   "consequence": "inframe_deletion",
+   "full_name": "NM_000271.5(NPC1):c.3460_3471del (p.Leu1154_Leu1157del)"
+  },
+  {
+   "cdna": "c.3467A>G",
+   "protein": "p.Asn1156Ser",
+   "classification": "pathogenic",
+   "variation_id": "2959",
+   "dbsnp": "rs28942105",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3467A>G (p.Asn1156Ser)"
+  },
+  {
+   "cdna": "c.346C>T",
+   "protein": "p.Arg116Ter",
+   "classification": "pathogenic",
+   "variation_id": "872388",
+   "dbsnp": "rs144973225",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.346C>T (p.Arg116Ter)"
+  },
+  {
+   "cdna": "c.3477+1G>A",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "952006",
+   "dbsnp": "rs1405889589",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3477+1G>A"
+  },
+  {
+   "cdna": "c.3477+2T>C",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "657686",
+   "dbsnp": "rs772898831",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3477+2T>C"
+  },
+  {
+   "cdna": "c.349C>T",
+   "protein": "p.Gln117Ter",
+   "classification": "pathogenic",
+   "variation_id": "1071436",
+   "dbsnp": "rs2145527075",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.349C>T (p.Gln117Ter)"
+  },
+  {
+   "cdna": "c.350dup",
+   "protein": "p.Ser118fs",
+   "classification": "pathogenic",
+   "variation_id": "1076100",
+   "dbsnp": "rs2145527060",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.350dup (p.Ser118fs)"
+  },
+  {
+   "cdna": "c.3517dup",
+   "protein": "p.Arg1173fs",
+   "classification": "pathogenic",
+   "variation_id": "471943",
+   "dbsnp": "rs1555631982",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3517dup (p.Arg1173fs)"
+  },
+  {
+   "cdna": "c.352_353del",
+   "protein": "p.Gln119fs",
+   "classification": "pathogenic",
+   "variation_id": "370143",
+   "dbsnp": "rs759075595",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.352_353del (p.Gln119fs)"
+  },
+  {
+   "cdna": "c.3540del",
+   "protein": "p.Gly1181fs",
+   "classification": "pathogenic",
+   "variation_id": "2854639",
+   "dbsnp": "rs2511183757",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3540del (p.Gly1181fs)"
+  },
+  {
+   "cdna": "c.3559del",
+   "protein": "p.Ala1187fs",
+   "classification": "pathogenic",
+   "variation_id": "1705796",
+   "dbsnp": "rs2511183558",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3559del (p.Ala1187fs)"
+  },
+  {
+   "cdna": "c.3562G>T",
+   "protein": "p.Glu1188Ter",
+   "classification": "pathogenic",
+   "variation_id": "943983",
+   "dbsnp": "rs776701050",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3562G>T (p.Glu1188Ter)"
+  },
+  {
+   "cdna": "c.3591+1G>A",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "2973",
+   "dbsnp": "rs786200877",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3591+1G>A"
+  },
+  {
+   "cdna": "c.3591+2T>A",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1453197",
+   "dbsnp": "rs1555631888",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3591+2T>A"
+  },
+  {
+   "cdna": "c.3591+2T>C",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "551545",
+   "dbsnp": "rs1555631888",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3591+2T>C"
+  },
+  {
+   "cdna": "c.3591+2T>G",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "2785832",
+   "dbsnp": "rs1555631888",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3591+2T>G"
+  },
+  {
+   "cdna": "c.3597del",
+   "protein": "p.Phe1199fs",
+   "classification": "pathogenic",
+   "variation_id": "852244",
+   "dbsnp": "rs2058574038",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3597del (p.Phe1199fs)"
+  },
+  {
+   "cdna": "c.3612dup",
+   "protein": "p.Thr1205fs",
+   "classification": "pathogenic",
+   "variation_id": "1451328",
+   "dbsnp": "rs2145336359",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3612dup (p.Thr1205fs)"
+  },
+  {
+   "cdna": "c.3613dup",
+   "protein": "p.Thr1205fs",
+   "classification": "pathogenic",
+   "variation_id": "280069",
+   "dbsnp": "rs886041356",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3613dup (p.Thr1205fs)"
+  },
+  {
+   "cdna": "c.3618del",
+   "protein": "p.Lys1206fs",
+   "classification": "pathogenic",
+   "variation_id": "2138130",
+   "dbsnp": "rs1179995303",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3618del (p.Lys1206fs)"
+  },
+  {
+   "cdna": "c.3645del",
+   "protein": "p.Phe1215fs",
+   "classification": "pathogenic",
+   "variation_id": "2026555",
+   "dbsnp": "rs2511176956",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3645del (p.Phe1215fs)"
+  },
+  {
+   "cdna": "c.3658dup",
+   "protein": "p.Ile1220fs",
+   "classification": "pathogenic",
+   "variation_id": "2814799",
+   "dbsnp": "rs2511176814",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3658dup (p.Ile1220fs)"
+  },
+  {
+   "cdna": "c.3662del",
+   "protein": "p.Phe1221fs",
+   "classification": "pathogenic",
+   "variation_id": "2977",
+   "dbsnp": "rs786200878",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3662del (p.Phe1221fs)"
+  },
+  {
+   "cdna": "c.3678del",
+   "protein": "p.Phe1226fs",
+   "classification": "pathogenic",
+   "variation_id": "959341",
+   "dbsnp": "rs2058572084",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3678del (p.Phe1226fs)"
+  },
+  {
+   "cdna": "c.3689del",
+   "protein": "p.Leu1230fs",
+   "classification": "pathogenic",
+   "variation_id": "2127278",
+   "dbsnp": "rs2511176526",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3689del (p.Leu1230fs)"
+  },
+  {
+   "cdna": "c.370dup",
+   "protein": "p.Thr124fs",
+   "classification": "pathogenic",
+   "variation_id": "1705798",
+   "dbsnp": "rs2511341214",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.370dup (p.Thr124fs)"
+  },
+  {
+   "cdna": "c.3736_3739del",
+   "protein": "p.Val1246fs",
+   "classification": "pathogenic",
+   "variation_id": "4733455",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3736_3739del (p.Val1246fs)"
+  },
+  {
+   "cdna": "c.3740dup",
+   "protein": "p.Leu1247fs",
+   "classification": "pathogenic",
+   "variation_id": "2025031",
+   "dbsnp": "rs760004573",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3740dup (p.Leu1247fs)"
+  },
+  {
+   "cdna": "c.3754+1G>A",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "550981",
+   "dbsnp": "rs1555631571",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3754+1G>A"
+  },
+  {
+   "cdna": "c.395del",
+   "protein": "p.Pro132fs",
+   "classification": "pathogenic",
+   "variation_id": "370404",
+   "dbsnp": "rs1057516462",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.395del (p.Pro132fs)"
+  },
+  {
+   "cdna": "c.407del",
+   "protein": "p.Gln136fs",
+   "classification": "pathogenic",
+   "variation_id": "2107203",
+   "dbsnp": "rs2511340972",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.407del (p.Gln136fs)"
+  },
+  {
+   "cdna": "c.415del",
+   "protein": "p.Thr139fs",
+   "classification": "pathogenic",
+   "variation_id": "2016522",
+   "dbsnp": "rs2511340936",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.415del (p.Thr139fs)"
+  },
+  {
+   "cdna": "c.416dup",
+   "protein": "p.Asn140fs",
+   "classification": "pathogenic",
+   "variation_id": "132901",
+   "dbsnp": "rs483352880",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.416dup (p.Asn140fs)"
+  },
+  {
+   "cdna": "c.423_424dup",
+   "protein": "p.Lys142fs",
+   "classification": "pathogenic",
+   "variation_id": "503633",
+   "dbsnp": "rs773941375",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.423_424dup (p.Lys142fs)"
+  },
+  {
+   "cdna": "c.423_424insGA",
+   "protein": "p.Lys142fs",
+   "classification": "pathogenic",
+   "variation_id": "499393",
+   "dbsnp": "rs1555641037",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.423_424insGA (p.Lys142fs)"
+  },
+  {
+   "cdna": "c.424delinsTATAAGAGACAG",
+   "protein": "p.Lys142fs",
+   "classification": "pathogenic",
+   "variation_id": "5011520",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.424delinsTATAAGAGACAG (p.Lys142fs)"
+  },
+  {
+   "cdna": "c.427_431delinsCAAATGTGAAAACAAATGTGAA",
+   "protein": "p.Glu143_Leu144delinsGlnMetTer",
+   "classification": "pathogenic",
+   "variation_id": "5004120",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.427_431delinsCAAATGTGAAAACAAATGTGAA (p.Glu143_Leu144delinsGlnMetTer)"
+  },
+  {
+   "cdna": "c.428_429del",
+   "protein": "p.Glu143fs",
+   "classification": "pathogenic",
+   "variation_id": "1705801",
+   "dbsnp": "rs2511340832",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.428_429del (p.Glu143fs)"
+  },
+  {
+   "cdna": "c.438C>G",
+   "protein": "p.Tyr146Ter",
+   "classification": "pathogenic",
+   "variation_id": "5013220",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.438C>G (p.Tyr146Ter)"
+  },
+  {
+   "cdna": "c.451_452del",
+   "protein": "p.Ser151fs",
+   "classification": "pathogenic",
+   "variation_id": "558159",
+   "dbsnp": "rs749012588",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.451_452del (p.Ser151fs)"
+  },
+  {
+   "cdna": "c.473del",
+   "protein": "p.Asn158fs",
+   "classification": "pathogenic",
+   "variation_id": "2120073",
+   "dbsnp": "rs2511309763",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.473del (p.Asn158fs)"
+  },
+  {
+   "cdna": "c.493del",
+   "protein": "p.Ala165fs",
+   "classification": "pathogenic",
+   "variation_id": "5013372",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.493del (p.Ala165fs)"
+  },
+  {
+   "cdna": "c.495_496insTG",
+   "protein": "p.Pro166fs",
+   "classification": "pathogenic",
+   "variation_id": "5014164",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.495_496insTG (p.Pro166fs)"
+  },
+  {
+   "cdna": "c.526del",
+   "protein": "p.Leu176fs",
+   "classification": "pathogenic",
+   "variation_id": "429737",
+   "dbsnp": "rs1131691558",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.526del (p.Leu176fs)"
+  },
+  {
+   "cdna": "c.576C>G",
+   "protein": "p.Tyr192Ter",
+   "classification": "pathogenic",
+   "variation_id": "5014132",
+   "dbsnp": "",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.576C>G (p.Tyr192Ter)"
+  },
+  {
+   "cdna": "c.584dup",
+   "protein": "p.Asn195fs",
+   "classification": "pathogenic",
+   "variation_id": "5015166",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.584dup (p.Asn195fs)"
+  },
+  {
+   "cdna": "c.616_619del",
+   "protein": "p.Thr206fs",
+   "classification": "pathogenic",
+   "variation_id": "3723110",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.616_619del (p.Thr206fs)"
+  },
+  {
+   "cdna": "c.644del",
+   "protein": "p.His215fs",
+   "classification": "pathogenic",
+   "variation_id": "1073904",
+   "dbsnp": "rs2145481013",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.644del (p.His215fs)"
+  },
+  {
+   "cdna": "c.652del",
+   "protein": "p.Glu218fs",
+   "classification": "pathogenic",
+   "variation_id": "2008561",
+   "dbsnp": "rs2511303827",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.652del (p.Glu218fs)"
+  },
+  {
+   "cdna": "c.658dup",
+   "protein": "p.Met220fs",
+   "classification": "pathogenic",
+   "variation_id": "5013231",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.658dup (p.Met220fs)"
+  },
+  {
+   "cdna": "c.65C>G",
+   "protein": "p.Ser22Ter",
+   "classification": "pathogenic",
+   "variation_id": "2841948",
+   "dbsnp": "rs2511358187",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.65C>G (p.Ser22Ter)"
+  },
+  {
+   "cdna": "c.681T>A",
+   "protein": "p.Cys227Ter",
+   "classification": "pathogenic",
+   "variation_id": "983762",
+   "dbsnp": "rs2059021939",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.681T>A (p.Cys227Ter)"
+  },
+  {
+   "cdna": "c.692_693del",
+   "protein": "p.Val231fs",
+   "classification": "pathogenic",
+   "variation_id": "1705808",
+   "dbsnp": "rs2511303464",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.692_693del (p.Val231fs)"
+  },
+  {
+   "cdna": "c.706dup",
+   "protein": "p.Ala236fs",
+   "classification": "pathogenic",
+   "variation_id": "5012207",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.706dup (p.Ala236fs)"
+  },
+  {
+   "cdna": "c.741_742del",
+   "protein": "p.Cys247fs",
+   "classification": "pathogenic",
+   "variation_id": "2767762",
+   "dbsnp": "rs2511302955",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.741_742del (p.Cys247fs)"
+  },
+  {
+   "cdna": "c.749_755del",
+   "protein": "p.Lys250fs",
+   "classification": "pathogenic",
+   "variation_id": "1705809",
+   "dbsnp": "rs2511302764",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.749_755del (p.Lys250fs)"
+  },
+  {
+   "cdna": "c.750_763dup",
+   "protein": "p.Pro255fs",
+   "classification": "pathogenic",
+   "variation_id": "2719717",
+   "dbsnp": "rs2059020261",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.750_763dup (p.Pro255fs)"
+  },
+  {
+   "cdna": "c.754del",
+   "protein": "p.Gln252fs",
+   "classification": "pathogenic",
+   "variation_id": "1705810",
+   "dbsnp": "rs2511302777",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.754del (p.Gln252fs)"
+  },
+  {
+   "cdna": "c.762del",
+   "protein": "p.Pro255fs",
+   "classification": "pathogenic",
+   "variation_id": "1705811",
+   "dbsnp": "rs2511302653",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.762del (p.Pro255fs)"
+  },
+  {
+   "cdna": "c.80G>A",
+   "protein": "p.Trp27Ter",
+   "classification": "pathogenic",
+   "variation_id": "1999604",
+   "dbsnp": "rs2511358068",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.80G>A (p.Trp27Ter)"
+  },
+  {
+   "cdna": "c.811_812del",
+   "protein": "p.Ile271fs",
+   "classification": "pathogenic",
+   "variation_id": "5014168",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.811_812del (p.Ile271fs)"
+  },
+  {
+   "cdna": "c.81G>A",
+   "protein": "p.Trp27Ter",
+   "classification": "pathogenic",
+   "variation_id": "838982",
+   "dbsnp": "rs2059233403",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.81G>A (p.Trp27Ter)"
+  },
+  {
+   "cdna": "c.846_847del",
+   "protein": "p.Phe284fs",
+   "classification": "pathogenic",
+   "variation_id": "1923443",
+   "dbsnp": "rs2511301664",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.846_847del (p.Phe284fs)"
+  },
+  {
+   "cdna": "c.852del",
+   "protein": "p.Phe284fs",
+   "classification": "pathogenic",
+   "variation_id": "371187",
+   "dbsnp": "rs762124334",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.852del (p.Phe284fs)"
+  },
+  {
+   "cdna": "c.852dup",
+   "protein": "p.Gly285fs",
+   "classification": "pathogenic",
+   "variation_id": "554086",
+   "dbsnp": "rs762124334",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.852dup (p.Gly285fs)"
+  },
+  {
+   "cdna": "c.85G>T",
+   "protein": "p.Gly29Ter",
+   "classification": "pathogenic",
+   "variation_id": "1070840",
+   "dbsnp": "rs2145552346",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.85G>T (p.Gly29Ter)"
+  },
+  {
+   "cdna": "c.864del",
+   "protein": "p.Phe288fs",
+   "classification": "pathogenic",
+   "variation_id": "2884078",
+   "dbsnp": "rs2145479494",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.864del (p.Phe288fs)"
+  },
+  {
+   "cdna": "c.864dup",
+   "protein": "p.Ala289fs",
+   "classification": "pathogenic",
+   "variation_id": "4715529",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.864dup (p.Ala289fs)"
+  },
+  {
+   "cdna": "c.881+1G>T",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "437442",
+   "dbsnp": "rs1555638409",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.881+1G>T"
+  },
+  {
+   "cdna": "c.889dup",
+   "protein": "p.Tyr297fs",
+   "classification": "pathogenic",
+   "variation_id": "5013774",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.889dup (p.Tyr297fs)"
+  },
+  {
+   "cdna": "c.895del",
+   "protein": "p.Val299fs",
+   "classification": "pathogenic",
+   "variation_id": "1705813",
+   "dbsnp": "rs2511288653",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.895del (p.Val299fs)"
+  },
+  {
+   "cdna": "c.924_927del",
+   "protein": "p.Asn308fs",
+   "classification": "pathogenic",
+   "variation_id": "1705814",
+   "dbsnp": "rs2511288288",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.924_927del (p.Asn308fs)"
+  },
+  {
+   "cdna": "c.94_97dup",
+   "protein": "p.Ile33fs",
+   "classification": "pathogenic",
+   "variation_id": "1400853",
+   "dbsnp": "rs2145552247",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.94_97dup (p.Ile33fs)"
+  },
+  {
+   "cdna": "c.973_974dup",
+   "protein": "p.Asp325fs",
+   "classification": "pathogenic",
+   "variation_id": "420124",
+   "dbsnp": "rs886044580",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.973_974dup (p.Asp325fs)"
+  },
+  {
+   "cdna": "c.978del",
+   "protein": "p.Val327fs",
+   "classification": "pathogenic",
+   "variation_id": "3724367",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.978del (p.Val327fs)"
+  },
+  {
+   "cdna": "c.99_100del",
+   "protein": "p.Ala34fs",
+   "classification": "pathogenic",
+   "variation_id": "986364",
+   "dbsnp": "rs2059233076",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.99_100del (p.Ala34fs)"
+  },
+  {
+   "cdna": "c.1020_1021del",
+   "protein": "p.Arg341fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "451826",
+   "dbsnp": "rs1555637255",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1020_1021del (p.Arg341fs)"
+  },
+  {
+   "cdna": "c.1042C>T",
+   "protein": "p.Arg348Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1405310",
+   "dbsnp": "rs1474434210",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1042C>T (p.Arg348Ter)"
+  },
+  {
+   "cdna": "c.1114C>T",
+   "protein": "p.Arg372Trp",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1066746",
+   "dbsnp": "rs1346436537",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1114C>T (p.Arg372Trp)"
+  },
+  {
+   "cdna": "c.1123A>G",
+   "protein": "p.Thr375Ala",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1068516",
+   "dbsnp": "rs746372120",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1123A>G (p.Thr375Ala)"
+  },
+  {
+   "cdna": "c.1133T>C",
+   "protein": "p.Val378Ala",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2970",
+   "dbsnp": "rs120074134",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1133T>C (p.Val378Ala)"
+  },
+  {
+   "cdna": "c.1140_1141del",
+   "protein": "p.Trp381fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "592188",
+   "dbsnp": "rs1567965488",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1140_1141del (p.Trp381fs)"
+  },
+  {
+   "cdna": "c.1165C>T",
+   "protein": "p.Arg389Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "863837",
+   "dbsnp": "rs1053321823",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1165C>T (p.Arg389Cys)"
+  },
+  {
+   "cdna": "c.1201C>A",
+   "protein": "p.Pro401Thr",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2138137",
+   "dbsnp": "rs766301620",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1201C>A (p.Pro401Thr)"
+  },
+  {
+   "cdna": "c.1210C>T",
+   "protein": "p.Arg404Trp",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "499939",
+   "dbsnp": "rs1298238512",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1210C>T (p.Arg404Trp)"
+  },
+  {
+   "cdna": "c.1301C>T",
+   "protein": "p.Pro434Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "429322",
+   "dbsnp": "rs774333145",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1301C>T (p.Pro434Leu)"
+  },
+  {
+   "cdna": "c.1312C>T",
+   "protein": "p.Gln438Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "666979",
+   "dbsnp": "rs750292546",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.1312C>T (p.Gln438Ter)"
+  },
+  {
+   "cdna": "c.1412C>T",
+   "protein": "p.Pro471Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1421549",
+   "dbsnp": "rs201226297",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1412C>T (p.Pro471Leu)"
+  },
+  {
+   "cdna": "c.1526A>C",
+   "protein": "p.Tyr509Ser",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "554002",
+   "dbsnp": "rs1190383931",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1526A>C (p.Tyr509Ser)"
+  },
+  {
+   "cdna": "c.1552C>T",
+   "protein": "p.Arg518Trp",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "550874",
+   "dbsnp": "rs377515417",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1552C>T (p.Arg518Trp)"
+  },
+  {
+   "cdna": "c.155_156insT",
+   "protein": "p.Asp54fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "4818046",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.155_156insT (p.Asp54fs)"
+  },
+  {
+   "cdna": "c.1672G>A",
+   "protein": "p.Ala558Thr",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1519574",
+   "dbsnp": "rs201156397",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1672G>A (p.Ala558Thr)"
+  },
+  {
+   "cdna": "c.173T>A",
+   "protein": "p.Leu58Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1725036",
+   "dbsnp": "rs2511357450",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.173T>A (p.Leu58Ter)"
+  },
+  {
+   "cdna": "c.1757_1757+1del",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2972884",
+   "dbsnp": "rs1456597696",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.1757_1757+1del"
+  },
+  {
+   "cdna": "c.1765_1768del",
+   "protein": "p.Asn589fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "4818049",
+   "dbsnp": "",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1765_1768del (p.Asn589fs)"
+  },
+  {
+   "cdna": "c.181G>T",
+   "protein": "p.Glu61Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "931605",
+   "dbsnp": "rs2059213874",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.181G>T (p.Glu61Ter)"
+  },
+  {
+   "cdna": "c.1836A>C",
+   "protein": "p.Glu612Asp",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "555407",
+   "dbsnp": "rs1555634739",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1836A>C (p.Glu612Asp)"
+  },
+  {
+   "cdna": "c.1843C>T",
+   "protein": "p.Arg615Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "566223",
+   "dbsnp": "rs745777805",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1843C>T (p.Arg615Cys)"
+  },
+  {
+   "cdna": "c.1849dup",
+   "protein": "p.Ser617fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "847972",
+   "dbsnp": "rs2058769608",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1849dup (p.Ser617fs)"
+  },
+  {
+   "cdna": "c.1901A>G",
+   "protein": "p.Tyr634Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "553800",
+   "dbsnp": "rs202140203",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1901A>G (p.Tyr634Cys)"
+  },
+  {
+   "cdna": "c.1901A>T",
+   "protein": "p.Tyr634Phe",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1019102",
+   "dbsnp": "rs202140203",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1901A>T (p.Tyr634Phe)"
+  },
+  {
+   "cdna": "c.1920del",
+   "protein": "p.His641fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "281941",
+   "dbsnp": "rs886042270",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.1920del (p.His641fs)"
+  },
+  {
+   "cdna": "c.1947+5G>C",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "281945",
+   "dbsnp": "rs770321568",
+   "consequence": "intron variant",
+   "full_name": "NM_000271.5(NPC1):c.1947+5G>C"
+  },
+  {
+   "cdna": "c.1955C>G",
+   "protein": "p.Ser652Trp",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2630385",
+   "dbsnp": "rs765652543",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.1955C>G (p.Ser652Trp)"
+  },
+  {
+   "cdna": "c.2071C>G",
+   "protein": "p.Pro691Ala",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1524141",
+   "dbsnp": "rs2058754429",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2071C>G (p.Pro691Ala)"
+  },
+  {
+   "cdna": "c.2072C>T",
+   "protein": "p.Pro691Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "552803",
+   "dbsnp": "rs1555634422",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2072C>T (p.Pro691Leu)"
+  },
+  {
+   "cdna": "c.2086del",
+   "protein": "p.Ala696fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1705760",
+   "dbsnp": "rs2511234836",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2086del (p.Ala696fs)"
+  },
+  {
+   "cdna": "c.2146C>T",
+   "protein": "p.Gln716Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1705764",
+   "dbsnp": "rs1454412918",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2146C>T (p.Gln716Ter)"
+  },
+  {
+   "cdna": "c.2171T>C",
+   "protein": "p.Leu724Pro",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2736708",
+   "dbsnp": "rs1393388896",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2171T>C (p.Leu724Pro)"
+  },
+  {
+   "cdna": "c.2179del",
+   "protein": "p.Val727fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1387257",
+   "dbsnp": "rs2145394955",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2179del (p.Val727fs)"
+  },
+  {
+   "cdna": "c.2196dup",
+   "protein": "p.Pro733fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "92706",
+   "dbsnp": "rs398123284",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2196dup (p.Pro733fs)"
+  },
+  {
+   "cdna": "c.2201G>T",
+   "protein": "p.Ser734Ile",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "372775",
+   "dbsnp": "rs757475924",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2201G>T (p.Ser734Ile)"
+  },
+  {
+   "cdna": "c.2230_2231del",
+   "protein": "p.Val744fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "132896",
+   "dbsnp": "rs483352882",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2230_2231del (p.Val744fs)"
+  },
+  {
+   "cdna": "c.2245+1G>A",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2736706",
+   "dbsnp": "rs2511229476",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.2245+1G>A"
+  },
+  {
+   "cdna": "c.2246-2A>G",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "3723093",
+   "dbsnp": "rs2058712401",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.2246-2A>G"
+  },
+  {
+   "cdna": "c.2279_2281del",
+   "protein": "p.Phe760del",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2581553",
+   "dbsnp": "rs2058711926",
+   "consequence": "inframe_deletion",
+   "full_name": "NM_000271.5(NPC1):c.2279_2281del (p.Phe760del)"
+  },
+  {
+   "cdna": "c.2336del",
+   "protein": "p.Phe779fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2910445",
+   "dbsnp": "rs2511222459",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2336del (p.Phe779fs)"
+  },
+  {
+   "cdna": "c.2365C>T",
+   "protein": "p.Arg789Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "554973",
+   "dbsnp": "rs1555633697",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2365C>T (p.Arg789Cys)"
+  },
+  {
+   "cdna": "c.2474A>G",
+   "protein": "p.Tyr825Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "370184",
+   "dbsnp": "rs550562774",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2474A>G (p.Tyr825Cys)"
+  },
+  {
+   "cdna": "c.2515-2A>G",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1705766",
+   "dbsnp": "rs2511218496",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.2515-2A>G"
+  },
+  {
+   "cdna": "c.2526T>A",
+   "protein": "p.Phe842Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1932106",
+   "dbsnp": "rs1462754046",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2526T>A (p.Phe842Leu)"
+  },
+  {
+   "cdna": "c.2594C>T",
+   "protein": "p.Ser865Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "803478",
+   "dbsnp": "rs1160114136",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2594C>T (p.Ser865Leu)"
+  },
+  {
+   "cdna": "c.2604+1G>A",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "501356",
+   "dbsnp": "rs1555633454",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.2604+1G>A"
+  },
+  {
+   "cdna": "c.2604+5G>A",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1369770",
+   "dbsnp": "rs2058697907",
+   "consequence": "intron variant",
+   "full_name": "NM_000271.5(NPC1):c.2604+5G>A"
+  },
+  {
+   "cdna": "c.2621A>T",
+   "protein": "p.Asp874Val",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "194810",
+   "dbsnp": "rs372030650",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2621A>T (p.Asp874Val)"
+  },
+  {
+   "cdna": "c.2660C>T",
+   "protein": "p.Pro887Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "803477",
+   "dbsnp": "rs1169032037",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2660C>T (p.Pro887Leu)"
+  },
+  {
+   "cdna": "c.2670C>A",
+   "protein": "p.Tyr890Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "984321",
+   "dbsnp": "rs780592540",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2670C>A (p.Tyr890Ter)"
+  },
+  {
+   "cdna": "c.2670C>G",
+   "protein": "p.Tyr890Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "495788",
+   "dbsnp": "rs780592540",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2670C>G (p.Tyr890Ter)"
+  },
+  {
+   "cdna": "c.2713C>T",
+   "protein": "p.Gln905Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "417625",
+   "dbsnp": "rs917070773",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2713C>T (p.Gln905Ter)"
+  },
+  {
+   "cdna": "c.2728G>A",
+   "protein": "p.Gly910Ser",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "268187",
+   "dbsnp": "rs768999208",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2728G>A (p.Gly910Ser)"
+  },
+  {
+   "cdna": "c.2776G>A",
+   "protein": "p.Ala926Thr",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "985168",
+   "dbsnp": "rs564631426",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2776G>A (p.Ala926Thr)"
+  },
+  {
+   "cdna": "c.2777C>T",
+   "protein": "p.Ala926Val",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "181456",
+   "dbsnp": "rs730880963",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2777C>T (p.Ala926Val)"
+  },
+  {
+   "cdna": "c.2780C>T",
+   "protein": "p.Ala927Val",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "552715",
+   "dbsnp": "rs753768576",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2780C>T (p.Ala927Val)"
+  },
+  {
+   "cdna": "c.2801G>A",
+   "protein": "p.Arg934Gln",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "189117",
+   "dbsnp": "rs786204714",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2801G>A (p.Arg934Gln)"
+  },
+  {
+   "cdna": "c.2819C>T",
+   "protein": "p.Ser940Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "188716",
+   "dbsnp": "rs143124972",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2819C>T (p.Ser940Leu)"
+  },
+  {
+   "cdna": "c.2833G>A",
+   "protein": "p.Asp945Asn",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "539312",
+   "dbsnp": "rs1428599096",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2833G>A (p.Asp945Asn)"
+  },
+  {
+   "cdna": "c.2842G>A",
+   "protein": "p.Asp948Asn",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "552987",
+   "dbsnp": "rs1261939149",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2842G>A (p.Asp948Asn)"
+  },
+  {
+   "cdna": "c.2848G>A",
+   "protein": "p.Val950Met",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2971",
+   "dbsnp": "rs120074135",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2848G>A (p.Val950Met)"
+  },
+  {
+   "cdna": "c.2849T>G",
+   "protein": "p.Val950Gly",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "372774",
+   "dbsnp": "rs1057517978",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2849T>G (p.Val950Gly)"
+  },
+  {
+   "cdna": "c.2873G>A",
+   "protein": "p.Arg958Gln",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2968",
+   "dbsnp": "rs120074132",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2873G>A (p.Arg958Gln)"
+  },
+  {
+   "cdna": "c.2903A>G",
+   "protein": "p.Asn968Ser",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "554989",
+   "dbsnp": "rs773767253",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2903A>G (p.Asn968Ser)"
+  },
+  {
+   "cdna": "c.2928C>A",
+   "protein": "p.Cys976Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1073931",
+   "dbsnp": "rs370766410",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.2928C>A (p.Cys976Ter)"
+  },
+  {
+   "cdna": "c.2932C>T",
+   "protein": "p.Arg978Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2976",
+   "dbsnp": "rs28942108",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2932C>T (p.Arg978Cys)"
+  },
+  {
+   "cdna": "c.2953_2954insT",
+   "protein": "p.Glu985fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1442637",
+   "dbsnp": "rs2145366898",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2953_2954insT (p.Glu985fs)"
+  },
+  {
+   "cdna": "c.2973_2974delinsAT",
+   "protein": "p.Gly992Trp",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "539309",
+   "dbsnp": "rs1555632971",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2973_2974delinsAT (p.Gly992Trp)"
+  },
+  {
+   "cdna": "c.2974G>C",
+   "protein": "p.Gly992Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2969",
+   "dbsnp": "rs80358254",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2974G>C (p.Gly992Arg)"
+  },
+  {
+   "cdna": "c.2975G>C",
+   "protein": "p.Gly992Ala",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2138133",
+   "dbsnp": "rs757534240",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.2975G>C (p.Gly992Ala)"
+  },
+  {
+   "cdna": "c.2978dup",
+   "protein": "p.Asp994fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "553225",
+   "dbsnp": "rs775915490",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.2978dup (p.Asp994fs)"
+  },
+  {
+   "cdna": "c.3001A>G",
+   "protein": "p.Met1001Val",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1026548",
+   "dbsnp": "rs2058666849",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3001A>G (p.Met1001Val)"
+  },
+  {
+   "cdna": "c.3027del",
+   "protein": "p.Lys1010fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "807453",
+   "dbsnp": "rs1598942578",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3027del (p.Lys1010fs)"
+  },
+  {
+   "cdna": "c.3042-2del",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2963",
+   "dbsnp": "rs797044431",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.3042-2del"
+  },
+  {
+   "cdna": "c.3044G>T",
+   "protein": "p.Gly1015Val",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1071316",
+   "dbsnp": "rs761773567",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3044G>T (p.Gly1015Val)"
+  },
+  {
+   "cdna": "c.3056A>G",
+   "protein": "p.Tyr1019Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "371419",
+   "dbsnp": "rs781261962",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3056A>G (p.Tyr1019Cys)"
+  },
+  {
+   "cdna": "c.3100G>A",
+   "protein": "p.Gly1034Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "972703",
+   "dbsnp": "rs2058637844",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3100G>A (p.Gly1034Arg)"
+  },
+  {
+   "cdna": "c.3100G>C",
+   "protein": "p.Gly1034Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1918189",
+   "dbsnp": "rs2058637844",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3100G>C (p.Gly1034Arg)"
+  },
+  {
+   "cdna": "c.3104C>T",
+   "protein": "p.Ala1035Val",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2972",
+   "dbsnp": "rs28942107",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3104C>T (p.Ala1035Val)"
+  },
+  {
+   "cdna": "c.3106A>G",
+   "protein": "p.Thr1036Ala",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2886240",
+   "dbsnp": "rs2511197628",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3106A>G (p.Thr1036Ala)"
+  },
+  {
+   "cdna": "c.3160G>A",
+   "protein": "p.Ala1054Thr",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "21138",
+   "dbsnp": "rs80358258",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3160G>A (p.Ala1054Thr)"
+  },
+  {
+   "cdna": "c.3246-2A>G",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "281939",
+   "dbsnp": "rs886042268",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.3246-2A>G"
+  },
+  {
+   "cdna": "c.3255T>A",
+   "protein": "p.Tyr1085Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "984317",
+   "dbsnp": "rs774602107",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3255T>A (p.Tyr1085Ter)"
+  },
+  {
+   "cdna": "c.3259T>C",
+   "protein": "p.Phe1087Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "555143",
+   "dbsnp": "rs746715353",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3259T>C (p.Phe1087Leu)"
+  },
+  {
+   "cdna": "c.3263A>G",
+   "protein": "p.Tyr1088Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2964",
+   "dbsnp": "rs28942106",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3263A>G (p.Tyr1088Cys)"
+  },
+  {
+   "cdna": "c.3322dup",
+   "protein": "p.Ala1108fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1696116",
+   "dbsnp": "rs2145351244",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3322dup (p.Ala1108fs)"
+  },
+  {
+   "cdna": "c.3325del",
+   "protein": "p.Ile1109fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "371282",
+   "dbsnp": "rs1057517149",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3325del (p.Ile1109fs)"
+  },
+  {
+   "cdna": "c.3379_3380del",
+   "protein": "p.Met1127fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "858308",
+   "dbsnp": "rs2058616798",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3379_3380del (p.Met1127fs)"
+  },
+  {
+   "cdna": "c.337T>C",
+   "protein": "p.Cys113Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2978",
+   "dbsnp": "rs120074136",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.337T>C (p.Cys113Arg)"
+  },
+  {
+   "cdna": "c.3410dup",
+   "protein": "p.Asn1137fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "666978",
+   "dbsnp": "rs768299417",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3410dup (p.Asn1137fs)"
+  },
+  {
+   "cdna": "c.3412_3413del",
+   "protein": "p.Met1138fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1705793",
+   "dbsnp": "rs2511189739",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3412_3413del (p.Met1138fs)"
+  },
+  {
+   "cdna": "c.3422T>G",
+   "protein": "p.Val1141Gly",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1358191",
+   "dbsnp": "rs144725473",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3422T>G (p.Val1141Gly)"
+  },
+  {
+   "cdna": "c.3425T>C",
+   "protein": "p.Met1142Thr",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "372435",
+   "dbsnp": "rs778878523",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3425T>C (p.Met1142Thr)"
+  },
+  {
+   "cdna": "c.3451G>A",
+   "protein": "p.Ala1151Thr",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "568770",
+   "dbsnp": "rs765729815",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3451G>A (p.Ala1151Thr)"
+  },
+  {
+   "cdna": "c.3467A>T",
+   "protein": "p.Asn1156Ile",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "552768",
+   "dbsnp": "rs28942105",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3467A>T (p.Asn1156Ile)"
+  },
+  {
+   "cdna": "c.3496G>T",
+   "protein": "p.Glu1166Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2690654",
+   "dbsnp": "rs1567944248",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.3496G>T (p.Glu1166Ter)"
+  },
+  {
+   "cdna": "c.3500T>G",
+   "protein": "p.Phe1167Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "557024",
+   "dbsnp": "rs1555632003",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3500T>G (p.Phe1167Cys)"
+  },
+  {
+   "cdna": "c.3503G>A",
+   "protein": "p.Cys1168Tyr",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "502274",
+   "dbsnp": "rs1555631998",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3503G>A (p.Cys1168Tyr)"
+  },
+  {
+   "cdna": "c.3557G>A",
+   "protein": "p.Arg1186His",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "189174",
+   "dbsnp": "rs200444084",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3557G>A (p.Arg1186His)"
+  },
+  {
+   "cdna": "c.3566A>G",
+   "protein": "p.Glu1189Gly",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "371037",
+   "dbsnp": "rs369098773",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3566A>G (p.Glu1189Gly)"
+  },
+  {
+   "cdna": "c.3570_3573dup",
+   "protein": "p.Ala1192fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "419323",
+   "dbsnp": "rs750323164",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3570_3573dup (p.Ala1192fs)"
+  },
+  {
+   "cdna": "c.3591+2dup",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1454764",
+   "dbsnp": "rs2145342749",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000271.5(NPC1):c.3591+2dup"
+  },
+  {
+   "cdna": "c.3611_3614del",
+   "protein": "p.Leu1204fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2979",
+   "dbsnp": "rs786200879",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3611_3614del (p.Leu1204fs)"
+  },
+  {
+   "cdna": "c.3614C>A",
+   "protein": "p.Thr1205Lys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "188747",
+   "dbsnp": "rs758902805",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3614C>A (p.Thr1205Lys)"
+  },
+  {
+   "cdna": "c.3614C>G",
+   "protein": "p.Thr1205Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "505018",
+   "dbsnp": "rs758902805",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3614C>G (p.Thr1205Arg)"
+  },
+  {
+   "cdna": "c.3634G>T",
+   "protein": "p.Val1212Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "558706",
+   "dbsnp": "rs753419933",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3634G>T (p.Val1212Leu)"
+  },
+  {
+   "cdna": "c.3637T>G",
+   "protein": "p.Leu1213Val",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1809713",
+   "dbsnp": "rs766178353",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3637T>G (p.Leu1213Val)"
+  },
+  {
+   "cdna": "c.3670T>C",
+   "protein": "p.Phe1224Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2846798",
+   "dbsnp": "rs2058572301",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3670T>C (p.Phe1224Leu)"
+  },
+  {
+   "cdna": "c.3718G>C",
+   "protein": "p.Gly1240Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "4710444",
+   "dbsnp": "",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.3718G>C (p.Gly1240Arg)"
+  },
+  {
+   "cdna": "c.3734_3735del",
+   "protein": "p.Pro1245fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "419641",
+   "dbsnp": "rs1064794009",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3734_3735del (p.Pro1245fs)"
+  },
+  {
+   "cdna": "c.3742_3745del",
+   "protein": "p.Leu1248fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "487441",
+   "dbsnp": "rs774943545",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.3742_3745del (p.Leu1248fs)"
+  },
+  {
+   "cdna": "c.3G>A",
+   "protein": "p.Met1Ile",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "551469",
+   "dbsnp": "rs1555645630",
+   "consequence": "missense variant|initiator_codon_variant",
+   "full_name": "NM_000271.5(NPC1):c.3G>A (p.Met1Ile)"
+  },
+  {
+   "cdna": "c.433C>T",
+   "protein": "p.Gln145Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "370763",
+   "dbsnp": "rs1057516749",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.433C>T (p.Gln145Ter)"
+  },
+  {
+   "cdna": "c.464-2A>C",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1339660",
+   "dbsnp": "rs2145485704",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000271.5(NPC1):c.464-2A>C"
+  },
+  {
+   "cdna": "c.506A>T",
+   "protein": "p.Asn169Ile",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "995858",
+   "dbsnp": "rs2059038310|rs767361180",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.506A>T (p.Asn169Ile)"
+  },
+  {
+   "cdna": "c.530G>A",
+   "protein": "p.Cys177Tyr",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2974",
+   "dbsnp": "rs80358252",
+   "consequence": "missense variant",
+   "full_name": "NM_000271.5(NPC1):c.530G>A (p.Cys177Tyr)"
+  },
+  {
+   "cdna": "c.67del",
+   "protein": "p.Gln23fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "285543",
+   "dbsnp": "rs886043131",
+   "consequence": "frameshift variant",
+   "full_name": "NM_000271.5(NPC1):c.67del (p.Gln23fs)"
+  },
+  {
+   "cdna": "c.721C>T",
+   "protein": "p.Gln241Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "422340",
+   "dbsnp": "rs1064795718",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.721C>T (p.Gln241Ter)"
+  },
+  {
+   "cdna": "c.818G>A",
+   "protein": "p.Trp273Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1677986",
+   "dbsnp": "rs2145479791",
+   "consequence": "nonsense",
+   "full_name": "NM_000271.5(NPC1):c.818G>A (p.Trp273Ter)"
+  }
+ ]
+}

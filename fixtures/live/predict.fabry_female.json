@@ -1,0 +1,202 @@
+{
+  "predictions": [
+    {
+      "disease": "fabry",
+      "display_name": "Fabry disease",
+      "raw_score": 54.5,
+      "max_possible_score": 130,
+      "absolute_risk": 0.419,
+      "relative_probability": 0.873,
+      "rank": 1
+    },
+    {
+      "disease": "pompe",
+      "display_name": "Pompe disease",
+      "raw_score": 4,
+      "max_possible_score": 130,
+      "absolute_risk": 0.031,
+      "relative_probability": 0.03,
+      "rank": 2
+    },
+    {
+      "disease": "mps1",
+      "display_name": "Mucopolysaccharidosis type I",
+      "raw_score": 2.4,
+      "max_possible_score": 130,
+      "absolute_risk": 0.018,
+      "relative_probability": 0.027,
+      "rank": 3
+    },
+    {
+      "disease": "gaucher",
+      "display_name": "Gaucher disease",
+      "raw_score": 0.4,
+      "max_possible_score": 130,
+      "absolute_risk": 0.003,
+      "relative_probability": 0.024,
+      "rank": 4
+    },
+    {
+      "disease": "niemann_pick_c",
+      "display_name": "Niemann-Pick disease type C",
+      "raw_score": 0,
+      "max_possible_score": 90,
+      "absolute_risk": 0,
+      "relative_probability": 0.023,
+      "rank": 5
+    },
+    {
+      "disease": "krabbe",
+      "display_name": "Krabbe disease",
+      "raw_score": 0,
+      "max_possible_score": 130,
+      "absolute_risk": 0,
+      "relative_probability": 0.023,
+      "rank": 6
+    }
+  ],
+  "risk_level": "MODERATE",
+  "risk_basis": "absolute_risk",
+  "confidence": {
+    "level": "high",
+    "missing_inputs": [],
+    "note": "Most diagnostic inputs supplied."
+  },
+  "factors": [
+    {
+      "category": "genetic",
+      "feature": "GLA",
+      "label": "Pathogenic variant in GLA (heterozygous female)",
+      "value": "c.644A>G",
+      "points": 19.2,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "Fabry Outcome Survey, Deegan 2006 J Med Genet 43:347"
+    },
+    {
+      "category": "enzyme",
+      "feature": "alpha_Gal_A",
+      "label": "alpha_Gal_A reduced",
+      "value": "37.9% of normal (value/reference_interval)",
+      "points": 14,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "Italy NBS IJNS 10:00003; Missouri IJNS 11:00048"
+    },
+    {
+      "category": "biomarker",
+      "feature": "lyso_Gb3",
+      "label": "lyso_Gb3 elevated",
+      "value": "5.1x ULN",
+      "points": 10,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "Lyso-Gb3 DBS reference <0.8 ng/mL, Clin Chem 69:hvad097.533"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0000966",
+      "label": "Reduced sweating",
+      "value": "severity 1",
+      "points": 4.8,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "vitals",
+      "feature": "arrhythmia",
+      "label": "Cardiac arrhythmia",
+      "value": "detected",
+      "points": 4,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "Supporting evidence only; not diagnostic"
+    },
+    {
+      "category": "vitals",
+      "feature": "arrhythmia",
+      "label": "Cardiac arrhythmia",
+      "value": "detected",
+      "points": 4,
+      "direction": "increases",
+      "disease": "pompe",
+      "citation": "Supporting evidence only; not diagnostic"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0000093",
+      "label": "Proteinuria",
+      "value": "severity 1",
+      "points": 2.44,
+      "direction": "increases",
+      "disease": "fabry",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0003401",
+      "label": "Burning pain in hands and feet",
+      "value": "severity 2",
+      "points": 2.37,
+      "direction": "increases",
+      "disease": "mps1",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    },
+    {
+      "category": "symptom",
+      "feature": "HP:0000093",
+      "label": "Proteinuria",
+      "value": "severity 1",
+      "points": 0.38,
+      "direction": "increases",
+      "disease": "gaucher",
+      "citation": "HPO phenotype.hpoa v2026-09-02 (incl. Orphanet)"
+    }
+  ],
+  "category_scores": {
+    "enzyme": 14,
+    "genetic": 19.2,
+    "symptom": 7.2,
+    "biomarker": 10,
+    "vitals": 4
+  },
+  "model": {
+    "engine_version": "0.3.0",
+    "mode": "rule_based",
+    "weights_version": "2026-11-15"
+  },
+  "disclaimer": "This output is a screening aid, not a diagnosis. All results must be reviewed by a qualified clinician and confirmed by laboratory testing.",
+  "request_id": "af0f74166dd4",
+  "generated_at": "2026-11-15T15:03:04.381703+00:00",
+  "inheritance": {
+    "applicable": true,
+    "mode": "x_linked",
+    "punnett": {
+      "affected_pct": 25,
+      "carrier_pct": 25,
+      "unaffected_pct": 50
+    },
+    "note": "X-linked: sons of a carrier mother have 50% risk; daughters are obligate carriers if the father is affected. Heterozygous females are frequently symptomatic in Fabry disease."
+  },
+  "recommendations": {
+    "confirmatory_tests": [
+      {
+        "test": "GLA sequencing",
+        "priority": "routine",
+        "rationale": "Required in females, where enzyme activity may be near-normal."
+      }
+    ],
+    "treatment_pathways": [
+      {
+        "name": "Enzyme Replacement Therapy (ERT)",
+        "stage": "post-confirmation"
+      },
+      {
+        "name": "Chaperone therapy where amenable",
+        "stage": "post-confirmation"
+      }
+    ],
+    "referral": "Clinical correlation advised; refer if suspicion persists."
+  }
+}

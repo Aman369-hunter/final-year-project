@@ -1,0 +1,231 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------------
+   Design tokens. Every colour in the app resolves to one of these variables
+   (space-separated RGB channels so Tailwind can apply alpha). Light is the
+   default; dark applies via [data-theme=dark] or, when the user picked
+   "System", via prefers-color-scheme. The two dark blocks MUST stay
+   identical (src/theme/contrast.test.js asserts it and checks WCAG AA).
+
+   Status families (ok / warn / high / danger / accent / refer) each carry:
+     -fg     text colour, AA on the surface AND on -bg
+     -bg     soft tinted background
+     -line   border / ring
+     -solid  fills, dots, bars, chart marks (>= 3:1 on the surface)
+   Risk bands map LOW→ok, MODERATE→warn, HIGH→high, CRITICAL→danger, with
+   separately tuned values per theme (not the same hex dimmed).
+   ------------------------------------------------------------------------ */
+:root {
+  color-scheme: light;
+
+  --canvas: 243 245 248;
+  --surface: 255 255 255;
+  --subtle: 248 250 252;
+  --muted: 237 241 246;
+  --line: 222 228 236;
+  --line-strong: 133 148 166;
+
+  --fg: 15 23 42;
+  --fg-2: 51 65 85;
+  --fg-3: 88 101 122;
+
+  --primary: 15 23 42;
+  --primary-hover: 51 65 85;
+  --on-primary: 255 255 255;
+
+  --ok-fg: 22 101 52;      --ok-bg: 236 253 243;      --ok-line: 134 200 160;     --ok-solid: 21 128 61;
+  --warn-fg: 133 77 14;    --warn-bg: 255 247 222;    --warn-line: 217 164 65;    --warn-solid: 176 124 0;
+  --high-fg: 154 52 18;    --high-bg: 255 240 228;    --high-line: 240 160 110;   --high-solid: 224 80 30;
+  --danger-fg: 153 27 27;  --danger-bg: 254 238 238;  --danger-line: 240 150 150; --danger-solid: 200 30 30;
+  --accent-fg: 3 105 161;  --accent-bg: 236 247 254;  --accent-line: 125 190 230; --accent-solid: 3 105 161;
+  --accent-solid-hover: 7 89 133;
+  --refer-fg: 91 33 182;   --refer-bg: 244 240 255;   --refer-line: 190 165 245;  --refer-solid: 109 40 217;
+
+  --focus: 3 105 161;
+  --shadow: 15 23 42;
+
+  /* Bedside-monitor screens stay dark in both themes (a recessed display). */
+  --mon-bg: 8 14 26;
+  --mon-grid: 148 163 184;
+  --mon-text: 203 213 225;
+  --mon-trace: 74 222 128;
+  --mon-trace-warn: 250 204 21;
+  --mon-tick: 252 165 165;
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+
+  --canvas: 8 12 20;
+  --surface: 15 22 35;
+  --subtle: 20 29 45;
+  --muted: 28 39 58;
+  --line: 38 51 72;
+  --line-strong: 100 116 139;
+
+  --fg: 241 245 249;
+  --fg-2: 203 213 225;
+  --fg-3: 148 163 184;
+
+  --primary: 226 232 240;
+  --primary-hover: 203 213 225;
+  --on-primary: 10 18 30;
+
+  --ok-fg: 134 239 172;     --ok-bg: 14 42 30;     --ok-line: 34 110 70;     --ok-solid: 74 222 128;
+  --warn-fg: 253 224 120;   --warn-bg: 48 36 10;   --warn-line: 130 96 20;   --warn-solid: 250 204 21;
+  --high-fg: 253 186 140;   --high-bg: 52 30 14;   --high-line: 150 80 30;   --high-solid: 251 146 60;
+  --danger-fg: 254 178 178; --danger-bg: 58 20 24; --danger-line: 150 50 56; --danger-solid: 248 113 113;
+  --accent-fg: 125 211 252; --accent-bg: 12 38 58; --accent-line: 30 100 150; --accent-solid: 56 189 248;
+  --accent-solid-hover: 125 211 252;
+  --refer-fg: 196 181 253;  --refer-bg: 34 26 62;  --refer-line: 90 70 160;  --refer-solid: 167 139 250;
+
+  --focus: 125 211 252;
+  --shadow: 0 0 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    color-scheme: dark;
+
+    --canvas: 8 12 20;
+    --surface: 15 22 35;
+    --subtle: 20 29 45;
+    --muted: 28 39 58;
+    --line: 38 51 72;
+    --line-strong: 100 116 139;
+
+    --fg: 241 245 249;
+    --fg-2: 203 213 225;
+    --fg-3: 148 163 184;
+
+    --primary: 226 232 240;
+    --primary-hover: 203 213 225;
+    --on-primary: 10 18 30;
+
+    --ok-fg: 134 239 172;     --ok-bg: 14 42 30;     --ok-line: 34 110 70;     --ok-solid: 74 222 128;
+    --warn-fg: 253 224 120;   --warn-bg: 48 36 10;   --warn-line: 130 96 20;   --warn-solid: 250 204 21;
+    --high-fg: 253 186 140;   --high-bg: 52 30 14;   --high-line: 150 80 30;   --high-solid: 251 146 60;
+    --danger-fg: 254 178 178; --danger-bg: 58 20 24; --danger-line: 150 50 56; --danger-solid: 248 113 113;
+    --accent-fg: 125 211 252; --accent-bg: 12 38 58; --accent-line: 30 100 150; --accent-solid: 56 189 248;
+    --accent-solid-hover: 125 211 252;
+    --refer-fg: 196 181 253;  --refer-bg: 34 26 62;  --refer-line: 90 70 160;  --refer-solid: 167 139 250;
+
+    --focus: 125 211 252;
+    --shadow: 0 0 0;
+  }
+}
+
+@layer base {
+  html {
+    background: rgb(var(--canvas));
+  }
+  body {
+    background: rgb(var(--canvas));
+    color: rgb(var(--fg));
+    font-feature-settings: 'cv11', 'ss01';
+    -webkit-font-smoothing: antialiased;
+  }
+  /* One focus treatment for every interactive element. */
+  :focus-visible {
+    outline: 2px solid rgb(var(--focus));
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+  ::selection {
+    background: rgb(var(--accent-solid) / 0.3);
+  }
+}
+
+@layer components {
+  /* Consistent card treatment: radius, border, elevation. */
+  .card {
+    @apply rounded-xl border border-line bg-surface shadow-card;
+  }
+  /* A card that reacts to the pointer — worklist rows, case tiles. */
+  .card-interactive {
+    @apply card transition-all duration-200;
+  }
+  .card-interactive:hover {
+    @apply -translate-y-0.5 border-line-strong shadow-pop;
+  }
+  .skeleton {
+    @apply rounded-md bg-muted;
+    animation: skeleton-pulse 1.4s ease-in-out infinite;
+  }
+
+  /* One input treatment everywhere: same height, radius and focus behaviour. */
+  .input {
+    @apply w-full rounded-lg border border-line-strong bg-surface px-3 py-2 text-body text-fg transition-colors;
+  }
+  .input::placeholder {
+    color: rgb(var(--fg-3));
+  }
+  .input:hover {
+    border-color: rgb(var(--fg-3));
+  }
+  .input:focus {
+    outline: none;
+    border-color: rgb(var(--focus));
+    box-shadow: 0 0 0 3px rgb(var(--focus) / 0.18);
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2 text-body font-medium transition-all duration-150;
+  }
+  .btn:active:not(:disabled) {
+    transform: translateY(1px);
+  }
+  .btn:disabled {
+    @apply cursor-not-allowed opacity-40;
+  }
+  .btn-primary {
+    @apply btn bg-primary text-on-primary;
+  }
+  .btn-primary:hover:not(:disabled) {
+    @apply bg-primary-hover shadow-card;
+  }
+  .btn-accent {
+    @apply btn bg-accent-solid text-on-primary;
+  }
+  .btn-accent:hover:not(:disabled) {
+    @apply bg-accent-solid-hover shadow-card;
+  }
+  .btn-ghost {
+    @apply btn border border-line bg-surface text-fg-2;
+  }
+  .btn-ghost:hover:not(:disabled) {
+    @apply border-line-strong bg-subtle text-fg;
+  }
+
+  /* Section heading used above groups of fields and lists. */
+  .section-title {
+    @apply text-label font-semibold uppercase tracking-wider text-fg-3;
+  }
+}
+
+@keyframes skeleton-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.55; }
+}
+
+/* Smooth theme switch: only while the toggle is animating, so steady-state
+   rendering (and the 60 fps sensor canvases) never pays for transitions. */
+html.theme-anim *,
+html.theme-anim *::before,
+html.theme-anim *::after {
+  transition: background-color 220ms ease, color 220ms ease, border-color 220ms ease,
+    fill 220ms ease, stroke 220ms ease, box-shadow 220ms ease !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html.theme-anim *,
+  html.theme-anim *::before,
+  html.theme-anim *::after {
+    transition: none !important;
+  }
+  .skeleton {
+    animation: none;
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "source": "Illinois/NY/Italy newborn screening",
+  "note": "apply at inference; training cohort is class-balanced",
+  "birth_prevalence": {
+    "gaucher": 6.435420554733252e-05,
+    "fabry": 0.00011828720132481665,
+    "pompe": 4.5497975340097364e-05,
+    "mps1": 1.6089069086462657e-05,
+    "niemann_pick_c": 1e-05,
+    "krabbe": 1e-05
+  }
+}

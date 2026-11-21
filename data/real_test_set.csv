@@ -1,0 +1,36 @@
+source,patient_id,disease,sex,age_years,gene,variants,zygosity,enzyme_activity,chitotriosidase,hpo_present,phenotype_text
+phenopacket_store,PMID_41694855_Case_presentation,gaucher,female,4.00,GBA1,NM_000157.4:c.827C>T(homozygous),,,,HP:0001903;HP:0001882;HP:0000657;HP:0001744;HP:0002376;HP:0025190;HP:0001336;HP:0001251;HP:6000893,
+phenopacket_store,PMID_26567009_male_child,krabbe,male,1.17,GALC,NM_000153.4:c.1622G>A(heterozygous);NM_000153.4:c.860G>A(heterozygous),,,,HP:0011951;HP:0011471;HP:0001276;HP:0001347;HP:0034322;HP:0000737;HP:0006532;HP:0001954,
+phenopacket_store,PMID_27900365_patient,niemann_pick_c,male,54.00,NPC1,NM_000271.5:c.3467A>G(heterozygous);NM_000271.5:c.2848G>A(heterozygous),,,,HP:0007017;HP:0031987;HP:0001260;HP:0002527;HP:0001268;HP:0001251;HP:0003651;HP:0031833;HP:0003349;HP:0006579;HP:0002240;HP:0001744,
+phenopacket_store,PMID_16917947_11,pompe,male,27.00,GAA,NM_000152.5:c.2237G>A(heterozygous);NM_000152.5:c.-32-13T>G(heterozygous),,,,HP:0031956;HP:0031964;HP:0003236;HP:0002098;HP:0003324,
+phenopacket_store,PMID_16917947_13,pompe,female,62.00,GAA,NM_000152.5:c.2237G>A(heterozygous);NM_000152.5:c.-32-13T>G(heterozygous),,,,HP:0002098;HP:0012378;HP:0003551,
+phenopacket_store,PMID_16917947_18,pompe,male,54.00,GAA,NM_000152.5:c.2237G>A(heterozygous);NM_000152.5:c.-32-13T>G(heterozygous),,,,HP:0003324,
+phenopacket_store,PMID_16917947_19,pompe,male,45.00,GAA,NM_000152.5:c.2237G>A(heterozygous);NM_000152.5:c.-32-13T>G(heterozygous),,,,HP:0003236;HP:0003324,
+phenopacket_store,PMID_16917947_2,pompe,female,35.00,GAA,NM_000152.5:c.2237G>A(heterozygous);NM_000152.5:c.-32-13T>G(heterozygous),,,,HP:0031956;HP:0031964;HP:0003236;HP:0012378;HP:0007340,
+phenopacket_store,PMID_16917947_29,pompe,male,12.00,GAA,NM_000152.5:c.-32-13T>G(heterozygous);NM_000152.5:c.2237G>A(heterozygous),,,,HP:0031956;HP:0031964;HP:0003236;HP:0002098,
+phenopacket_store,PMID_16917947_3,pompe,female,6.00,GAA,NM_000152.5:c.2237G>A(heterozygous);NM_000152.5:c.-32-13T>G(heterozygous),,,,HP:0031956;HP:0031964;HP:0003236,
+phenopacket_store,PMID_16917947_35,pompe,male,14.00,GAA,NM_000152.5:c.2237G>A(heterozygous);NM_000152.5:c.-32-13T>G(heterozygous),,,,HP:0031956;HP:0031964;HP:0003236,
+phenopacket_store,PMID_16917947_8,pompe,female,55.00,GAA,NM_000152.5:c.2237G>A(heterozygous);NM_000152.5:c.-32-13T>G(heterozygous),,,,HP:0003236;HP:0002098;HP:0012378;HP:0007340;HP:0003324,
+phenopacket_store,PMID_7668832_Father,pompe,male,31.00,GAA,NM_000152.5:c.1210G>A(heterozygous);NM_000152.5:c.-32-13T>G(heterozygous),,,,HP:0003236;HP:0012496;HP:0012497,
+sheth_2024_india_adults,P1,gaucher,male,20,GBA,c.1448 T > C;c.1102C;(p.L483P);(p.R368C),compound heterozygous,2.5,57503.7,,"At age of 15 years, difficulty in walking, x-ray: avascular necrosis of left head of femur, BM s/o > T foamy cytopenia with splenomegaly, HB-6.9"
+sheth_2024_india_adults,P2,gaucher,female,20,GBA,c.1459G > A;(p.A487T),homozygous,1.2,72000,,"Splenomegaly, anaemia"
+sheth_2024_india_adults,P3,gaucher,female,26,GBA,c.1459G > A;(p.A487T),homozygous,1.2,0,,Hepatosplenomegaly
+sheth_2024_india_adults,P4,gaucher,male,31,GBA,c.1060G > A;(p.D354N),homozygous,,14378,,No clinical details
+sheth_2024_india_adults,P5,gaucher,male,25,GBA,c.1448 T > C;c.167;(p.L483P);(p.V56G),compound heterozygous,,1670,,"Hepatosplenomegaly, thrombocytopenia, BM s/o Gaucher cells T > G"
+sheth_2024_india_adults,P6,gaucher,female,28,GBA,c.1459G > A;c.492C;(p.A487T);(p.S125R),compound heterozygous,,102.4,,"Splenomegaly, anaemia, Thrombocytopenia, BM s/o Gaucher cells > G"
+sheth_2024_india_adults,P7,gaucher,female,40,GBA,c.1300C > T;(p.R434C),homozygous,1.5,54503.7,,"H/o generalised weakness since last 2 years, moderate to severe splenomegaly, BM study consist with Gaucher cells."
+sheth_2024_india_adults,P8,gaucher,male,19,GBA,c.1504C > T (R502C),homozygous,3.4,6412.5,,"Suspected Gaucher disease assessed by liver and BM histopath, chronic anaemia, splenectomy done at 12 years of age had osteomelytis of right femur, surgical operation done, mentally normal—presently studying in polytechnique first year"
+sheth_2024_india_adults,P9,gaucher,female,26,GBA,ND,,1.8,,,"No clinical details (Continues) 89 21928312, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jmd2.12407, Wiley Online Library on [15/11/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License"
+sheth_2024_india_adults,P10,gaucher,male,22,GBA,c.1504C > T;(p.R502C),homozygous,2.8,43.5,,"Splenomegaly, biopsy showed Gaucher cells"
+sheth_2024_india_adults,P11,gaucher,female,29,GBA,c.1448 T > C;c.913C;(p.L483P);(p.P305A),compound heterozygous,1.3,26273.1,,"Hepatosplenomegaly, splenectomy at 7 years, bilateral hip replacement, liver biopsy: extensive bone > G marrow necrosis"
+sheth_2024_india_adults,P12,gaucher,female,18,GBA,c.1342G > C;(p.D448H),homozygous,1.5,25092.5,,"Anaemia, corneal opacity, oculomotor apraxia, aortic calcification"
+sheth_2024_india_adults,P16,mps1,female,29,IDUA,c.891C > A;(p.N297K),homozygous,1.9,,,"Large eyes, proptosis, MRI: leukodystrophy, ECHO: bicuspid aortic valve reduced LV compliance, short metacarpals, stiff joints"
+sheth_2024_india_adults,P17,mps1,male,28,IDUA,ND,,0.5,,,"Mild coarse face, skeletal dysplasia, stiff joints"
+sheth_2024_india_adults,P18,mps1,male,18,IDUA,c.1469 T > C;(p.L490P),homozygous,0,,,"Coarse face, corneal clouding, depressed nasal bridge, kyphoscoliosis, mild hepatosplenomegaly, stiffness"
+sheth_2024_india_adults,P19,fabry,male,46,GLA,c.1088G > A;(p.R363H),hemizygous,1.75,,,"Acroperasis and stroke at an early age, angiokeratoma"
+sheth_2024_india_adults,P20,fabry,male,35,GLA,c.25del;(p.H9IfsTer112),hemizygous,2.88,,,Angiokeratoma
+sheth_2024_india_adults,P21,fabry,male,30,GLA,ND,,3.8,,,"Reddish brown rash, nodular red lesion mainly involving trunk, s/o cutaneous angiokeratoma, h/o inguinal hernia at birth (repaired SHETH ET AL."
+sheth_2024_india_adults,P22,fabry,male,25,GLA,c.828C > A;(p.S276R),hemizygous,3.2,,,"Angiokeratoma, xerosis on back, corneal verticillata on both eyes, ECHO and USG- normal"
+sheth_2024_india_adults,P26,pompe,female,41,GAA,c.1841C > T;(p.T614M),homozygous,,,,Progressive proximal muscle weakness and frequent respiratory without acarbose) infections
+sheth_2024_india_adults,P27,pompe,male,32,GAA,ND,,0.19/13.2,,,Generalised muscle weakness without acarbose)
+sheth_2024_india_adults,P28,pompe,female,18,GAA,ND,,0.36/1.56,,,"Weakness of B/L lower limbs since 3 years of age, left eyelid ptosis, without acarbose) h/o calf pain, weakness while climbing up and down stairs"

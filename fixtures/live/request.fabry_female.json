@@ -1,0 +1,87 @@
+{
+  "patient": {
+    "age_years": 34,
+    "sex": "female",
+    "consanguinity": false,
+    "ethnicity": "south_asian",
+    "family_history": {
+      "affected_relative": true,
+      "relationship": "brother"
+    }
+  },
+  "symptoms": [
+    {
+      "hpo_id": "HP:0003401",
+      "label": "Burning pain in hands and feet",
+      "present": true,
+      "severity": 2
+    },
+    {
+      "hpo_id": "HP:0000966",
+      "label": "Reduced sweating",
+      "present": true,
+      "severity": 1
+    },
+    {
+      "hpo_id": "HP:0000093",
+      "label": "Proteinuria",
+      "present": true,
+      "severity": 1
+    }
+  ],
+  "labs": {
+    "enzymes": [
+      {
+        "analyte": "alpha_Gal_A",
+        "value": 2.9,
+        "unit": "nmol/h/mL",
+        "assay": "DBS",
+        "reference_low": 3,
+        "reference_high": 12.3
+      }
+    ],
+    "biomarkers": [
+      {
+        "analyte": "lyso_Gb3",
+        "value": 4.1,
+        "unit": "ng/mL",
+        "reference_high": 0.8
+      }
+    ],
+    "routine": {
+      "hemoglobin_g_dl": 12.8,
+      "platelets_10e9_l": 240
+    }
+  },
+  "genetics": {
+    "tested": true,
+    "findings": [
+      {
+        "gene": "GLA",
+        "variant": "c.644A>G",
+        "zygosity": "heterozygous",
+        "classification": "pathogenic"
+      }
+    ],
+    "parents": {
+      "mother_genotype": "carrier",
+      "father_genotype": "unaffected"
+    }
+  },
+  "vitals": {
+    "source": "device",
+    "heart_rate_bpm": 64,
+    "spo2_pct": 98,
+    "temperature_c": 36.7,
+    "respiratory_rate_bpm": 14,
+    "ecg": {
+      "rhythm": "irregular",
+      "qrs_ms": 104,
+      "arrhythmia_flag": true
+    },
+    "activity": {
+      "tremor_index": 0.03,
+      "mobility_score": 0.95
+    }
+  }
+}

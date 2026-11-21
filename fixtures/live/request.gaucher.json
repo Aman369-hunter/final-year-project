@@ -1,0 +1,84 @@
+{
+  "patient": {
+    "age_years": 7.5,
+    "sex": "male",
+    "consanguinity": false,
+    "ethnicity": "south_asian",
+    "family_history": {
+      "affected_relative": true,
+      "relationship": "sibling"
+    }
+  },
+  "symptoms": [
+    {
+      "hpo_id": "HP:0001744",
+      "label": "Splenomegaly",
+      "present": true,
+      "severity": 3
+    },
+    {
+      "hpo_id": "HP:0002240",
+      "label": "Hepatomegaly",
+      "present": true,
+      "severity": 2
+    },
+    {
+      "hpo_id": "HP:0001873",
+      "label": "Thrombocytopenia",
+      "present": true,
+      "severity": 2
+    },
+    {
+      "hpo_id": "HP:0001903",
+      "label": "Anaemia",
+      "present": true,
+      "severity": 2
+    },
+    {
+      "hpo_id": "HP:0001250",
+      "label": "Seizure",
+      "present": false,
+      "severity": 0
+    }
+  ],
+  "labs": {
+    "enzymes": [
+      {
+        "analyte": "GBA",
+        "value": 0.8,
+        "unit": "nmol/h/mL",
+        "assay": "DBS",
+        "reference_low": 4.5,
+        "reference_high": 20
+      }
+    ],
+    "biomarkers": [
+      {
+        "analyte": "lyso_Gb1",
+        "value": 210,
+        "unit": "ng/mL",
+        "reference_high": 9
+      }
+    ],
+    "routine": {
+      "hemoglobin_g_dl": 9.1,
+      "platelets_10e9_l": 95
+    }
+  },
+  "vitals": {
+    "source": "device",
+    "heart_rate_bpm": 102,
+    "spo2_pct": 95,
+    "temperature_c": 37.1,
+    "respiratory_rate_bpm": 24,
+    "ecg": {
+      "rhythm": "sinus",
+      "qrs_ms": 96,
+      "arrhythmia_flag": false
+    },
+    "activity": {
+      "tremor_index": 0.12,
+      "mobility_score": 0.74
+    }
+  }
+}

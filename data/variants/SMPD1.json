@@ -1,0 +1,3807 @@
+{
+ "gene": "SMPD1",
+ "disease": "niemann_pick_ab",
+ "source": "ClinVar, pathogenic + likely pathogenic only",
+ "retrieved": "2026-11-15",
+ "count": 422,
+ "variants": [
+  {
+   "cdna": "c.1001T>C",
+   "protein": "p.Ile334Thr",
+   "classification": "likely pathogenic",
+   "variation_id": "992695",
+   "dbsnp": "rs759950370",
+   "consequence": "missense variant|synonymous variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1001T>C (p.Ile334Thr)"
+  },
+  {
+   "cdna": "c.1026G>C",
+   "protein": "p.Trp342Cys",
+   "classification": "likely pathogenic",
+   "variation_id": "550557",
+   "dbsnp": "rs281860668",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1026G>C (p.Trp342Cys)"
+  },
+  {
+   "cdna": "c.1028T>G",
+   "protein": "p.Leu343Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "4534621",
+   "dbsnp": "",
+   "consequence": "non-coding transcript variant|missense variant",
+   "full_name": "NM_000543.5(SMPD1):c.1028T>G (p.Leu343Arg)"
+  },
+  {
+   "cdna": "c.1053G>A",
+   "protein": "p.Trp351Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "5007888",
+   "dbsnp": "",
+   "consequence": "nonsense|missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1053G>A (p.Trp351Ter)"
+  },
+  {
+   "cdna": "c.1054_1072dup",
+   "protein": "p.Glu358fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3599941",
+   "dbsnp": "",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1054_1072dup (p.Glu358fs)"
+  },
+  {
+   "cdna": "c.106_107delinsCGCTGGC",
+   "protein": "p.Val36fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2503937",
+   "dbsnp": "rs2493799201",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.106_107delinsCGCTGGC (p.Val36fs)"
+  },
+  {
+   "cdna": "c.1076C>T",
+   "protein": "p.Ala359Val",
+   "classification": "likely pathogenic",
+   "variation_id": "1501459",
+   "dbsnp": "rs797044800",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1076C>T (p.Ala359Val)"
+  },
+  {
+   "cdna": "c.107_116delinsCGC",
+   "protein": "p.Val36fs",
+   "classification": "likely pathogenic",
+   "variation_id": "813474",
+   "dbsnp": "rs1590735307",
+   "consequence": "frameshift variant|non-coding transcript variant|5 prime UTR variant",
+   "full_name": "NM_000543.5(SMPD1):c.107_116delinsCGC (p.Val36fs)"
+  },
+  {
+   "cdna": "c.1090A>G",
+   "protein": "p.Arg364Gly",
+   "classification": "likely pathogenic",
+   "variation_id": "992697",
+   "dbsnp": "rs1242180535",
+   "consequence": "missense variant|synonymous variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1090A>G (p.Arg364Gly)"
+  },
+  {
+   "cdna": "c.1091G>A",
+   "protein": "p.Arg364Lys",
+   "classification": "likely pathogenic",
+   "variation_id": "1803947",
+   "dbsnp": "rs1847955378",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1091G>A (p.Arg364Lys)"
+  },
+  {
+   "cdna": "c.1092-1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "4081802",
+   "dbsnp": "",
+   "consequence": "splice acceptor variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1092-1G>A"
+  },
+  {
+   "cdna": "c.1092-2A>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "3599942",
+   "dbsnp": "",
+   "consequence": "splice acceptor variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1092-2A>T"
+  },
+  {
+   "cdna": "c.10_11insTTGTGATGCT",
+   "protein": "p.Tyr4fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2679041",
+   "dbsnp": "rs2493798336",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.10_11insTTGTGATGCT (p.Tyr4fs)"
+  },
+  {
+   "cdna": "c.1105T>C",
+   "protein": "p.Tyr369His",
+   "classification": "likely pathogenic",
+   "variation_id": "992700",
+   "dbsnp": "rs1848014133",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1105T>C (p.Tyr369His)"
+  },
+  {
+   "cdna": "c.1112T>C",
+   "protein": "p.Leu371Pro",
+   "classification": "likely pathogenic",
+   "variation_id": "1173971",
+   "dbsnp": "rs2134017039",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1112T>C (p.Leu371Pro)"
+  },
+  {
+   "cdna": "c.1142C>T",
+   "protein": "p.Ser381Phe",
+   "classification": "likely pathogenic",
+   "variation_id": "4814344",
+   "dbsnp": "",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1142C>T (p.Ser381Phe)"
+  },
+  {
+   "cdna": "c.1144C>G",
+   "protein": "p.Leu382Val",
+   "classification": "likely pathogenic",
+   "variation_id": "2103537",
+   "dbsnp": "rs281860666",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1144C>G (p.Leu382Val)"
+  },
+  {
+   "cdna": "c.1152del",
+   "protein": "p.Met384fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1724224",
+   "dbsnp": "rs2493813892",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1152del (p.Met384fs)"
+  },
+  {
+   "cdna": "c.1154A>G",
+   "protein": "p.Asn385Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "2988",
+   "dbsnp": "rs120074123",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1154A>G (p.Asn385Ser)"
+  },
+  {
+   "cdna": "c.1154A>T",
+   "protein": "p.Asn385Ile",
+   "classification": "likely pathogenic",
+   "variation_id": "1918617",
+   "dbsnp": "rs120074123",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1154A>T (p.Asn385Ile)"
+  },
+  {
+   "cdna": "c.1167T>G",
+   "protein": "p.Arg389=",
+   "classification": "likely pathogenic",
+   "variation_id": "1173974",
+   "dbsnp": "rs1162794351",
+   "consequence": "synonymous variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1167T>G (p.Arg389=)"
+  },
+  {
+   "cdna": "c.116del",
+   "protein": "p.Leu39fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4076512",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.116del (p.Leu39fs)"
+  },
+  {
+   "cdna": "c.122_128del",
+   "protein": "p.Leu41fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2679032",
+   "dbsnp": "rs2493799615",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.122_128del (p.Leu41fs)"
+  },
+  {
+   "cdna": "c.1233G>C",
+   "protein": "p.Glu411Asp",
+   "classification": "likely pathogenic",
+   "variation_id": "992702",
+   "dbsnp": "rs34555120",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1233G>C (p.Glu411Asp)"
+  },
+  {
+   "cdna": "c.1263+1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "1484329",
+   "dbsnp": "rs2134018090",
+   "consequence": "splice donor variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1263+1G>A"
+  },
+  {
+   "cdna": "c.1263+1G>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "5004480",
+   "dbsnp": "",
+   "consequence": "splice donor variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1263+1G>C"
+  },
+  {
+   "cdna": "c.1264-1G>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "370394",
+   "dbsnp": "rs1057516454",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1264-1G>T"
+  },
+  {
+   "cdna": "c.1264-2A>G",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "1325108",
+   "dbsnp": "rs774309925",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1264-2A>G"
+  },
+  {
+   "cdna": "c.1264-2A>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "3599944",
+   "dbsnp": "",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1264-2A>T"
+  },
+  {
+   "cdna": "c.1279C>A",
+   "protein": "p.His427Asn",
+   "classification": "likely pathogenic",
+   "variation_id": "1470150",
+   "dbsnp": "rs760930408",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1279C>A (p.His427Asn)"
+  },
+  {
+   "cdna": "c.1279C>T",
+   "protein": "p.His427Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "2131195",
+   "dbsnp": "rs760930408",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1279C>T (p.His427Tyr)"
+  },
+  {
+   "cdna": "c.1280_1286del",
+   "protein": "p.His427fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2679048",
+   "dbsnp": "rs2493816636",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1280_1286del (p.His427fs)"
+  },
+  {
+   "cdna": "c.1286C>T",
+   "protein": "p.Pro429Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "551462",
+   "dbsnp": "rs281860669",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1286C>T (p.Pro429Leu)"
+  },
+  {
+   "cdna": "c.1288C>T",
+   "protein": "p.Pro430Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "1501508",
+   "dbsnp": "rs140688153",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1288C>T (p.Pro430Ser)"
+  },
+  {
+   "cdna": "c.1289C>T",
+   "protein": "p.Pro430Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "2947702",
+   "dbsnp": "rs766945871",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1289C>T (p.Pro430Leu)"
+  },
+  {
+   "cdna": "c.1297T>C",
+   "protein": "p.Cys433Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "813420",
+   "dbsnp": "rs779528546",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1297T>C (p.Cys433Arg)"
+  },
+  {
+   "cdna": "c.1299_1302del",
+   "protein": "p.His432_Cys433insTer",
+   "classification": "likely pathogenic",
+   "variation_id": "371590",
+   "dbsnp": "rs1057517390",
+   "consequence": "nonsense|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1299_1302del (p.His432_Cys433insTer)"
+  },
+  {
+   "cdna": "c.131del",
+   "protein": "p.Ala44fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4814346",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.131del (p.Ala44fs)"
+  },
+  {
+   "cdna": "c.1340+1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "3599946",
+   "dbsnp": "",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1340+1G>A"
+  },
+  {
+   "cdna": "c.1340+2_1340+9del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2950950",
+   "dbsnp": "rs2493817489",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1340+2_1340+9del"
+  },
+  {
+   "cdna": "c.1340G>A",
+   "protein": "p.Arg447Lys",
+   "classification": "likely pathogenic",
+   "variation_id": "1173975",
+   "dbsnp": "rs2134019797",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1340G>A (p.Arg447Lys)"
+  },
+  {
+   "cdna": "c.1341-10_1429dup",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "375244",
+   "dbsnp": "rs1554935254",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1341-10_1429dup"
+  },
+  {
+   "cdna": "c.1341-1G>T",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "371672",
+   "dbsnp": "rs1057516854",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1341-1G>T"
+  },
+  {
+   "cdna": "c.1341-21_1341-18del",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2679039",
+   "dbsnp": "rs1312743513",
+   "consequence": "intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1341-21_1341-18del"
+  },
+  {
+   "cdna": "c.1347_1348delinsATGTAGT",
+   "protein": "p.Asn450fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4994749",
+   "dbsnp": "",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1347_1348delinsATGTAGT (p.Asn450fs)"
+  },
+  {
+   "cdna": "c.1355del",
+   "protein": "p.Leu452fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3599947",
+   "dbsnp": "",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1355del (p.Leu452fs)"
+  },
+  {
+   "cdna": "c.1358C>A",
+   "protein": "p.Ala453Asp",
+   "classification": "likely pathogenic",
+   "variation_id": "2925464",
+   "dbsnp": "rs2493819793",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1358C>A (p.Ala453Asp)"
+  },
+  {
+   "cdna": "c.1361C>A",
+   "protein": "p.Ala454Asp",
+   "classification": "likely pathogenic",
+   "variation_id": "992704",
+   "dbsnp": "rs1402734026",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1361C>A (p.Ala454Asp)"
+  },
+  {
+   "cdna": "c.1373del",
+   "protein": "p.Gly458fs",
+   "classification": "likely pathogenic",
+   "variation_id": "557892",
+   "dbsnp": "rs1554935273",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1373del (p.Gly458fs)"
+  },
+  {
+   "cdna": "c.1375C>T",
+   "protein": "p.His459Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "992705",
+   "dbsnp": "rs1848060631",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1375C>T (p.His459Tyr)"
+  },
+  {
+   "cdna": "c.1376A>G",
+   "protein": "p.His459Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "992706",
+   "dbsnp": "rs1848060729",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1376A>G (p.His459Arg)"
+  },
+  {
+   "cdna": "c.1379del",
+   "protein": "p.Thr460fs",
+   "classification": "likely pathogenic",
+   "variation_id": "557419",
+   "dbsnp": "rs1554935285",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1379del (p.Thr460fs)"
+  },
+  {
+   "cdna": "c.1393T>C",
+   "protein": "p.Phe465Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "1346088",
+   "dbsnp": "rs1258231226",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1393T>C (p.Phe465Leu)"
+  },
+  {
+   "cdna": "c.1395T>A",
+   "protein": "p.Phe465Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "4814348",
+   "dbsnp": "",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1395T>A (p.Phe465Leu)"
+  },
+  {
+   "cdna": "c.1426C>G",
+   "protein": "p.Arg476Gly",
+   "classification": "likely pathogenic",
+   "variation_id": "992708",
+   "dbsnp": "rs182812968",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1426C>G (p.Arg476Gly)"
+  },
+  {
+   "cdna": "c.1429C>A",
+   "protein": "p.Pro477Thr",
+   "classification": "likely pathogenic",
+   "variation_id": "1173976",
+   "dbsnp": "rs2134021440",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1429C>A (p.Pro477Thr)"
+  },
+  {
+   "cdna": "c.1431del",
+   "protein": "p.Leu478fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2679044",
+   "dbsnp": "rs2493820319",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1431del (p.Leu478fs)"
+  },
+  {
+   "cdna": "c.1440del",
+   "protein": "p.Ala481fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4061970",
+   "dbsnp": "",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1440del (p.Ala481fs)"
+  },
+  {
+   "cdna": "c.1457G>A",
+   "protein": "p.Ser486Asn",
+   "classification": "likely pathogenic",
+   "variation_id": "1512256",
+   "dbsnp": "rs2134021618",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1457G>A (p.Ser486Asn)"
+  },
+  {
+   "cdna": "c.1462A>G",
+   "protein": "p.Thr488Ala",
+   "classification": "likely pathogenic",
+   "variation_id": "2577321",
+   "dbsnp": "rs1848064978",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1462A>G (p.Thr488Ala)"
+  },
+  {
+   "cdna": "c.1481A>T",
+   "protein": "p.Asn494Ile",
+   "classification": "likely pathogenic",
+   "variation_id": "2582293",
+   "dbsnp": "rs2493820709",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1481A>T (p.Asn494Ile)"
+  },
+  {
+   "cdna": "c.1482T>A",
+   "protein": "p.Asn494Lys",
+   "classification": "likely pathogenic",
+   "variation_id": "2582294",
+   "dbsnp": "rs2493820717",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1482T>A (p.Asn494Lys)"
+  },
+  {
+   "cdna": "c.1486+5G>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2436206",
+   "dbsnp": "rs1446986999",
+   "consequence": "intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1486+5G>C"
+  },
+  {
+   "cdna": "c.1487-1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "1173986",
+   "dbsnp": "rs2134022652",
+   "consequence": "synonymous variant|non-coding transcript variant|splice acceptor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1487-1G>A"
+  },
+  {
+   "cdna": "c.1491C>G",
+   "protein": "p.Tyr497Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "551123",
+   "dbsnp": "rs1554935439",
+   "consequence": "nonsense|missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1491C>G (p.Tyr497Ter)"
+  },
+  {
+   "cdna": "c.1492C>A",
+   "protein": "p.Arg498Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "2952393",
+   "dbsnp": "rs769904764",
+   "consequence": "missense variant|non-coding transcript variant|synonymous variant",
+   "full_name": "NM_000543.5(SMPD1):c.1492C>A (p.Arg498Ser)"
+  },
+  {
+   "cdna": "c.1493G>C",
+   "protein": "p.Arg498Pro",
+   "classification": "likely pathogenic",
+   "variation_id": "1507898",
+   "dbsnp": "rs120074117",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1493G>C (p.Arg498Pro)"
+  },
+  {
+   "cdna": "c.1497_1498del",
+   "protein": "p.Tyr500fs",
+   "classification": "likely pathogenic",
+   "variation_id": "371347",
+   "dbsnp": "rs1057517200",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1497_1498del (p.Tyr500fs)"
+  },
+  {
+   "cdna": "c.1500C>A",
+   "protein": "p.Tyr500Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "3895521",
+   "dbsnp": "",
+   "consequence": "nonsense|missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1500C>A (p.Tyr500Ter)"
+  },
+  {
+   "cdna": "c.1508A>T",
+   "protein": "p.Asp503Val",
+   "classification": "likely pathogenic",
+   "variation_id": "2573337",
+   "dbsnp": "rs1356136873",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1508A>T (p.Asp503Val)"
+  },
+  {
+   "cdna": "c.1518C>A",
+   "protein": "p.Tyr506Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "1173977",
+   "dbsnp": "rs943924098",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1518C>A (p.Tyr506Ter)"
+  },
+  {
+   "cdna": "c.1543del",
+   "protein": "p.Asp515fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2679042",
+   "dbsnp": "rs2493822223",
+   "consequence": "frameshift variant|non-coding transcript variant|3 prime UTR variant",
+   "full_name": "NM_000543.5(SMPD1):c.1543del (p.Asp515fs)"
+  },
+  {
+   "cdna": "c.1562T>G",
+   "protein": "p.Leu521Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "372512",
+   "dbsnp": "rs1057517826",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1562T>G (p.Leu521Arg)"
+  },
+  {
+   "cdna": "c.156_157del",
+   "protein": "p.Arg53fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2679045",
+   "dbsnp": "rs2493800007",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.156_157del (p.Arg53fs)"
+  },
+  {
+   "cdna": "c.1603T>C",
+   "protein": "p.Trp535Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "557963",
+   "dbsnp": "rs1554935555",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1603T>C (p.Trp535Arg)"
+  },
+  {
+   "cdna": "c.1604G>T",
+   "protein": "p.Trp535Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "4789813",
+   "dbsnp": "",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1604G>T (p.Trp535Leu)"
+  },
+  {
+   "cdna": "c.1616A>G",
+   "protein": "p.Tyr539Cys",
+   "classification": "likely pathogenic",
+   "variation_id": "3749672",
+   "dbsnp": "",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1616A>G (p.Tyr539Cys)"
+  },
+  {
+   "cdna": "c.1627G>T",
+   "protein": "p.Glu543Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "551342",
+   "dbsnp": "rs756031857",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1627G>T (p.Glu543Ter)"
+  },
+  {
+   "cdna": "c.1638del",
+   "protein": "p.Leu547fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1173985",
+   "dbsnp": "rs2134023610",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1638del (p.Leu547fs)"
+  },
+  {
+   "cdna": "c.1644delinsAA",
+   "protein": "p.Asn549fs",
+   "classification": "likely pathogenic",
+   "variation_id": "551076",
+   "dbsnp": "rs1554935600",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1644delinsAA (p.Asn549fs)"
+  },
+  {
+   "cdna": "c.1665G>A",
+   "protein": "p.Trp555Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "551919",
+   "dbsnp": "rs1554935610",
+   "consequence": "nonsense|non-coding transcript variant|3 prime UTR variant",
+   "full_name": "NM_000543.5(SMPD1):c.1665G>A (p.Trp555Ter)"
+  },
+  {
+   "cdna": "c.168G>A",
+   "protein": "p.Trp56Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "370727",
+   "dbsnp": "rs1057516722",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.168G>A (p.Trp56Ter)"
+  },
+  {
+   "cdna": "c.168_169del",
+   "protein": "p.Trp56fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1725349",
+   "dbsnp": "rs2493800139",
+   "consequence": "non-coding transcript variant|frameshift variant|5 prime UTR variant",
+   "full_name": "NM_000543.5(SMPD1):c.168_169del (p.Trp56fs)"
+  },
+  {
+   "cdna": "c.1693G>T",
+   "protein": "p.Asp565Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "2582292",
+   "dbsnp": "rs201127799",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1693G>T (p.Asp565Tyr)"
+  },
+  {
+   "cdna": "c.1706dup",
+   "protein": "p.Gln570fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3599949",
+   "dbsnp": "",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1706dup (p.Gln570fs)"
+  },
+  {
+   "cdna": "c.1716C>G",
+   "protein": "p.Phe572Leu",
+   "classification": "likely pathogenic",
+   "variation_id": "2581711",
+   "dbsnp": "rs2493823426",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1716C>G (p.Phe572Leu)"
+  },
+  {
+   "cdna": "c.1719G>A",
+   "protein": "p.Trp573Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "2679030",
+   "dbsnp": "rs2493823444",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1719G>A (p.Trp573Ter)"
+  },
+  {
+   "cdna": "c.1736G>A",
+   "protein": "p.Gly579Asp",
+   "classification": "likely pathogenic",
+   "variation_id": "2948554",
+   "dbsnp": "rs2493823558",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1736G>A (p.Gly579Asp)"
+  },
+  {
+   "cdna": "c.1736G>T",
+   "protein": "p.Gly579Val",
+   "classification": "likely pathogenic",
+   "variation_id": "3754298",
+   "dbsnp": "",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1736G>T (p.Gly579Val)"
+  },
+  {
+   "cdna": "c.1748C>A",
+   "protein": "p.Ser583Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "371458",
+   "dbsnp": "rs373940701",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1748C>A (p.Ser583Ter)"
+  },
+  {
+   "cdna": "c.1771del",
+   "protein": "p.Arg591fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3240541",
+   "dbsnp": "rs2493823785",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1771del (p.Arg591fs)"
+  },
+  {
+   "cdna": "c.1778_1787del",
+   "protein": "p.Ala593fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4814350",
+   "dbsnp": "",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1778_1787del (p.Ala593fs)"
+  },
+  {
+   "cdna": "c.1783C>G",
+   "protein": "p.Leu595Val",
+   "classification": "likely pathogenic",
+   "variation_id": "1173980",
+   "dbsnp": "rs2134024349",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1783C>G (p.Leu595Val)"
+  },
+  {
+   "cdna": "c.1786T>C",
+   "protein": "p.Cys596Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "992714",
+   "dbsnp": "rs1848099174",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1786T>C (p.Cys596Arg)"
+  },
+  {
+   "cdna": "c.1801G>A",
+   "protein": "p.Ala601Thr",
+   "classification": "likely pathogenic",
+   "variation_id": "555615",
+   "dbsnp": "rs750433951",
+   "consequence": "missense variant|non-coding transcript variant|3 prime UTR variant",
+   "full_name": "NM_000543.5(SMPD1):c.1801G>A (p.Ala601Thr)"
+  },
+  {
+   "cdna": "c.1802C>T",
+   "protein": "p.Ala601Val",
+   "classification": "likely pathogenic",
+   "variation_id": "4535161",
+   "dbsnp": "",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1802C>T (p.Ala601Val)"
+  },
+  {
+   "cdna": "c.1804C>T",
+   "protein": "p.Arg602Cys",
+   "classification": "likely pathogenic",
+   "variation_id": "878168",
+   "dbsnp": "rs763099671",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1804C>T (p.Arg602Cys)"
+  },
+  {
+   "cdna": "c.1804del",
+   "protein": "p.Arg602fs",
+   "classification": "likely pathogenic",
+   "variation_id": "941072",
+   "dbsnp": "rs1848099900",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1804del (p.Arg602fs)"
+  },
+  {
+   "cdna": "c.1821dup",
+   "protein": "p.Leu608fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4814351",
+   "dbsnp": "",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1821dup (p.Leu608fs)"
+  },
+  {
+   "cdna": "c.1864_1877dup",
+   "protein": "p.Pro628fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3599950",
+   "dbsnp": "",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1864_1877dup (p.Pro628fs)"
+  },
+  {
+   "cdna": "c.199C>T",
+   "protein": "p.Gln67Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "371001",
+   "dbsnp": "rs1057516931",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.199C>T (p.Gln67Ter)"
+  },
+  {
+   "cdna": "c.19_26dup",
+   "protein": "p.Gln10fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2679040",
+   "dbsnp": "rs2493798396",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.19_26dup (p.Gln10fs)"
+  },
+  {
+   "cdna": "c.272G>A",
+   "protein": "p.Cys91Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "3754295",
+   "dbsnp": "",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.272G>A (p.Cys91Tyr)"
+  },
+  {
+   "cdna": "c.290T>C",
+   "protein": "p.Leu97Pro",
+   "classification": "likely pathogenic",
+   "variation_id": "992679",
+   "dbsnp": "rs1847878243",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.290T>C (p.Leu97Pro)"
+  },
+  {
+   "cdna": "c.295_296del",
+   "protein": "p.Thr99fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1726811",
+   "dbsnp": "rs2493800895",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.295_296del (p.Thr99fs)"
+  },
+  {
+   "cdna": "c.318+2T>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "552663",
+   "dbsnp": "rs1225462507",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000543.5(SMPD1):c.318+2T>A"
+  },
+  {
+   "cdna": "c.318+2T>C",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "551827",
+   "dbsnp": "rs1225462507",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000543.5(SMPD1):c.318+2T>C"
+  },
+  {
+   "cdna": "c.319-1G>A",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "1347817",
+   "dbsnp": "rs1352986086",
+   "consequence": "splice acceptor variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.319-1G>A"
+  },
+  {
+   "cdna": "c.319-2A>G",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "2071325",
+   "dbsnp": "rs779080655",
+   "consequence": "splice acceptor variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.319-2A>G"
+  },
+  {
+   "cdna": "c.362T>C",
+   "protein": "p.Leu121Pro",
+   "classification": "likely pathogenic",
+   "variation_id": "556008",
+   "dbsnp": "rs1554934109",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.362T>C (p.Leu121Pro)"
+  },
+  {
+   "cdna": "c.390_411del",
+   "protein": "p.Ala131fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2679036",
+   "dbsnp": "rs2493803771",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.390_411del (p.Ala131fs)"
+  },
+  {
+   "cdna": "c.398G>A",
+   "protein": "p.Cys133Tyr",
+   "classification": "likely pathogenic",
+   "variation_id": "5018841",
+   "dbsnp": "",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.398G>A (p.Cys133Tyr)"
+  },
+  {
+   "cdna": "c.419_420del",
+   "protein": "p.Leu139_Phe140insTer",
+   "classification": "likely pathogenic",
+   "variation_id": "371203",
+   "dbsnp": "rs1057517086",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.419_420del (p.Leu139_Phe140insTer)"
+  },
+  {
+   "cdna": "c.421_517del",
+   "protein": "p.Glu141fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4814352",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.421_517del (p.Glu141fs)"
+  },
+  {
+   "cdna": "c.436del",
+   "protein": "p.Glu146fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2679046",
+   "dbsnp": "rs2493804047",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.436del (p.Glu146fs)"
+  },
+  {
+   "cdna": "c.442_446del",
+   "protein": "p.Trp148fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2627412",
+   "dbsnp": "rs2493804110",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.442_446del (p.Trp148fs)"
+  },
+  {
+   "cdna": "c.448_449insTAGGAAGCCGTAAA",
+   "protein": "p.Arg150fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1725829",
+   "dbsnp": "rs2493804143",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.448_449insTAGGAAGCCGTAAA (p.Arg150fs)"
+  },
+  {
+   "cdna": "c.450_453delinsTCTCCTTT",
+   "protein": "p.Ser151fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1724390",
+   "dbsnp": "rs2493804168",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.450_453delinsTCTCCTTT (p.Ser151fs)"
+  },
+  {
+   "cdna": "c.451_452del",
+   "protein": "p.Val152fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1724892",
+   "dbsnp": "rs2493804165",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.451_452del (p.Val152fs)"
+  },
+  {
+   "cdna": "c.464C>G",
+   "protein": "p.Pro155Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "992680",
+   "dbsnp": "rs1369175943",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.464C>G (p.Pro155Arg)"
+  },
+  {
+   "cdna": "c.469G>A",
+   "protein": "p.Glu157Lys",
+   "classification": "likely pathogenic",
+   "variation_id": "1173965",
+   "dbsnp": "rs2134009384",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.469G>A (p.Glu157Lys)"
+  },
+  {
+   "cdna": "c.491G>T",
+   "protein": "p.Gly164Val",
+   "classification": "likely pathogenic",
+   "variation_id": "1511980",
+   "dbsnp": "rs1047531932",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.491G>T (p.Gly164Val)"
+  },
+  {
+   "cdna": "c.496_500delinsT",
+   "protein": "p.Thr166fs",
+   "classification": "likely pathogenic",
+   "variation_id": "5036844",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.496_500delinsT (p.Thr166fs)"
+  },
+  {
+   "cdna": "c.527G>A",
+   "protein": "p.Trp176Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "3599938",
+   "dbsnp": "",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.527G>A (p.Trp176Ter)"
+  },
+  {
+   "cdna": "c.528del",
+   "protein": "p.Ser175_Trp176insTer",
+   "classification": "likely pathogenic",
+   "variation_id": "551113",
+   "dbsnp": "rs1554934210",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.528del (p.Ser175_Trp176insTer)"
+  },
+  {
+   "cdna": "c.533T>A",
+   "protein": "p.Ile178Asn",
+   "classification": "likely pathogenic",
+   "variation_id": "552601",
+   "dbsnp": "rs749780769",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.533T>A (p.Ile178Asn)"
+  },
+  {
+   "cdna": "c.565A>T",
+   "protein": "p.Lys189Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "4814353",
+   "dbsnp": "",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.565A>T (p.Lys189Ter)"
+  },
+  {
+   "cdna": "c.582_583del",
+   "protein": "p.Ala195fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4814354",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.582_583del (p.Ala195fs)"
+  },
+  {
+   "cdna": "c.593C>A",
+   "protein": "p.Ala198Asp",
+   "classification": "likely pathogenic",
+   "variation_id": "3754296",
+   "dbsnp": "",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.593C>A (p.Ala198Asp)"
+  },
+  {
+   "cdna": "c.596_597del",
+   "protein": "p.Pro199fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3240543",
+   "dbsnp": "rs2493805222",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.596_597del (p.Pro199fs)"
+  },
+  {
+   "cdna": "c.610C>A",
+   "protein": "p.Leu204Ile",
+   "classification": "likely pathogenic",
+   "variation_id": "2934182",
+   "dbsnp": "rs1690892137",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.610C>A (p.Leu204Ile)"
+  },
+  {
+   "cdna": "c.611T>A",
+   "protein": "p.Leu204His",
+   "classification": "likely pathogenic",
+   "variation_id": "1479787",
+   "dbsnp": "rs2134010621",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.611T>A (p.Leu204His)"
+  },
+  {
+   "cdna": "c.614_647del",
+   "protein": "p.Phe205fs",
+   "classification": "likely pathogenic",
+   "variation_id": "555833",
+   "dbsnp": "rs1554934309",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.614_647del (p.Phe205fs)"
+  },
+  {
+   "cdna": "c.620C>A",
+   "protein": "p.Thr207Asn",
+   "classification": "likely pathogenic",
+   "variation_id": "992683",
+   "dbsnp": "rs1847921260",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.620C>A (p.Thr207Asn)"
+  },
+  {
+   "cdna": "c.631T>C",
+   "protein": "p.Trp211Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "2136982",
+   "dbsnp": "rs2493805405",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.631T>C (p.Trp211Arg)"
+  },
+  {
+   "cdna": "c.633G>C",
+   "protein": "p.Trp211Cys",
+   "classification": "likely pathogenic",
+   "variation_id": "2953729",
+   "dbsnp": "rs2493805420",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.633G>C (p.Trp211Cys)"
+  },
+  {
+   "cdna": "c.634G>C",
+   "protein": "p.Asp212His",
+   "classification": "likely pathogenic",
+   "variation_id": "992686",
+   "dbsnp": "rs772889728",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.634G>C (p.Asp212His)"
+  },
+  {
+   "cdna": "c.649G>T",
+   "protein": "p.Glu217Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "421981",
+   "dbsnp": "rs1064795484",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.649G>T (p.Glu217Ter)"
+  },
+  {
+   "cdna": "c.667T>G",
+   "protein": "p.Cys223Gly",
+   "classification": "likely pathogenic",
+   "variation_id": "992687",
+   "dbsnp": "rs1847923379",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.667T>G (p.Cys223Gly)"
+  },
+  {
+   "cdna": "c.679C>G",
+   "protein": "p.Leu227Val",
+   "classification": "likely pathogenic",
+   "variation_id": "3065786",
+   "dbsnp": "rs2493805738",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.679C>G (p.Leu227Val)"
+  },
+  {
+   "cdna": "c.682T>G",
+   "protein": "p.Cys228Gly",
+   "classification": "likely pathogenic",
+   "variation_id": "917750",
+   "dbsnp": "rs1564923612",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.682T>G (p.Cys228Gly)"
+  },
+  {
+   "cdna": "c.688C>A",
+   "protein": "p.Arg230Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "2163567",
+   "dbsnp": "rs989639224",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.688C>A (p.Arg230Ser)"
+  },
+  {
+   "cdna": "c.722del",
+   "protein": "p.Pro241fs",
+   "classification": "likely pathogenic",
+   "variation_id": "1725022",
+   "dbsnp": "rs2493806137",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.722del (p.Pro241fs)"
+  },
+  {
+   "cdna": "c.725G>A",
+   "protein": "p.Gly242Asp",
+   "classification": "likely pathogenic",
+   "variation_id": "1173969",
+   "dbsnp": "rs1057435197",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.725G>A (p.Gly242Asp)"
+  },
+  {
+   "cdna": "c.731G>A",
+   "protein": "p.Gly244Glu",
+   "classification": "likely pathogenic",
+   "variation_id": "2931424",
+   "dbsnp": "rs2134011288",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.731G>A (p.Gly244Glu)"
+  },
+  {
+   "cdna": "c.735C>G",
+   "protein": "p.Tyr245Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "3240540",
+   "dbsnp": "rs760865854",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.735C>G (p.Tyr245Ter)"
+  },
+  {
+   "cdna": "c.737G>A",
+   "protein": "p.Trp246Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "3599939",
+   "dbsnp": "",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.737G>A (p.Trp246Ter)"
+  },
+  {
+   "cdna": "c.738G>C",
+   "protein": "p.Trp246Cys",
+   "classification": "likely pathogenic",
+   "variation_id": "3768650",
+   "dbsnp": "",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.738G>C (p.Trp246Cys)"
+  },
+  {
+   "cdna": "c.741_742delinsGC",
+   "protein": "p.Glu248Gln",
+   "classification": "likely pathogenic",
+   "variation_id": "4814356",
+   "dbsnp": "",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.741_742delinsGC (p.Glu248Gln)"
+  },
+  {
+   "cdna": "c.749G>A",
+   "protein": "p.Ser250Asn",
+   "classification": "likely pathogenic",
+   "variation_id": "2939476",
+   "dbsnp": "rs2493806373",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.749G>A (p.Ser250Asn)"
+  },
+  {
+   "cdna": "c.750C>A",
+   "protein": "p.Ser250Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "553926",
+   "dbsnp": "rs1423504237",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.750C>A (p.Ser250Arg)"
+  },
+  {
+   "cdna": "c.754T>C",
+   "protein": "p.Cys252Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "992688",
+   "dbsnp": "rs1847929817",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.754T>C (p.Cys252Arg)"
+  },
+  {
+   "cdna": "c.762del",
+   "protein": "p.Pro255_Leu256insTer",
+   "classification": "likely pathogenic",
+   "variation_id": "3383978",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.762del (p.Pro255_Leu256insTer)"
+  },
+  {
+   "cdna": "c.777_778ins8",
+   "protein": "",
+   "classification": "likely pathogenic",
+   "variation_id": "371528",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NM_000543.4:c.777_778ins8"
+  },
+  {
+   "cdna": "c.778G>T",
+   "protein": "p.Glu260Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "558334",
+   "dbsnp": "rs1554934406",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.778G>T (p.Glu260Ter)"
+  },
+  {
+   "cdna": "c.836del",
+   "protein": "p.Gly279fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4814357",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.836del (p.Gly279fs)"
+  },
+  {
+   "cdna": "c.840C>G",
+   "protein": "p.Asp280Glu",
+   "classification": "likely pathogenic",
+   "variation_id": "1505419",
+   "dbsnp": "rs2134011919",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.840C>G (p.Asp280Glu)"
+  },
+  {
+   "cdna": "c.846del",
+   "protein": "p.Ala283fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3599940",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.846del (p.Ala283fs)"
+  },
+  {
+   "cdna": "c.848C>T",
+   "protein": "p.Ala283Val",
+   "classification": "likely pathogenic",
+   "variation_id": "5004789",
+   "dbsnp": "",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.848C>T (p.Ala283Val)"
+  },
+  {
+   "cdna": "c.851A>G",
+   "protein": "p.His284Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "3234837",
+   "dbsnp": "rs1021086003",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.851A>G (p.His284Arg)"
+  },
+  {
+   "cdna": "c.861G>A",
+   "protein": "p.Trp287Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "4814358",
+   "dbsnp": "",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.861G>A (p.Trp287Ter)"
+  },
+  {
+   "cdna": "c.867del",
+   "protein": "p.Thr290fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2679028",
+   "dbsnp": "rs2493807198",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.867del (p.Thr290fs)"
+  },
+  {
+   "cdna": "c.874C>T",
+   "protein": "p.Gln292Ter",
+   "classification": "likely pathogenic",
+   "variation_id": "3240539",
+   "dbsnp": "rs797044799",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.874C>T (p.Gln292Ter)"
+  },
+  {
+   "cdna": "c.881A>G",
+   "protein": "p.Gln294Arg",
+   "classification": "likely pathogenic",
+   "variation_id": "992691",
+   "dbsnp": "rs1847939431",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.881A>G (p.Gln294Arg)"
+  },
+  {
+   "cdna": "c.894_902del",
+   "protein": "p.Thr300_Thr302del",
+   "classification": "likely pathogenic",
+   "variation_id": "556649",
+   "dbsnp": "rs1554934457",
+   "consequence": "inframe_deletion|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.894_902del (p.Thr300_Thr302del)"
+  },
+  {
+   "cdna": "c.910C>G",
+   "protein": "p.Leu304Val",
+   "classification": "likely pathogenic",
+   "variation_id": "1488811",
+   "dbsnp": "rs2134012389",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.910C>G (p.Leu304Val)"
+  },
+  {
+   "cdna": "c.938_939delinsTGGTGGGCCAGCATGGT",
+   "protein": "p.Pro313delinsLeuValGlyGlnHisGly",
+   "classification": "likely pathogenic",
+   "variation_id": "1173987",
+   "dbsnp": "rs2134012580",
+   "consequence": "inframe_indel|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.938_939delinsTGGTGGGCCAGCATGGT (p.Pro313delinsLeuValGlyGlnHisGly)"
+  },
+  {
+   "cdna": "c.950del",
+   "protein": "p.Ala317fs",
+   "classification": "likely pathogenic",
+   "variation_id": "3240538",
+   "dbsnp": "rs2493807719",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.950del (p.Ala317fs)"
+  },
+  {
+   "cdna": "c.955G>A",
+   "protein": "p.Gly319Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "992693",
+   "dbsnp": "rs757934797",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.955G>A (p.Gly319Ser)"
+  },
+  {
+   "cdna": "c.963del",
+   "protein": "p.His321fs",
+   "classification": "likely pathogenic",
+   "variation_id": "2679037",
+   "dbsnp": "rs2493807887",
+   "consequence": "frameshift variant|initiator_codon_variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.963del (p.His321fs)"
+  },
+  {
+   "cdna": "c.981_982del",
+   "protein": "p.Asn327fs",
+   "classification": "likely pathogenic",
+   "variation_id": "4814359",
+   "dbsnp": "",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.981_982del (p.Asn327fs)"
+  },
+  {
+   "cdna": "c.994C>T",
+   "protein": "p.Pro332Ser",
+   "classification": "likely pathogenic",
+   "variation_id": "2934614",
+   "dbsnp": "rs1327201504",
+   "consequence": "missense variant|synonymous variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.994C>T (p.Pro332Ser)"
+  },
+  {
+   "cdna": "c.994_995delinsG",
+   "protein": "p.Pro332fs",
+   "classification": "likely pathogenic",
+   "variation_id": "371530",
+   "dbsnp": "rs1057517345",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.994_995delinsG (p.Pro332fs)"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "151263",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 11p15.5-15.4(chr11:61793-10727969)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "144515",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 11p15.5-15.1(chr11:446754-18904742)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "4974749",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 11p15.4(chr11:4793595-7562692)x1"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "147641",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh38/hg38 11p15.4(chr11:6261582-6637999)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "2921607",
+   "dbsnp": "rs2493796691",
+   "consequence": "",
+   "full_name": "NC_000011.10:g.6390221_6390884del"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "2503522",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-15.4(chr11:230615-8821443)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "2423273",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "NC_000011.9:g.(?_6404342)_(6413015_?)del"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1807629",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-15.4(chr11:230616-8250724)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1707435",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-14.2(chr11:230615-26881146)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "981209",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-15.4(chr11:210300-8664358)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "815395",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-13(chr11:235934-33826995)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "625559",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-15.3(chr11:193146-12643136)"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "563883",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-15.1(chr11:230615-17099213)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "563880",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-15.4(chr11:230615-9704511)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "441985",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-13(chr11:230615-31995219)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "441904",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-q25(chr11:230616-134938470)"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "441903",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-q25(chr11:230616-134938470)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "441787",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-14.3(chr11:230615-25584362)x3"
+  },
+  {
+   "cdna": "",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "441715",
+   "dbsnp": "",
+   "consequence": "",
+   "full_name": "GRCh37/hg19 11p15.5-12(chr11:230615-37698540)x3"
+  },
+  {
+   "cdna": "c.1011_1012del",
+   "protein": "p.Asn337fs",
+   "classification": "pathogenic",
+   "variation_id": "2943365",
+   "dbsnp": "rs2493808218",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1011_1012del (p.Asn337fs)"
+  },
+  {
+   "cdna": "c.1021del",
+   "protein": "p.Arg341fs",
+   "classification": "pathogenic",
+   "variation_id": "5013233",
+   "dbsnp": "",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1021del (p.Arg341fs)"
+  },
+  {
+   "cdna": "c.1032T>G",
+   "protein": "p.Tyr344Ter",
+   "classification": "pathogenic",
+   "variation_id": "1370114",
+   "dbsnp": "rs2134013121",
+   "consequence": "nonsense|missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1032T>G (p.Tyr344Ter)"
+  },
+  {
+   "cdna": "c.103_107del",
+   "protein": "p.Leu35fs",
+   "classification": "pathogenic",
+   "variation_id": "2013337",
+   "dbsnp": "rs2493799100",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.103_107del (p.Leu35fs)"
+  },
+  {
+   "cdna": "c.1054del",
+   "protein": "p.Glu352fs",
+   "classification": "pathogenic",
+   "variation_id": "992696",
+   "dbsnp": "rs1847952502",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1054del (p.Glu352fs)"
+  },
+  {
+   "cdna": "c.106dup",
+   "protein": "p.Val36fs",
+   "classification": "pathogenic",
+   "variation_id": "813473",
+   "dbsnp": "rs1590735238",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.106dup (p.Val36fs)"
+  },
+  {
+   "cdna": "c.1071_1081del",
+   "protein": "p.Glu358fs",
+   "classification": "pathogenic",
+   "variation_id": "1173983",
+   "dbsnp": "rs2134013240",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1071_1081del (p.Glu358fs)"
+  },
+  {
+   "cdna": "c.1076C>A",
+   "protein": "p.Ala359Asp",
+   "classification": "pathogenic",
+   "variation_id": "203427",
+   "dbsnp": "rs797044800",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1076C>A (p.Ala359Asp)"
+  },
+  {
+   "cdna": "c.1092-1G>C",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "93312",
+   "dbsnp": "rs398123474",
+   "consequence": "splice acceptor variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1092-1G>C"
+  },
+  {
+   "cdna": "c.1101del",
+   "protein": "p.Phe368fs",
+   "classification": "pathogenic",
+   "variation_id": "992699",
+   "dbsnp": "rs1422720020",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1101del (p.Phe368fs)"
+  },
+  {
+   "cdna": "c.1101dup",
+   "protein": "p.Phe368fs",
+   "classification": "pathogenic",
+   "variation_id": "553487",
+   "dbsnp": "rs1422720020",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1101dup (p.Phe368fs)"
+  },
+  {
+   "cdna": "c.1107_1110dup",
+   "protein": "p.Leu371fs",
+   "classification": "pathogenic",
+   "variation_id": "3754612",
+   "dbsnp": "",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1107_1110dup (p.Leu371fs)"
+  },
+  {
+   "cdna": "c.110_116del",
+   "protein": "p.Leu37fs",
+   "classification": "pathogenic",
+   "variation_id": "959328",
+   "dbsnp": "rs1847863441",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.110_116del (p.Leu37fs)"
+  },
+  {
+   "cdna": "c.1111_1112del",
+   "protein": "p.Leu371fs",
+   "classification": "pathogenic",
+   "variation_id": "188853",
+   "dbsnp": "rs786204514",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1111_1112del (p.Leu371fs)"
+  },
+  {
+   "cdna": "c.1122C>G",
+   "protein": "p.Tyr374Ter",
+   "classification": "pathogenic",
+   "variation_id": "857473",
+   "dbsnp": "rs1848015403",
+   "consequence": "nonsense|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1122C>G (p.Tyr374Ter)"
+  },
+  {
+   "cdna": "c.114del",
+   "protein": "p.Leu39fs",
+   "classification": "pathogenic",
+   "variation_id": "285415",
+   "dbsnp": "rs886043098",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.114del (p.Leu39fs)"
+  },
+  {
+   "cdna": "c.1151del",
+   "protein": "p.Met384fs",
+   "classification": "pathogenic",
+   "variation_id": "1173981",
+   "dbsnp": "rs2134017306",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1151del (p.Met384fs)"
+  },
+  {
+   "cdna": "c.1159del",
+   "protein": "p.Cys387fs",
+   "classification": "pathogenic",
+   "variation_id": "5014936",
+   "dbsnp": "",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1159del (p.Cys387fs)"
+  },
+  {
+   "cdna": "c.1165del",
+   "protein": "p.Arg389fs",
+   "classification": "pathogenic",
+   "variation_id": "4814345",
+   "dbsnp": "",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1165del (p.Arg389fs)"
+  },
+  {
+   "cdna": "c.1168G>T",
+   "protein": "p.Glu390Ter",
+   "classification": "pathogenic",
+   "variation_id": "2922349",
+   "dbsnp": "rs1848019149",
+   "consequence": "nonsense|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1168G>T (p.Glu390Ter)"
+  },
+  {
+   "cdna": "c.1177T>G",
+   "protein": "p.Trp393Gly",
+   "classification": "pathogenic",
+   "variation_id": "2991",
+   "dbsnp": "rs120074125",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1177T>G (p.Trp393Gly)"
+  },
+  {
+   "cdna": "c.1179G>A",
+   "protein": "p.Trp393Ter",
+   "classification": "pathogenic",
+   "variation_id": "2942939",
+   "dbsnp": "rs2493814068",
+   "consequence": "nonsense|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1179G>A (p.Trp393Ter)"
+  },
+  {
+   "cdna": "c.1216C>T",
+   "protein": "p.Gln406Ter",
+   "classification": "pathogenic",
+   "variation_id": "1372840",
+   "dbsnp": "rs2134017711",
+   "consequence": "nonsense|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1216C>T (p.Gln406Ter)"
+  },
+  {
+   "cdna": "c.1221G>A",
+   "protein": "p.Trp407Ter",
+   "classification": "pathogenic",
+   "variation_id": "2943442",
+   "dbsnp": "rs2493814324",
+   "consequence": "nonsense|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1221G>A (p.Trp407Ter)"
+  },
+  {
+   "cdna": "c.1222_1225dup",
+   "protein": "p.Val409fs",
+   "classification": "pathogenic",
+   "variation_id": "2952535",
+   "dbsnp": "rs2493814313",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1222_1225dup (p.Val409fs)"
+  },
+  {
+   "cdna": "c.1252C>T",
+   "protein": "p.Arg418Ter",
+   "classification": "pathogenic",
+   "variation_id": "813480",
+   "dbsnp": "rs755160837",
+   "consequence": "nonsense|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1252C>T (p.Arg418Ter)"
+  },
+  {
+   "cdna": "c.1267C>T",
+   "protein": "p.His423Tyr",
+   "classification": "pathogenic",
+   "variation_id": "2992",
+   "dbsnp": "rs120074126",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1267C>T (p.His423Tyr)"
+  },
+  {
+   "cdna": "c.1271_1272del",
+   "protein": "p.Ile424fs",
+   "classification": "pathogenic",
+   "variation_id": "2941494",
+   "dbsnp": "rs2493816545",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1271_1272del (p.Ile424fs)"
+  },
+  {
+   "cdna": "c.1296_1297del",
+   "protein": "p.His432fs",
+   "classification": "pathogenic",
+   "variation_id": "992703",
+   "dbsnp": "rs1848042860",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1296_1297del (p.His432fs)"
+  },
+  {
+   "cdna": "c.1302del",
+   "protein": "p.Lys435fs",
+   "classification": "pathogenic",
+   "variation_id": "4689346",
+   "dbsnp": "",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1302del (p.Lys435fs)"
+  },
+  {
+   "cdna": "c.1304dup",
+   "protein": "p.Ser436fs",
+   "classification": "pathogenic",
+   "variation_id": "2070241",
+   "dbsnp": "rs2493816928",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1304dup (p.Ser436fs)"
+  },
+  {
+   "cdna": "c.1311G>A",
+   "protein": "p.Trp437Ter",
+   "classification": "pathogenic",
+   "variation_id": "837822",
+   "dbsnp": "rs1848043657",
+   "consequence": "nonsense|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1311G>A (p.Trp437Ter)"
+  },
+  {
+   "cdna": "c.1312dup",
+   "protein": "p.Ser438fs",
+   "classification": "pathogenic",
+   "variation_id": "2035263",
+   "dbsnp": "rs2493817033",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1312dup (p.Ser438fs)"
+  },
+  {
+   "cdna": "c.1314C>A",
+   "protein": "p.Ser438Arg",
+   "classification": "pathogenic",
+   "variation_id": "2983",
+   "dbsnp": "rs267607073",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1314C>A (p.Ser438Arg)"
+  },
+  {
+   "cdna": "c.1316G>A",
+   "protein": "p.Trp439Ter",
+   "classification": "pathogenic",
+   "variation_id": "2950238",
+   "dbsnp": "rs2493817085",
+   "consequence": "nonsense|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1316G>A (p.Trp439Ter)"
+  },
+  {
+   "cdna": "c.1327C>T",
+   "protein": "p.Arg443Ter",
+   "classification": "pathogenic",
+   "variation_id": "2993",
+   "dbsnp": "rs120074127",
+   "consequence": "nonsense|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1327C>T (p.Arg443Ter)"
+  },
+  {
+   "cdna": "c.1331T>A",
+   "protein": "p.Ile444Asn",
+   "classification": "pathogenic",
+   "variation_id": "2136990",
+   "dbsnp": "rs1398380898",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1331T>A (p.Ile444Asn)"
+  },
+  {
+   "cdna": "c.1345_1348dup",
+   "protein": "p.Asn450fs",
+   "classification": "pathogenic",
+   "variation_id": "2943718",
+   "dbsnp": "rs2493819657",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1345_1348dup (p.Asn450fs)"
+  },
+  {
+   "cdna": "c.1354dup",
+   "protein": "p.Leu452fs",
+   "classification": "pathogenic",
+   "variation_id": "2022006",
+   "dbsnp": "rs2493819725",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1354dup (p.Leu452fs)"
+  },
+  {
+   "cdna": "c.1380del",
+   "protein": "p.His461fs",
+   "classification": "pathogenic",
+   "variation_id": "969162",
+   "dbsnp": "rs1848061158",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1380del (p.His461fs)"
+  },
+  {
+   "cdna": "c.1382_1383del",
+   "protein": "p.His461fs",
+   "classification": "pathogenic",
+   "variation_id": "813421",
+   "dbsnp": "rs748411156",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1382_1383del (p.His461fs)"
+  },
+  {
+   "cdna": "c.1390G>T",
+   "protein": "p.Glu464Ter",
+   "classification": "pathogenic",
+   "variation_id": "2446428",
+   "dbsnp": "rs2493820064",
+   "consequence": "nonsense|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1390G>T (p.Glu464Ter)"
+  },
+  {
+   "cdna": "c.1420_1421del",
+   "protein": "p.Leu474fs",
+   "classification": "pathogenic",
+   "variation_id": "93314",
+   "dbsnp": "rs398123476",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1420_1421del (p.Leu474fs)"
+  },
+  {
+   "cdna": "c.1445_1448del",
+   "protein": "p.Phe482fs",
+   "classification": "pathogenic",
+   "variation_id": "872295",
+   "dbsnp": "rs1848063769",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1445_1448del (p.Phe482fs)"
+  },
+  {
+   "cdna": "c.1451C>T",
+   "protein": "p.Ala484Val",
+   "classification": "pathogenic",
+   "variation_id": "2136993",
+   "dbsnp": "rs267607075",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1451C>T (p.Ala484Val)"
+  },
+  {
+   "cdna": "c.1458T>G",
+   "protein": "p.Ser486Arg",
+   "classification": "pathogenic",
+   "variation_id": "662004",
+   "dbsnp": "rs281860665",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1458T>G (p.Ser486Arg)"
+  },
+  {
+   "cdna": "c.1486+1G>T",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "2948884",
+   "dbsnp": "rs2493820770",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1486+1G>T"
+  },
+  {
+   "cdna": "c.1487-4_1499del",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "2921430",
+   "dbsnp": "rs2493821808",
+   "consequence": "frameshift variant|non-coding transcript variant|splice acceptor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1487-4_1499del"
+  },
+  {
+   "cdna": "c.1491_1503del",
+   "protein": "p.Gly496_Tyr497insTer",
+   "classification": "pathogenic",
+   "variation_id": "225622",
+   "dbsnp": "rs875989834",
+   "consequence": "nonsense|frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1491_1503del (p.Gly496_Tyr497insTer)"
+  },
+  {
+   "cdna": "c.1493G>T",
+   "protein": "p.Arg498Leu",
+   "classification": "pathogenic",
+   "variation_id": "2980",
+   "dbsnp": "rs120074117",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1493G>T (p.Arg498Leu)"
+  },
+  {
+   "cdna": "c.1498T>A",
+   "protein": "p.Tyr500Asn",
+   "classification": "pathogenic",
+   "variation_id": "225626",
+   "dbsnp": "rs771336819",
+   "consequence": "missense variant|nonsense|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1498T>A (p.Tyr500Asn)"
+  },
+  {
+   "cdna": "c.1522_1523delinsA",
+   "protein": "p.Gly508fs",
+   "classification": "pathogenic",
+   "variation_id": "5004742",
+   "dbsnp": "",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1522_1523delinsA (p.Gly508fs)"
+  },
+  {
+   "cdna": "c.1533del",
+   "protein": "p.His511fs",
+   "classification": "pathogenic",
+   "variation_id": "594223",
+   "dbsnp": "rs1564927308",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1533del (p.His511fs)"
+  },
+  {
+   "cdna": "c.1557C>A",
+   "protein": "p.Tyr519Ter",
+   "classification": "pathogenic",
+   "variation_id": "2092023",
+   "dbsnp": "rs756192072",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1557C>A (p.Tyr519Ter)"
+  },
+  {
+   "cdna": "c.1565A>G",
+   "protein": "p.Asn522Ser",
+   "classification": "pathogenic",
+   "variation_id": "2679033",
+   "dbsnp": "rs2493822373",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1565A>G (p.Asn522Ser)"
+  },
+  {
+   "cdna": "c.156dup",
+   "protein": "p.Arg53fs",
+   "classification": "pathogenic",
+   "variation_id": "2942373",
+   "dbsnp": "rs2493800050",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.156dup (p.Arg53fs)"
+  },
+  {
+   "cdna": "c.1576del",
+   "protein": "p.Ala526fs",
+   "classification": "pathogenic",
+   "variation_id": "1399082",
+   "dbsnp": "rs2134023240",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1576del (p.Ala526fs)"
+  },
+  {
+   "cdna": "c.1589del",
+   "protein": "p.Gly530fs",
+   "classification": "pathogenic",
+   "variation_id": "2037927",
+   "dbsnp": "rs1848086912",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1589del (p.Gly530fs)"
+  },
+  {
+   "cdna": "c.1605G>A",
+   "protein": "p.Trp535Ter",
+   "classification": "pathogenic",
+   "variation_id": "2679043",
+   "dbsnp": "rs2493822633",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1605G>A (p.Trp535Ter)"
+  },
+  {
+   "cdna": "c.1624C>T",
+   "protein": "p.Arg542Ter",
+   "classification": "pathogenic",
+   "variation_id": "93318",
+   "dbsnp": "rs398123478",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1624C>T (p.Arg542Ter)"
+  },
+  {
+   "cdna": "c.1630del",
+   "protein": "p.Thr544fs",
+   "classification": "pathogenic",
+   "variation_id": "592260",
+   "dbsnp": "rs770962157",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1630del (p.Thr544fs)"
+  },
+  {
+   "cdna": "c.1643_1644insA",
+   "protein": "p.Asn549fs",
+   "classification": "pathogenic",
+   "variation_id": "1430049",
+   "dbsnp": "rs2134023663",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1643_1644insA (p.Asn549fs)"
+  },
+  {
+   "cdna": "c.1676T>A",
+   "protein": "p.Val559Glu",
+   "classification": "pathogenic",
+   "variation_id": "2498326",
+   "dbsnp": "rs770561559",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1676T>A (p.Val559Glu)"
+  },
+  {
+   "cdna": "c.1699C>T",
+   "protein": "p.Gln567Ter",
+   "classification": "pathogenic",
+   "variation_id": "1173979",
+   "dbsnp": "rs943865463",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1699C>T (p.Gln567Ter)"
+  },
+  {
+   "cdna": "c.1785_1786del",
+   "protein": "p.Ala597fs",
+   "classification": "pathogenic",
+   "variation_id": "370328",
+   "dbsnp": "rs1057516403",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1785_1786del (p.Ala597fs)"
+  },
+  {
+   "cdna": "c.1788T>A",
+   "protein": "p.Cys596Ter",
+   "classification": "pathogenic",
+   "variation_id": "3338296",
+   "dbsnp": "",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1788T>A (p.Cys596Ter)"
+  },
+  {
+   "cdna": "c.1792C>T",
+   "protein": "p.Gln598Ter",
+   "classification": "pathogenic",
+   "variation_id": "2932778",
+   "dbsnp": "rs2493823963",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1792C>T (p.Gln598Ter)"
+  },
+  {
+   "cdna": "c.1805G>A",
+   "protein": "p.Arg602His",
+   "classification": "pathogenic",
+   "variation_id": "188955",
+   "dbsnp": "rs370129081",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1805G>A (p.Arg602His)"
+  },
+  {
+   "cdna": "c.1817del",
+   "protein": "p.Pro606fs",
+   "classification": "pathogenic",
+   "variation_id": "555870",
+   "dbsnp": "rs1554935746",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1817del (p.Pro606fs)"
+  },
+  {
+   "cdna": "c.1822_1825dup",
+   "protein": "p.Cys609fs",
+   "classification": "pathogenic",
+   "variation_id": "2953308",
+   "dbsnp": "rs2493824186",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1822_1825dup (p.Cys609fs)"
+  },
+  {
+   "cdna": "c.1826GCC[1]",
+   "protein": "p.Arg610del",
+   "classification": "pathogenic",
+   "variation_id": "198093",
+   "dbsnp": "rs120074118",
+   "consequence": "inframe_deletion|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1826GCC[1] (p.Arg610del)"
+  },
+  {
+   "cdna": "c.192_193del",
+   "protein": "p.Gln67fs",
+   "classification": "pathogenic",
+   "variation_id": "5014845",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.192_193del (p.Gln67fs)"
+  },
+  {
+   "cdna": "c.193del",
+   "protein": "p.Ser65fs",
+   "classification": "pathogenic",
+   "variation_id": "371218",
+   "dbsnp": "rs1057517098",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.193del (p.Ser65fs)"
+  },
+  {
+   "cdna": "c.193dup",
+   "protein": "p.Ser65fs",
+   "classification": "pathogenic",
+   "variation_id": "1451535",
+   "dbsnp": "rs1057517098",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.193dup (p.Ser65fs)"
+  },
+  {
+   "cdna": "c.199dup",
+   "protein": "p.Gln67fs",
+   "classification": "pathogenic",
+   "variation_id": "992677",
+   "dbsnp": "rs1847871015",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.199dup (p.Gln67fs)"
+  },
+  {
+   "cdna": "c.203_205delinsAGGGGAGA",
+   "protein": "p.Gly68fs",
+   "classification": "pathogenic",
+   "variation_id": "992678",
+   "dbsnp": "rs1847871996",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.203_205delinsAGGGGAGA (p.Gly68fs)"
+  },
+  {
+   "cdna": "c.208_227del",
+   "protein": "p.Pro70fs",
+   "classification": "pathogenic",
+   "variation_id": "1456733",
+   "dbsnp": "rs2134006350",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.208_227del (p.Pro70fs)"
+  },
+  {
+   "cdna": "c.248del",
+   "protein": "p.Val83fs",
+   "classification": "pathogenic",
+   "variation_id": "2114056",
+   "dbsnp": "rs2493800618",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.248del (p.Val83fs)"
+  },
+  {
+   "cdna": "c.257G>A",
+   "protein": "p.Trp86Ter",
+   "classification": "pathogenic",
+   "variation_id": "1173964",
+   "dbsnp": "rs2134006592",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.257G>A (p.Trp86Ter)"
+  },
+  {
+   "cdna": "c.262_311del",
+   "protein": "p.Asn88fs",
+   "classification": "pathogenic",
+   "variation_id": "3754483",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.262_311del (p.Asn88fs)"
+  },
+  {
+   "cdna": "c.301del",
+   "protein": "p.Ile101fs",
+   "classification": "pathogenic",
+   "variation_id": "2033063",
+   "dbsnp": "rs2493800963",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.301del (p.Ile101fs)"
+  },
+  {
+   "cdna": "c.318+1G>C",
+   "protein": "",
+   "classification": "pathogenic",
+   "variation_id": "1323631",
+   "dbsnp": "rs2134006884",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000543.5(SMPD1):c.318+1G>C"
+  },
+  {
+   "cdna": "c.338dup",
+   "protein": "p.Val114fs",
+   "classification": "pathogenic",
+   "variation_id": "5013334",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.338dup (p.Val114fs)"
+  },
+  {
+   "cdna": "c.358_370dup",
+   "protein": "p.Leu124fs",
+   "classification": "pathogenic",
+   "variation_id": "2925745",
+   "dbsnp": "rs2493803501",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.358_370dup (p.Leu124fs)"
+  },
+  {
+   "cdna": "c.408_421del",
+   "protein": "p.Val137fs",
+   "classification": "pathogenic",
+   "variation_id": "5015028",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.408_421del (p.Val137fs)"
+  },
+  {
+   "cdna": "c.446_450del",
+   "protein": "p.Arg149fs",
+   "classification": "pathogenic",
+   "variation_id": "5011450",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.446_450del (p.Arg149fs)"
+  },
+  {
+   "cdna": "c.477_483dup",
+   "protein": "p.Leu162fs",
+   "classification": "pathogenic",
+   "variation_id": "1452689",
+   "dbsnp": "rs2134009391",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.477_483dup (p.Leu162fs)"
+  },
+  {
+   "cdna": "c.499del",
+   "protein": "p.Cys167fs",
+   "classification": "pathogenic",
+   "variation_id": "992681",
+   "dbsnp": "rs1847910379",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.499del (p.Cys167fs)"
+  },
+  {
+   "cdna": "c.504dup",
+   "protein": "p.His169fs",
+   "classification": "pathogenic",
+   "variation_id": "1173982",
+   "dbsnp": "rs2134009550",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.504dup (p.His169fs)"
+  },
+  {
+   "cdna": "c.509G>A",
+   "protein": "p.Trp170Ter",
+   "classification": "pathogenic",
+   "variation_id": "529233",
+   "dbsnp": "rs1554934193",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.509G>A (p.Trp170Ter)"
+  },
+  {
+   "cdna": "c.521_522insT",
+   "protein": "p.Ser175fs",
+   "classification": "pathogenic",
+   "variation_id": "225621",
+   "dbsnp": "rs875989833",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.521_522insT (p.Ser175fs)"
+  },
+  {
+   "cdna": "c.52G>T",
+   "protein": "p.Glu18Ter",
+   "classification": "pathogenic",
+   "variation_id": "552301",
+   "dbsnp": "rs1428487333",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.52G>T (p.Glu18Ter)"
+  },
+  {
+   "cdna": "c.538_539del",
+   "protein": "p.Leu180fs",
+   "classification": "pathogenic",
+   "variation_id": "189096",
+   "dbsnp": "rs786204694",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.538_539del (p.Leu180fs)"
+  },
+  {
+   "cdna": "c.549delinsTTCTCCTC",
+   "protein": "p.Pro184fs",
+   "classification": "pathogenic",
+   "variation_id": "5011745",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.549delinsTTCTCCTC (p.Pro184fs)"
+  },
+  {
+   "cdna": "c.550_551insGATGTAA",
+   "protein": "p.Pro184fs",
+   "classification": "pathogenic",
+   "variation_id": "5011253",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.550_551insGATGTAA (p.Pro184fs)"
+  },
+  {
+   "cdna": "c.558_559insT",
+   "protein": "p.Pro187fs",
+   "classification": "pathogenic",
+   "variation_id": "195089",
+   "dbsnp": "rs1554934241",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.558_559insT (p.Pro187fs)"
+  },
+  {
+   "cdna": "c.564del",
+   "protein": "p.Lys189fs",
+   "classification": "pathogenic",
+   "variation_id": "496857",
+   "dbsnp": "rs756366019",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.564del (p.Lys189fs)"
+  },
+  {
+   "cdna": "c.565_566insC",
+   "protein": "p.Lys189fs",
+   "classification": "pathogenic",
+   "variation_id": "225623",
+   "dbsnp": "rs875989835",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.565_566insC (p.Lys189fs)"
+  },
+  {
+   "cdna": "c.568_569insTGTCTCTTATACACAT",
+   "protein": "p.Pro190fs",
+   "classification": "pathogenic",
+   "variation_id": "5011461",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.568_569insTGTCTCTTATACACAT (p.Pro190fs)"
+  },
+  {
+   "cdna": "c.572_573insACTGTCTCTTA",
+   "protein": "p.Ser192fs",
+   "classification": "pathogenic",
+   "variation_id": "5011309",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.572_573insACTGTCTCTTA (p.Ser192fs)"
+  },
+  {
+   "cdna": "c.572dup",
+   "protein": "p.Pro191_Ser192insTer",
+   "classification": "pathogenic",
+   "variation_id": "992682",
+   "dbsnp": "rs1590738506",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.572dup (p.Pro191_Ser192insTer)"
+  },
+  {
+   "cdna": "c.573del",
+   "protein": "p.Ser192fs",
+   "classification": "pathogenic",
+   "variation_id": "167710",
+   "dbsnp": "rs727504167",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.573del (p.Ser192fs)"
+  },
+  {
+   "cdna": "c.576_577delinsG",
+   "protein": "p.Ser192fs",
+   "classification": "pathogenic",
+   "variation_id": "5015391",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.576_577delinsG (p.Ser192fs)"
+  },
+  {
+   "cdna": "c.57_60dup",
+   "protein": "p.Gln21fs",
+   "classification": "pathogenic",
+   "variation_id": "992675",
+   "dbsnp": "rs1847857299",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.57_60dup (p.Gln21fs)"
+  },
+  {
+   "cdna": "c.581del",
+   "protein": "p.Pro194fs",
+   "classification": "pathogenic",
+   "variation_id": "371211",
+   "dbsnp": "rs748165078",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.581del (p.Pro194fs)"
+  },
+  {
+   "cdna": "c.581dup",
+   "protein": "p.Ala195fs",
+   "classification": "pathogenic",
+   "variation_id": "553306",
+   "dbsnp": "rs748165078",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.581dup (p.Ala195fs)"
+  },
+  {
+   "cdna": "c.616del",
+   "protein": "p.Leu206fs",
+   "classification": "pathogenic",
+   "variation_id": "5013491",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.616del (p.Leu206fs)"
+  },
+  {
+   "cdna": "c.61C>T",
+   "protein": "p.Gln21Ter",
+   "classification": "pathogenic",
+   "variation_id": "554810",
+   "dbsnp": "rs1554933751",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.61C>T (p.Gln21Ter)"
+  },
+  {
+   "cdna": "c.632G>A",
+   "protein": "p.Trp211Ter",
+   "classification": "pathogenic",
+   "variation_id": "992685",
+   "dbsnp": "rs1847921909",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.632G>A (p.Trp211Ter)"
+  },
+  {
+   "cdna": "c.647T>G",
+   "protein": "p.Leu216Arg",
+   "classification": "pathogenic",
+   "variation_id": "1173967",
+   "dbsnp": "rs1590738910",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.647T>G (p.Leu216Arg)"
+  },
+  {
+   "cdna": "c.656dup",
+   "protein": "p.Asp220fs",
+   "classification": "pathogenic",
+   "variation_id": "5011757",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.656dup (p.Asp220fs)"
+  },
+  {
+   "cdna": "c.668G>A",
+   "protein": "p.Cys223Tyr",
+   "classification": "pathogenic",
+   "variation_id": "1684031",
+   "dbsnp": "rs2134010914",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.668G>A (p.Cys223Tyr)"
+  },
+  {
+   "cdna": "c.669_670del",
+   "protein": "p.Ala224fs",
+   "classification": "pathogenic",
+   "variation_id": "2942619",
+   "dbsnp": "rs2493805665",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.669_670del (p.Ala224fs)"
+  },
+  {
+   "cdna": "c.699_717dup",
+   "protein": "p.Arg240fs",
+   "classification": "pathogenic",
+   "variation_id": "965494",
+   "dbsnp": "rs1847925196",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.699_717dup (p.Arg240fs)"
+  },
+  {
+   "cdna": "c.69del",
+   "protein": "p.Thr24fs",
+   "classification": "pathogenic",
+   "variation_id": "2018848",
+   "dbsnp": "rs2493798730",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.69del (p.Thr24fs)"
+  },
+  {
+   "cdna": "c.730G>T",
+   "protein": "p.Gly244Ter",
+   "classification": "pathogenic",
+   "variation_id": "370798",
+   "dbsnp": "rs120074122",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.730G>T (p.Gly244Ter)"
+  },
+  {
+   "cdna": "c.734_739del",
+   "protein": "p.Tyr245_Gly247delinsCys",
+   "classification": "pathogenic",
+   "variation_id": "3248561",
+   "dbsnp": "rs2493806255",
+   "consequence": "inframe_indel|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.734_739del (p.Tyr245_Gly247delinsCys)"
+  },
+  {
+   "cdna": "c.739G>A",
+   "protein": "p.Gly247Ser",
+   "classification": "pathogenic",
+   "variation_id": "100731",
+   "dbsnp": "rs587779408",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.739G>A (p.Gly247Ser)"
+  },
+  {
+   "cdna": "c.740del",
+   "protein": "p.Gly247fs",
+   "classification": "pathogenic",
+   "variation_id": "2136984",
+   "dbsnp": "rs2493806280",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.740del (p.Gly247fs)"
+  },
+  {
+   "cdna": "c.742G>C",
+   "protein": "p.Glu248Gln",
+   "classification": "pathogenic",
+   "variation_id": "1452305",
+   "dbsnp": "rs200763423",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.742G>C (p.Glu248Gln)"
+  },
+  {
+   "cdna": "c.742G>T",
+   "protein": "p.Glu248Ter",
+   "classification": "pathogenic",
+   "variation_id": "1427800",
+   "dbsnp": "rs200763423",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.742G>T (p.Glu248Ter)"
+  },
+  {
+   "cdna": "c.760dup",
+   "protein": "p.Leu254fs",
+   "classification": "pathogenic",
+   "variation_id": "5011759",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.760dup (p.Leu254fs)"
+  },
+  {
+   "cdna": "c.766_767del",
+   "protein": "p.Leu256fs",
+   "classification": "pathogenic",
+   "variation_id": "2942316",
+   "dbsnp": "rs2493806489",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.766_767del (p.Leu256fs)"
+  },
+  {
+   "cdna": "c.785_807del",
+   "protein": "p.Leu262fs",
+   "classification": "pathogenic",
+   "variation_id": "195086",
+   "dbsnp": "rs794727252",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.785_807del (p.Leu262fs)"
+  },
+  {
+   "cdna": "c.788T>A",
+   "protein": "p.Leu263Ter",
+   "classification": "pathogenic",
+   "variation_id": "2984",
+   "dbsnp": "rs120074120",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.788T>A (p.Leu263Ter)"
+  },
+  {
+   "cdna": "c.795del",
+   "protein": "p.Leu266fs",
+   "classification": "pathogenic",
+   "variation_id": "225620",
+   "dbsnp": "rs875989832",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.795del (p.Leu266fs)"
+  },
+  {
+   "cdna": "c.7del",
+   "protein": "p.Arg3fs",
+   "classification": "pathogenic",
+   "variation_id": "553962",
+   "dbsnp": "rs281860663",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.7del (p.Arg3fs)"
+  },
+  {
+   "cdna": "c.807del",
+   "protein": "p.Gly270fs",
+   "classification": "pathogenic",
+   "variation_id": "2940777",
+   "dbsnp": "rs2493806753",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.807del (p.Gly270fs)"
+  },
+  {
+   "cdna": "c.820del",
+   "protein": "p.Met274fs",
+   "classification": "pathogenic",
+   "variation_id": "1420134",
+   "dbsnp": "rs2134011809",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.820del (p.Met274fs)"
+  },
+  {
+   "cdna": "c.830G>A",
+   "protein": "p.Trp277Ter",
+   "classification": "pathogenic",
+   "variation_id": "2954037",
+   "dbsnp": "rs2493806963",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.830G>A (p.Trp277Ter)"
+  },
+  {
+   "cdna": "c.831G>A",
+   "protein": "p.Trp277Ter",
+   "classification": "pathogenic",
+   "variation_id": "5014910",
+   "dbsnp": "",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.831G>A (p.Trp277Ter)"
+  },
+  {
+   "cdna": "c.839A>C",
+   "protein": "p.Asp280Ala",
+   "classification": "pathogenic",
+   "variation_id": "1076908",
+   "dbsnp": "rs1847935299",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.839A>C (p.Asp280Ala)"
+  },
+  {
+   "cdna": "c.847G>A",
+   "protein": "p.Ala283Thr",
+   "classification": "pathogenic",
+   "variation_id": "813478",
+   "dbsnp": "rs752148586",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.847G>A (p.Ala283Thr)"
+  },
+  {
+   "cdna": "c.84del",
+   "protein": "p.Gly29fs",
+   "classification": "pathogenic",
+   "variation_id": "551367",
+   "dbsnp": "rs750157176",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.84del (p.Gly29fs)"
+  },
+  {
+   "cdna": "c.865dup",
+   "protein": "p.Gln289fs",
+   "classification": "pathogenic",
+   "variation_id": "5011748",
+   "dbsnp": "",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.865dup (p.Gln289fs)"
+  },
+  {
+   "cdna": "c.880C>A",
+   "protein": "p.Gln294Lys",
+   "classification": "pathogenic",
+   "variation_id": "2994",
+   "dbsnp": "rs120074128",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.880C>A (p.Gln294Lys)"
+  },
+  {
+   "cdna": "c.919A>T",
+   "protein": "p.Lys307Ter",
+   "classification": "pathogenic",
+   "variation_id": "2953725",
+   "dbsnp": "rs2493807497",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.919A>T (p.Lys307Ter)"
+  },
+  {
+   "cdna": "c.921del",
+   "protein": "p.Lys307fs",
+   "classification": "pathogenic",
+   "variation_id": "2954153",
+   "dbsnp": "rs2493807508",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.921del (p.Lys307fs)"
+  },
+  {
+   "cdna": "c.933_936delinsGAC",
+   "protein": "p.Val312fs",
+   "classification": "pathogenic",
+   "variation_id": "1173984",
+   "dbsnp": "rs2134012543",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.933_936delinsGAC (p.Val312fs)"
+  },
+  {
+   "cdna": "c.945C>A",
+   "protein": "p.Tyr315Ter",
+   "classification": "pathogenic",
+   "variation_id": "2679038",
+   "dbsnp": "rs1847944988",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.945C>A (p.Tyr315Ter)"
+  },
+  {
+   "cdna": "c.952G>A",
+   "protein": "p.Val318Met",
+   "classification": "pathogenic",
+   "variation_id": "225625",
+   "dbsnp": "rs875989837",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.952G>A (p.Val318Met)"
+  },
+  {
+   "cdna": "c.95G>A",
+   "protein": "p.Trp32Ter",
+   "classification": "pathogenic",
+   "variation_id": "553755",
+   "dbsnp": "rs1554933780",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.95G>A (p.Trp32Ter)"
+  },
+  {
+   "cdna": "c.96G>A",
+   "protein": "p.Trp32Ter",
+   "classification": "pathogenic",
+   "variation_id": "188840",
+   "dbsnp": "rs786204506",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.96G>A (p.Trp32Ter)"
+  },
+  {
+   "cdna": "c.996del",
+   "protein": "p.Phe333fs",
+   "classification": "pathogenic",
+   "variation_id": "2990",
+   "dbsnp": "rs387906289",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.996del (p.Phe333fs)"
+  },
+  {
+   "cdna": "c.996dup",
+   "protein": "p.Phe333fs",
+   "classification": "pathogenic",
+   "variation_id": "992694",
+   "dbsnp": "rs387906289",
+   "consequence": "frameshift variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.996dup (p.Phe333fs)"
+  },
+  {
+   "cdna": "c.1025G>A",
+   "protein": "p.Trp342Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "813479",
+   "dbsnp": "rs1470998208",
+   "consequence": "nonsense|missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1025G>A (p.Trp342Ter)"
+  },
+  {
+   "cdna": "c.1054G>T",
+   "protein": "p.Glu352Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "650777",
+   "dbsnp": "rs201550531",
+   "consequence": "nonsense|synonymous variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1054G>T (p.Glu352Ter)"
+  },
+  {
+   "cdna": "c.1088T>G",
+   "protein": "p.Leu363Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1173970",
+   "dbsnp": "rs2134013368",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1088T>G (p.Leu363Arg)"
+  },
+  {
+   "cdna": "c.1091+1G>A",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "992698",
+   "dbsnp": "rs1847955457",
+   "consequence": "missense variant|synonymous variant|splice donor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1091+1G>A"
+  },
+  {
+   "cdna": "c.1103del",
+   "protein": "p.Phe368fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2679047",
+   "dbsnp": "rs2493813438",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1103del (p.Phe368fs)"
+  },
+  {
+   "cdna": "c.1108dup",
+   "protein": "p.Ala370fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "640937",
+   "dbsnp": "rs1590743683",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1108dup (p.Ala370fs)"
+  },
+  {
+   "cdna": "c.1117C>T",
+   "protein": "p.Pro373Ser",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "496822",
+   "dbsnp": "rs1342372980",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1117C>T (p.Pro373Ser)"
+  },
+  {
+   "cdna": "c.1118del",
+   "protein": "p.Pro373fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1726939",
+   "dbsnp": "rs2493813577",
+   "consequence": "frameshift variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1118del (p.Pro373fs)"
+  },
+  {
+   "cdna": "c.1141T>C",
+   "protein": "p.Ser381Pro",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2136988",
+   "dbsnp": "rs2493813796",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1141T>C (p.Ser381Pro)"
+  },
+  {
+   "cdna": "c.1144C>T",
+   "protein": "p.Leu382Phe",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "966866",
+   "dbsnp": "rs281860666",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1144C>T (p.Leu382Phe)"
+  },
+  {
+   "cdna": "c.1145_1146del",
+   "protein": "p.Leu382fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "370363",
+   "dbsnp": "rs1057516432",
+   "consequence": "non-coding transcript variant|intron variant|frameshift variant",
+   "full_name": "NM_000543.5(SMPD1):c.1145_1146del (p.Leu382fs)"
+  },
+  {
+   "cdna": "c.1148A>G",
+   "protein": "p.Asn383Ser",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1173972",
+   "dbsnp": "rs776442314",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1148A>G (p.Asn383Ser)"
+  },
+  {
+   "cdna": "c.1152G>A",
+   "protein": "p.Met384Ile",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2986",
+   "dbsnp": "rs120074121",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1152G>A (p.Met384Ile)"
+  },
+  {
+   "cdna": "c.1171A>C",
+   "protein": "p.Asn391His",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1173973",
+   "dbsnp": "rs2134017443",
+   "consequence": "missense variant|non-coding transcript variant|intron variant",
+   "full_name": "NM_000543.5(SMPD1):c.1171A>C (p.Asn391His)"
+  },
+  {
+   "cdna": "c.1264-1G>A",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "379505",
+   "dbsnp": "rs1057516454",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1264-1G>A"
+  },
+  {
+   "cdna": "c.1264-1G>C",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "802654",
+   "dbsnp": "rs1057516454",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1264-1G>C"
+  },
+  {
+   "cdna": "c.1268A>G",
+   "protein": "p.His423Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2136989",
+   "dbsnp": "rs767492080",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1268A>G (p.His423Arg)"
+  },
+  {
+   "cdna": "c.1276G>A",
+   "protein": "p.Gly426Ser",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "432163",
+   "dbsnp": "rs1554935136",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1276G>A (p.Gly426Ser)"
+  },
+  {
+   "cdna": "c.1280A>G",
+   "protein": "p.His427Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "569207",
+   "dbsnp": "rs794727629",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1280A>G (p.His427Arg)"
+  },
+  {
+   "cdna": "c.1340+2T>C",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1992992",
+   "dbsnp": "rs1301641750",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1340+2T>C"
+  },
+  {
+   "cdna": "c.1340+2T>G",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1501526",
+   "dbsnp": "rs1301641750",
+   "consequence": "splice donor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1340+2T>G"
+  },
+  {
+   "cdna": "c.1341-1G>A",
+   "protein": "",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "370902",
+   "dbsnp": "rs1057516854",
+   "consequence": "splice acceptor variant",
+   "full_name": "NM_000543.5(SMPD1):c.1341-1G>A"
+  },
+  {
+   "cdna": "c.1343A>G",
+   "protein": "p.Tyr448Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "242451",
+   "dbsnp": "rs747143343",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1343A>G (p.Tyr448Cys)"
+  },
+  {
+   "cdna": "c.1363C>T",
+   "protein": "p.Gln455Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1455924",
+   "dbsnp": "rs2134021058",
+   "consequence": "nonsense|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1363C>T (p.Gln455Ter)"
+  },
+  {
+   "cdna": "c.1394T>C",
+   "protein": "p.Phe465Ser",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "864212",
+   "dbsnp": "rs1319643225",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1394T>C (p.Phe465Ser)"
+  },
+  {
+   "cdna": "c.1406A>C",
+   "protein": "p.Tyr469Ser",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2996",
+   "dbsnp": "rs267607074",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1406A>C (p.Tyr469Ser)"
+  },
+  {
+   "cdna": "c.1406A>G",
+   "protein": "p.Tyr469Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "992707",
+   "dbsnp": "rs267607074",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1406A>G (p.Tyr469Cys)"
+  },
+  {
+   "cdna": "c.1426C>T",
+   "protein": "p.Arg476Trp",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "93315",
+   "dbsnp": "rs182812968",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1426C>T (p.Arg476Trp)"
+  },
+  {
+   "cdna": "c.1430C>T",
+   "protein": "p.Pro477Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "189075",
+   "dbsnp": "rs753508874",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1430C>T (p.Pro477Leu)"
+  },
+  {
+   "cdna": "c.1451C>A",
+   "protein": "p.Ala484Glu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2995",
+   "dbsnp": "rs267607075",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1451C>A (p.Ala484Glu)"
+  },
+  {
+   "cdna": "c.148_151del",
+   "protein": "p.Ser50fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1458477",
+   "dbsnp": "rs281860676",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.148_151del (p.Ser50fs)"
+  },
+  {
+   "cdna": "c.1492C>T",
+   "protein": "p.Arg498Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "198095",
+   "dbsnp": "rs769904764",
+   "consequence": "missense variant|synonymous variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1492C>T (p.Arg498Cys)"
+  },
+  {
+   "cdna": "c.1493G>A",
+   "protein": "p.Arg498His",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "167712",
+   "dbsnp": "rs120074117",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1493G>A (p.Arg498His)"
+  },
+  {
+   "cdna": "c.1498T>C",
+   "protein": "p.Tyr500His",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "557879",
+   "dbsnp": "rs771336819",
+   "consequence": "missense variant|synonymous variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1498T>C (p.Tyr500His)"
+  },
+  {
+   "cdna": "c.1518C>G",
+   "protein": "p.Tyr506Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "370493",
+   "dbsnp": "rs943924098",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1518C>G (p.Tyr506Ter)"
+  },
+  {
+   "cdna": "c.1519_1520del",
+   "protein": "p.Ser507fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2413049",
+   "dbsnp": "rs2493822055",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1519_1520del (p.Ser507fs)"
+  },
+  {
+   "cdna": "c.151_154del",
+   "protein": "p.Asp51fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "371029",
+   "dbsnp": "rs1057516949",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.151_154del (p.Asp51fs)"
+  },
+  {
+   "cdna": "c.1583_1584del",
+   "protein": "p.Ile528fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "944778",
+   "dbsnp": "rs1848086376",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1583_1584del (p.Ile528fs)"
+  },
+  {
+   "cdna": "c.1598C>A",
+   "protein": "p.Pro533Gln",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1173978",
+   "dbsnp": "rs199915216",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1598C>A (p.Pro533Gln)"
+  },
+  {
+   "cdna": "c.1606C>T",
+   "protein": "p.Gln536Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "992712",
+   "dbsnp": "rs1848088118",
+   "consequence": "nonsense|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1606C>T (p.Gln536Ter)"
+  },
+  {
+   "cdna": "c.1657_1663del",
+   "protein": "p.Thr553fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "4814349",
+   "dbsnp": "",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1657_1663del (p.Thr553fs)"
+  },
+  {
+   "cdna": "c.1673T>C",
+   "protein": "p.Leu558Pro",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "225624",
+   "dbsnp": "rs875989836",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1673T>C (p.Leu558Pro)"
+  },
+  {
+   "cdna": "c.1675_1676del",
+   "protein": "p.Val559fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "633426",
+   "dbsnp": "rs759389193",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1675_1676del (p.Val559fs)"
+  },
+  {
+   "cdna": "c.167G>A",
+   "protein": "p.Trp56Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1353540",
+   "dbsnp": "rs2134006149",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.167G>A (p.Trp56Ter)"
+  },
+  {
+   "cdna": "c.1730A>G",
+   "protein": "p.His577Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "550112",
+   "dbsnp": "rs1554935669",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1730A>G (p.His577Arg)"
+  },
+  {
+   "cdna": "c.1735G>A",
+   "protein": "p.Gly579Ser",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2982",
+   "dbsnp": "rs120074119",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1735G>A (p.Gly579Ser)"
+  },
+  {
+   "cdna": "c.175del",
+   "protein": "p.Ala59fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1073151",
+   "dbsnp": "rs2134006179",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.175del (p.Ala59fs)"
+  },
+  {
+   "cdna": "c.1783_1784del",
+   "protein": "p.Ala597fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "556898",
+   "dbsnp": "rs1437508852",
+   "consequence": "frameshift variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1783_1784del (p.Ala597fs)"
+  },
+  {
+   "cdna": "c.1805G>C",
+   "protein": "p.Arg602Pro",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "3347672",
+   "dbsnp": "",
+   "consequence": "missense variant|3 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.1805G>C (p.Arg602Pro)"
+  },
+  {
+   "cdna": "c.241C>T",
+   "protein": "p.Arg81Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "370753",
+   "dbsnp": "rs868423827",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.241C>T (p.Arg81Ter)"
+  },
+  {
+   "cdna": "c.28C>T",
+   "protein": "p.Gln10Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "550117",
+   "dbsnp": "rs1205990349",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.28C>T (p.Gln10Ter)"
+  },
+  {
+   "cdna": "c.314T>C",
+   "protein": "p.Leu105Pro",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "556092",
+   "dbsnp": "rs751269562",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.314T>C (p.Leu105Pro)"
+  },
+  {
+   "cdna": "c.354del",
+   "protein": "p.Ile119fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "167708",
+   "dbsnp": "rs727504165",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.354del (p.Ile119fs)"
+  },
+  {
+   "cdna": "c.39del",
+   "protein": "p.Arg14fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1460100",
+   "dbsnp": "rs2134004594",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.39del (p.Arg14fs)"
+  },
+  {
+   "cdna": "c.416T>C",
+   "protein": "p.Leu139Pro",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "203424",
+   "dbsnp": "rs797044797",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.416T>C (p.Leu139Pro)"
+  },
+  {
+   "cdna": "c.43del",
+   "protein": "p.Ser15fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1386053",
+   "dbsnp": "rs2134004628",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.43del (p.Ser15fs)"
+  },
+  {
+   "cdna": "c.475T>C",
+   "protein": "p.Cys159Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "167709",
+   "dbsnp": "rs727504166",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.475T>C (p.Cys159Arg)"
+  },
+  {
+   "cdna": "c.488T>C",
+   "protein": "p.Leu163Pro",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "553935",
+   "dbsnp": "rs780134410",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.488T>C (p.Leu163Pro)"
+  },
+  {
+   "cdna": "c.502G>A",
+   "protein": "p.Gly168Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "982662",
+   "dbsnp": "rs1847910654",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.502G>A (p.Gly168Arg)"
+  },
+  {
+   "cdna": "c.505dup",
+   "protein": "p.His169fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "813475",
+   "dbsnp": "rs781535659",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.505dup (p.His169fs)"
+  },
+  {
+   "cdna": "c.518dup",
+   "protein": "p.Ser174fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "189153",
+   "dbsnp": "rs786204733",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.518dup (p.Ser174fs)"
+  },
+  {
+   "cdna": "c.528G>A",
+   "protein": "p.Trp176Ter",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "552566",
+   "dbsnp": "rs1554934212",
+   "consequence": "nonsense|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.528G>A (p.Trp176Ter)"
+  },
+  {
+   "cdna": "c.557C>T",
+   "protein": "p.Pro186Leu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "371341",
+   "dbsnp": "rs1057517195",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.557C>T (p.Pro186Leu)"
+  },
+  {
+   "cdna": "c.564dup",
+   "protein": "p.Lys189fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "632992",
+   "dbsnp": "rs756366019",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.564dup (p.Lys189fs)"
+  },
+  {
+   "cdna": "c.56del",
+   "protein": "p.Gln19fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "558404",
+   "dbsnp": "rs1554933746",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.56del (p.Gln19fs)"
+  },
+  {
+   "cdna": "c.572del",
+   "protein": "p.Pro191fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1453617",
+   "dbsnp": "rs1590738506",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.572del (p.Pro191fs)"
+  },
+  {
+   "cdna": "c.580_587dup",
+   "protein": "p.Gly197fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1459672",
+   "dbsnp": "rs2134010245",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.580_587dup (p.Gly197fs)"
+  },
+  {
+   "cdna": "c.597del",
+   "protein": "p.Val200fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2679035",
+   "dbsnp": "rs2493805239",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.597del (p.Val200fs)"
+  },
+  {
+   "cdna": "c.625del",
+   "protein": "p.Leu209fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "992684",
+   "dbsnp": "rs1847921591",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.625del (p.Leu209fs)"
+  },
+  {
+   "cdna": "c.647del",
+   "protein": "p.Leu216fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1878550",
+   "dbsnp": "rs2493805504",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.647del (p.Leu216fs)"
+  },
+  {
+   "cdna": "c.668G>C",
+   "protein": "p.Cys223Ser",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "1173968",
+   "dbsnp": "rs2134010914",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.668G>C (p.Cys223Ser)"
+  },
+  {
+   "cdna": "c.680T>C",
+   "protein": "p.Leu227Pro",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "553073",
+   "dbsnp": "rs764317969",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.680T>C (p.Leu227Pro)"
+  },
+  {
+   "cdna": "c.682T>C",
+   "protein": "p.Cys228Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "631662",
+   "dbsnp": "rs1564923612",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.682T>C (p.Cys228Arg)"
+  },
+  {
+   "cdna": "c.688C>T",
+   "protein": "p.Arg230Cys",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "370432",
+   "dbsnp": "rs989639224",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.688C>T (p.Arg230Cys)"
+  },
+  {
+   "cdna": "c.730G>A",
+   "protein": "p.Gly244Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2987",
+   "dbsnp": "rs120074122",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.730G>A (p.Gly244Arg)"
+  },
+  {
+   "cdna": "c.740G>A",
+   "protein": "p.Gly247Asp",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "813476",
+   "dbsnp": "rs1590739350",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.740G>A (p.Gly247Asp)"
+  },
+  {
+   "cdna": "c.748A>C",
+   "protein": "p.Ser250Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "371576",
+   "dbsnp": "rs750779804",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.748A>C (p.Ser250Arg)"
+  },
+  {
+   "cdna": "c.757G>C",
+   "protein": "p.Asp253His",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "93320",
+   "dbsnp": "rs398123479",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.757G>C (p.Asp253His)"
+  },
+  {
+   "cdna": "c.759C>A",
+   "protein": "p.Asp253Glu",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "997803",
+   "dbsnp": "rs752000778",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.759C>A (p.Asp253Glu)"
+  },
+  {
+   "cdna": "c.766dup",
+   "protein": "p.Leu256fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "813477",
+   "dbsnp": "rs1018556947",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.766dup (p.Leu256fs)"
+  },
+  {
+   "cdna": "c.842_849dup",
+   "protein": "p.His284fs",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "93321",
+   "dbsnp": "rs281860677",
+   "consequence": "frameshift variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.842_849dup (p.His284fs)"
+  },
+  {
+   "cdna": "c.911T>C",
+   "protein": "p.Leu304Pro",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "2989",
+   "dbsnp": "rs120074124",
+   "consequence": "",
+   "full_name": "NM_000543.5(SMPD1):c.911T>C (p.Leu304Pro)"
+  },
+  {
+   "cdna": "c.940G>A",
+   "protein": "p.Val314Met",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "556090",
+   "dbsnp": "rs1228068212",
+   "consequence": "non-coding transcript variant|missense variant|5 prime UTR variant",
+   "full_name": "NM_000543.5(SMPD1):c.940G>A (p.Val314Met)"
+  },
+  {
+   "cdna": "c.955G>C",
+   "protein": "p.Gly319Arg",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "555444",
+   "dbsnp": "rs757934797",
+   "consequence": "missense variant|5 prime UTR variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.955G>C (p.Gly319Arg)"
+  },
+  {
+   "cdna": "c.973C>G",
+   "protein": "p.Pro325Ala",
+   "classification": "pathogenic/likely pathogenic",
+   "variation_id": "633427",
+   "dbsnp": "rs761308217",
+   "consequence": "missense variant|non-coding transcript variant",
+   "full_name": "NM_000543.5(SMPD1):c.973C>G (p.Pro325Ala)"
+  }
+ ]
+}

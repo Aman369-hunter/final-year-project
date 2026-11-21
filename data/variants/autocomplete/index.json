@@ -1,0 +1,45 @@
+{
+  "source": "ClinVar pathogenic + likely pathogenic, retrieved 2026-11-15",
+  "genes": {
+    "GBA1": {
+      "disease": "gaucher",
+      "count": 367,
+      "file": "autocomplete/GBA1.json"
+    },
+    "GAA": {
+      "disease": "pompe",
+      "count": 892,
+      "file": "autocomplete/GAA.json"
+    },
+    "IDUA": {
+      "disease": "mps1",
+      "count": 482,
+      "file": "autocomplete/IDUA.json"
+    },
+    "NPC1": {
+      "disease": "niemann_pick_c",
+      "count": 686,
+      "file": "autocomplete/NPC1.json"
+    },
+    "GALC": {
+      "disease": "krabbe",
+      "count": 383,
+      "file": "autocomplete/GALC.json"
+    },
+    "NPC2": {
+      "disease": "niemann_pick_c",
+      "count": 63,
+      "file": "autocomplete/NPC2.json"
+    },
+    "SMPD1": {
+      "disease": "niemann_pick_ab",
+      "count": 403,
+      "file": "autocomplete/SMPD1.json"
+    },
+    "GLA": {
+      "disease": "fabry",
+      "count": 1180,
+      "file": "autocomplete/GLA.json"
+    }
+  }
+}

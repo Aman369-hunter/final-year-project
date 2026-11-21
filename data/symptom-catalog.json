@@ -1,0 +1,264 @@
+{
+  "version": "2026-11-15",
+  "groups": [
+    {
+      "system": "Tummy, liver and spleen",
+      "icon": "stomach",
+      "symptoms": [
+        {
+          "hpo_id": "HP:0001744",
+          "label": "Swelling or fullness on the left side of the tummy",
+          "hint": "This can be an enlarged spleen."
+        },
+        {
+          "hpo_id": "HP:0002240",
+          "label": "Swelling or fullness on the right side of the tummy",
+          "hint": "This can be an enlarged liver."
+        },
+        {
+          "hpo_id": "HP:0002027",
+          "label": "Tummy pain",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0002039",
+          "label": "Poor appetite",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0002024",
+          "label": "Frequent diarrhoea or trouble absorbing food",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0000952",
+          "label": "Yellowing of the skin or the whites of the eyes",
+          "hint": "Also called jaundice."
+        }
+      ]
+    },
+    {
+      "system": "Blood, bruising and bleeding",
+      "icon": "blood",
+      "symptoms": [
+        {
+          "hpo_id": "HP:0001903",
+          "label": "Looking pale and tired",
+          "hint": "A sign of low blood count (anaemia)."
+        },
+        {
+          "hpo_id": "HP:0000790",
+          "label": "Blood in the urine",
+          "hint": null
+        }
+      ]
+    },
+    {
+      "system": "Bones, joints and growth",
+      "icon": "bone",
+      "symptoms": [
+        {
+          "hpo_id": "HP:0002653",
+          "label": "Bone pain",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0002829",
+          "label": "Joint pain",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0001387",
+          "label": "Stiff joints or trouble straightening the fingers",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0002659",
+          "label": "Breaking bones easily",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0004322",
+          "label": "Shorter than others of the same age",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0001510",
+          "label": "Slow growth or not gaining weight as expected",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0002650",
+          "label": "Curved spine",
+          "hint": null
+        }
+      ]
+    },
+    {
+      "system": "Heart and breathing",
+      "icon": "heart",
+      "symptoms": [
+        {
+          "hpo_id": "HP:0002094",
+          "label": "Shortness of breath",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0001635",
+          "label": "Breathlessness with swollen legs or ankles",
+          "hint": "A sign the heart is working harder than usual."
+        }
+      ]
+    },
+    {
+      "system": "Muscles, energy and movement",
+      "icon": "muscle",
+      "symptoms": [
+        {
+          "hpo_id": "HP:0012378",
+          "label": "Tiredness or low energy",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0001324",
+          "label": "Muscle weakness",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0003326",
+          "label": "Muscle aches",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0008947",
+          "label": "Baby feels floppy or has low muscle tone",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0001288",
+          "label": "Difficulty walking",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0001251",
+          "label": "Unsteady walking or poor balance",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0001257",
+          "label": "Stiff, tight muscles",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0001332",
+          "label": "Twisting movements or unusual postures",
+          "hint": null
+        }
+      ]
+    },
+    {
+      "system": "Brain, nerves and development",
+      "icon": "brain",
+      "symptoms": [
+        {
+          "hpo_id": "HP:0001263",
+          "label": "Delayed milestones such as sitting, walking or talking",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0001268",
+          "label": "Losing skills that were already learned",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0000737",
+          "label": "Unusual irritability",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0009830",
+          "label": "Burning or tingling pain in the hands and feet",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0000708",
+          "label": "Changes in behaviour",
+          "hint": null
+        }
+      ]
+    },
+    {
+      "system": "Swallowing and feeding",
+      "icon": "spoon",
+      "symptoms": [
+        {
+          "hpo_id": "HP:0002015",
+          "label": "Trouble swallowing",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0011968",
+          "label": "Feeding difficulties",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0001508",
+          "label": "Not growing or gaining weight (failure to thrive)",
+          "hint": null
+        }
+      ]
+    },
+    {
+      "system": "Eyes, ears and face",
+      "icon": "eye",
+      "symptoms": [
+        {
+          "hpo_id": "HP:0000365",
+          "label": "Hearing loss",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0000505",
+          "label": "Vision problems",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0000511",
+          "label": "Difficulty moving the eyes up and down",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0007957",
+          "label": "Cloudiness of the front of the eye (cornea)",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0000280",
+          "label": "Coarse or heavy facial features",
+          "hint": null
+        },
+        {
+          "hpo_id": "HP:0000158",
+          "label": "Enlarged tongue",
+          "hint": null
+        }
+      ]
+    },
+    {
+      "system": "Skin and sweating",
+      "icon": "skin",
+      "symptoms": [
+        {
+          "hpo_id": "HP:0001014",
+          "label": "Clusters of small dark-red spots on the skin",
+          "hint": "Often around the lower tummy, hips or thighs (angiokeratoma)."
+        },
+        {
+          "hpo_id": "HP:0000966",
+          "label": "Sweating little or not at all",
+          "hint": null
+        }
+      ]
+    }
+  ]
+}
